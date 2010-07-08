@@ -1,0 +1,1 @@
+git git://github.com/dmitryvk/cl-gtk2.git

@@ -1,0 +1,2 @@
+git git://cyrusharmon.org/pub/git/ch-image.git
+

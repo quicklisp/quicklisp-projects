@@ -1,0 +1,1 @@
+http http://ftp.linux.org.uk/pub/lisp/experimental/cclan/split-sequence.tar.gz

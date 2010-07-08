@@ -1,0 +1,8 @@
+# When looking for system files in build directories, ignore any that
+# have substrings from this file.
+
+/_darcs/
+/debian/
+{APPNAME}
+/unused/
+/test/

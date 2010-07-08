@@ -1,0 +1,7 @@
+quicklisp-projects has metadata for Common Lisp projects tracked by
+Quicklisp. Each subdirectory is named after a project, and a project's
+subdirectory has a source.txt file describing how to get the project's
+files. Other metadata files will be added in the future.
+
+The qlc-meta directory is special, and has files related to creating
+and updating Quicklisp data.

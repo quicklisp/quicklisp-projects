@@ -1,0 +1,1 @@
+cvs :pserver:anonymous:anonymous@common-lisp.net:/project/imago/cvsroot

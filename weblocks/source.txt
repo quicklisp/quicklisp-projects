@@ -1,0 +1,1 @@
+mercurial http://bitbucket.org/skypher/weblocks-stable

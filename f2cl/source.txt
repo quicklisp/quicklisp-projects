@@ -1,0 +1,1 @@
+cvs :pserver:anonymous@project.cvs.sourceforge.net:/cvsroot/clocc

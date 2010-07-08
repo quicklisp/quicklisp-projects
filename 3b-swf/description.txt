@@ -1,0 +1,1 @@
+SWF (Flash) file manipulation library

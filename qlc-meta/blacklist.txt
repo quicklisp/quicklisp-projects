@@ -1,0 +1,14 @@
+# Entries in this file correspond to systems that are ignored by the
+# index system. For example, prefer the real UFFI to CFFI's UFFI -
+# some things just don't compile with it.
+
+cffi uffi
+lispbuilder trivial-garbage
+
+# Bundled thirdparty stuff
+teepeedee2 alexandria
+teepeedee2 alexandria-tests
+teepeedee2 cl-cont
+teepeedee2 cl-cont-test
+teepeedee2 trivial-garbage
+

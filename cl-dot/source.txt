@@ -1,0 +1,1 @@
+http http://www.foldr.org/~michaelw/projects/cl-dot/cl-dot.tar.gz

@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/mcclim/cl-jpeg.tar.gz

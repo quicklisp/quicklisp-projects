@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/cl-xmpp/cl-xmpp_latest.tar.gz

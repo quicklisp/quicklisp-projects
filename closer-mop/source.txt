@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/closer/ftp/closer-mop_latest.tar.gz
