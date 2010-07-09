@@ -1,1 +1,2 @@
 command-line interface parser
+cl-cli-parser is a simple get-opt-like parser for common lisp.

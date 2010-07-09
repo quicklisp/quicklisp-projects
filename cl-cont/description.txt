@@ -1,1 +1,2 @@
 delimited continuations library
+A library that implements continuations by transforming Common Lisp code to continuation passing style.
