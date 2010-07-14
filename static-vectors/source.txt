@@ -1,0 +1,1 @@
+git git://gitorious.org/iolib/static-vectors.git
