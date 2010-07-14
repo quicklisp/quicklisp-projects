@@ -1,0 +1,1 @@
+git http://git.boinkor.net/git/cxml-rpc.git/
