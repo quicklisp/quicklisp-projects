@@ -1,1 +1,1 @@
-git://github.com/akapav/js.git
+git git://github.com/akapav/js.git
