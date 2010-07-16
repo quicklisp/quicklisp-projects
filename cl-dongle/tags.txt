@@ -1,0 +1,7 @@
+drm
+dongle
+sg-lock
+copy-protection
+lispworks-only
+encryption
+signing

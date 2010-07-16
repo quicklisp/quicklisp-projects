@@ -1,1 +1,3 @@
-GD bindings
+GD Graphics library bindings
+CL-GD is a library for Common Lisp which provides an interface to the GD Graphics Library for the dynamic creation of images.
+

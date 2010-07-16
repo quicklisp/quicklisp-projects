@@ -1,1 +1,2 @@
 GraphViz dotfile generator
+CL-DOT is a small package for easily generating Dot (a program in the GraphViz suite) output from arbitrary Lisp data.
