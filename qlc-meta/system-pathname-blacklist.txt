@@ -6,3 +6,8 @@
 {APPNAME}
 /unused/
 /test/
+
+# From common-lisp-stat
+/external/cffi.darcs/
+/external/lift.darcs/
+
