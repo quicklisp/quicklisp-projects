@@ -12,3 +12,12 @@ teepeedee2 cl-cont
 teepeedee2 cl-cont-test
 teepeedee2 trivial-garbage
 
+# rfc2109 plays some tricks with reader conditionals and package
+# use. Don't bother with its test system.
+
+rfc2109 rfc2109.test
+
+# Portableaserve bundles a bunch of thirdparty libraries
+portableaserve cl-ppcre
+portableaserve cl-ppcre-test
+portableaserve puri
