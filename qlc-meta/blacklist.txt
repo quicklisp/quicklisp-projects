@@ -21,3 +21,6 @@ rfc2109 rfc2109.test
 portableaserve cl-ppcre
 portableaserve cl-ppcre-test
 portableaserve puri
+
+# More bundled stuff
+qooxlisp cl-json
