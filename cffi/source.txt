@@ -1,1 +1,2 @@
-clnet-darcs cffi
+git git://common-lisp.net/projects/cffi/cffi.git
+
