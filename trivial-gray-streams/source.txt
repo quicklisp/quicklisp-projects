@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/cl-plus-ssl/download/trivial-gray-streams.tar.gz
+cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-plus-ssl/cvsroot
+

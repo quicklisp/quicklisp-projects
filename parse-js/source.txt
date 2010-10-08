@@ -1,2 +1,3 @@
-http http://marijn.haverbeke.nl/parse-js/parse-js.tgz
+git http://marijn.haverbeke.nl/git/parse-js
+
 

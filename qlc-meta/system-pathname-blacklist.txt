@@ -11,3 +11,4 @@
 /external/cffi.darcs/
 /external/lift.darcs/
 
+/systems/femlisp.asd

@@ -1,2 +1,3 @@
-git git://common-lisp.net/projects/cffi/cffi.git
+http http://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
+
 

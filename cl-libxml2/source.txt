@@ -1,0 +1,1 @@
+http-bz2 http://cl-libxml2.googlecode.com/files/cl-libxml2-latest.tar.bz2

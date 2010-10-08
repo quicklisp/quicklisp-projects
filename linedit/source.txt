@@ -1,0 +1,4 @@
+cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/linedit/cvsroot src
+
+
+

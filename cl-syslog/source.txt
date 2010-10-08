@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/cl-syslog/cl-syslog_latest.tar.gz

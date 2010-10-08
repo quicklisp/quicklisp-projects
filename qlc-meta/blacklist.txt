@@ -24,3 +24,9 @@ portableaserve puri
 
 # More bundled stuff
 qooxlisp cl-json
+
+common-lisp-stat ch-util-test
+common-lisp-stat ch-util
+
+folio fset
+folio misc-extensions
