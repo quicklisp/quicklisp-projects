@@ -1,1 +1,1 @@
-darcs http://marijn.haverbeke.nl/st-json
+git git://github.com/marijnh/ST-JSON.git

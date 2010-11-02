@@ -1,3 +1,2 @@
-git http://marijn.haverbeke.nl/git/parse-js
-
+git git://github.com/marijnh/parse-js.git
 

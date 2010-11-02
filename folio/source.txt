@@ -1,2 +1,2 @@
-git git://codebasehq.com/bywicket/xg/folio.git
+git git://codebasehq.com/bywicket/bard/folio.git
 

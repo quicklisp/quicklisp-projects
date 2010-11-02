@@ -1,0 +1,1 @@
+svn svn://common-lisp.net/project/clfswm/svn/clfswm/

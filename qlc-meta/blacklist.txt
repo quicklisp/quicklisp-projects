@@ -30,3 +30,5 @@ common-lisp-stat ch-util
 
 folio fset
 folio misc-extensions
+
+gbbopen portable-threads

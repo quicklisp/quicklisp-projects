@@ -1,4 +1,3 @@
-cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/linedit/cvsroot src
-
+git git://common-lisp.net/projects/linedit/linedit.git
 
 

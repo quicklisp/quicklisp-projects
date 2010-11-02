@@ -1,1 +1,2 @@
-svn svn://bknr.net/svn/trunk/libraries/yason/
+git git://github.com/hanshuebner/yason.git
+
