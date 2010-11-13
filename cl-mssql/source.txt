@@ -1,0 +1,1 @@
+http-bz2 http://cl-mssql.googlecode.com/files/cl-mssql-0.0.2.tar.bz2
