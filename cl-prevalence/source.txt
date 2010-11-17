@@ -1,1 +1,1 @@
-http http://bitbucket.org/skypher/cl-prevalence/get/3.5.gz
+mercurial http://bitbucket.org/skypher/cl-prevalence
