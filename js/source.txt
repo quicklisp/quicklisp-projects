@@ -1,1 +1,1 @@
-tagged-git git://github.com/akapav/js.git v0.10.11
+tagged-git git://github.com/akapav/js.git v0.10.12

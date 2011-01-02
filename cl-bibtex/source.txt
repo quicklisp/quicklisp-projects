@@ -1,0 +1,1 @@
+cvs :pserver:anonymous:anonymous@cvs.sv.gnu.org:/sources/cl-bibtex

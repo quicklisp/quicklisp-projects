@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-store/files/cl-store-latest.tgz
+darcs http://common-lisp.net/project/cl-store/darcs/cl-store/

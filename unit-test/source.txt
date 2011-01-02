@@ -1,1 +1,1 @@
-svn svn://bknr.net/svn/trunk/thirdparty/unit-test
+http http://iweb.dl.sourceforge.net/project/cl-unit-test/cl-unit-test_0.7.tgz

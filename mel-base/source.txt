@@ -1,2 +1,2 @@
-darcs http://www.crispylogics.com/opensource/repos/mel-base/
+git http://pmeta.net/projects/mel-base/mel-base.git
 

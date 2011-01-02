@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/cl-memcached/cl-memcached-latest.tar.gz
