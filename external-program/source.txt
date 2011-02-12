@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/external-program/releases/external-program_latest.tar.gz
+git git://github.com/sellout/external-program.git

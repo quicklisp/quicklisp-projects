@@ -1,1 +1,1 @@
-git git://git.b9.com/cl-base64.git
+kmr-git cl-base64

@@ -1,1 +1,1 @@
-cvs :pserver:anonymous@series.cvs.sourceforge.net:/cvsroot/series
+git git://series.git.sourceforge.net/gitroot/series/series

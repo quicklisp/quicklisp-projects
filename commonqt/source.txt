@@ -1,1 +1,1 @@
-git git://github.com/stassats/commonqt
+git git://gitorious.org/commonqt/commonqt.git

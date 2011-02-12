@@ -1,1 +1,1 @@
-http http://www.students.itu.edu.tr/~yazicivo/files/bk-tree.tar.gz
+git git://github.com/vy/bk-tree.git

@@ -1,1 +1,1 @@
-http http://nst.maraist.org/download/nst-3.0.0.tar.gz
+http http://nst.maraist.org/download/nst-latest.tar.gz

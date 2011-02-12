@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/clonsigna/files/clonsigna-0.1.0.tar.gz
+git git://common-lisp.net/projects/clonsigna/clonsigna.git
+
