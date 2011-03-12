@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/parenscript/release/parenscript-2.2.tgz
+http http://common-lisp.net/project/parenscript/release/parenscript-2.3.tgz

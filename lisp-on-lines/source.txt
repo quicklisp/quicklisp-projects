@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/lisp-on-lines/repo/lisp-on-lines
+git git://github.com/drewc/lisp-on-lines
+
