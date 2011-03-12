@@ -32,3 +32,17 @@ folio fset
 folio misc-extensions
 
 gbbopen portable-threads
+
+plain-odbc alexandria-tests
+plain-odbc alexandria
+plain-odbc babel-streams
+plain-odbc babel-tests
+plain-odbc babel
+plain-odbc cffi-examples
+plain-odbc cffi-grovel
+plain-odbc cffi-tests
+plain-odbc cffi-uffi-compat
+plain-odbc cffi
+plain-odbc uffi
+plain-odbc trivial-features-tests
+plain-odbc trivial-features
