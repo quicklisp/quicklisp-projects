@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/eager-future/release/eager-future2-0.2.tgz

@@ -46,3 +46,5 @@ plain-odbc cffi
 plain-odbc uffi
 plain-odbc trivial-features-tests
 plain-odbc trivial-features
+
+clack clack-test

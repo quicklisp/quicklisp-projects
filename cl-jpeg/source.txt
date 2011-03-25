@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/mcclim/cl-jpeg.tar.gz
+cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/cl-jpeg/cvsroot cljl
