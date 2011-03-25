@@ -1,0 +1,1 @@
+YASON is a Common Lisp library for encoding and decoding data in the JSON (JavaScript Object Notation) interchange format.

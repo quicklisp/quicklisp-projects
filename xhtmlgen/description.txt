@@ -1,0 +1,1 @@
+xhtmlgen is an XHTML generator. It is derived from Franz Inc.'s net.htmlgen
