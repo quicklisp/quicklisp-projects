@@ -1,0 +1,1 @@
+tagged-git git://github.com/madnificent/jsown.git 1.0.0

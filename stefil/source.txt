@@ -1,1 +1,1 @@
-http http://common-lisp.net/~loliveira/tarballs/inofficial/stefil-2008-08-19.tar.gz
+darcs http://common-lisp.net/project/stefil/darcs/stefil

@@ -1,1 +1,1 @@
-git git://gitorious.org/iolib/iolib.git
+http http://common-lisp.net/project/iolib/files/iolib-0.7.3.tar.gz

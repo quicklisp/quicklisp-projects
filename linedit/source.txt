@@ -1,0 +1,3 @@
+git git://common-lisp.net/projects/linedit/linedit.git
+
+

@@ -1,0 +1,1 @@
+darcs http://www.common-lisp.net/project/stdutil/darcs/stdutil

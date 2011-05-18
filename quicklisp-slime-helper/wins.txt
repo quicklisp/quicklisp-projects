@@ -1,0 +1,1 @@
+(("quicklisp-slime-helper" "quicklisp-slime-helper" "alexandria" "swank"))

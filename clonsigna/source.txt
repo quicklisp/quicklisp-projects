@@ -1,0 +1,2 @@
+git git://common-lisp.net/projects/clonsigna/clonsigna.git
+

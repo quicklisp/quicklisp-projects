@@ -1,0 +1,1 @@
+http-bz2 http://garbage-pools.googlecode.com/files/garbage-pools-0.1.2.tar.bz2

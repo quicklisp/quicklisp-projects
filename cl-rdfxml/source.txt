@@ -1,0 +1,1 @@
+svn https://svn.cs.rpi.edu/svn/tayloj/cl-rdfxml/

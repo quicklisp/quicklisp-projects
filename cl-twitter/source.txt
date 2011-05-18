@@ -1,0 +1,2 @@
+git git://github.com/fons/cl-twitter.git
+

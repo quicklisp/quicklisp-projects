@@ -1,1 +1,3 @@
-clnet-darcs cffi
+http http://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
+
+

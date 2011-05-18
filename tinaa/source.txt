@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/tinaa/
+git git://github.com/gwkkwg/tinaa.git
+

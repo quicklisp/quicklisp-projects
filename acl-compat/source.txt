@@ -1,1 +1,0 @@
-http http://constantly.at/lisp/acl-compat.tar.gz

@@ -1,1 +1,1 @@
-http http://www.lichteblau.com/cxml-stp/download/cxml-stp.tar.gz
+git http://www.lichteblau.com/git/cxml-stp.git

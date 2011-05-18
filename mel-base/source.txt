@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/mel-base/darcs/mel-base/
+git http://pmeta.net/projects/mel-base/mel-base.git
+

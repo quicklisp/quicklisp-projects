@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/cl-store/files/cl-store-latest.tgz
+git git://github.com/redline6561/cl-store.git
+

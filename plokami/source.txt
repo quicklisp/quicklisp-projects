@@ -1,1 +1,2 @@
-http http://www.suspicious.org/~night/plokami/plokami.tar.gz
+git git://github.com/atomontage/plokami.git
+

@@ -1,1 +1,2 @@
-mercurial http://bitbucket.org/skypher/weblocks-stable
+mercurial http://bitbucket.org/S11001001/weblocks-dev
+
