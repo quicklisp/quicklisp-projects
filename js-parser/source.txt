@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/js-parser/.git
+git git://github.com/gonzojive/js-parser

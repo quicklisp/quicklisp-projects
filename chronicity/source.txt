@@ -1,1 +1,1 @@
-http http://chaitanyagupta.com/lisp/chronicity/downloads/chronicity-latest.tar.gz
+git git://github.com/chaitanyagupta/chronicity.git

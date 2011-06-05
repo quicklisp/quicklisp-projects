@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/amazon-ecs/.git
+git git://github.com/gonzojive/amazon-ecs

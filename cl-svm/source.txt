@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/cl-svm/.git
+git git://github.com/gonzojive/cl-svm

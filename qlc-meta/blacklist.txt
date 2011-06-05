@@ -31,7 +31,7 @@ common-lisp-stat ch-util
 folio fset
 folio misc-extensions
 
-gbbopen portable-threads
+#gbbopen portable-threads
 
 plain-odbc alexandria-tests
 plain-odbc alexandria
@@ -48,3 +48,9 @@ plain-odbc trivial-features-tests
 plain-odbc trivial-features
 
 clack clack-test
+
+cl-tap-producer mw-equiv
+
+langutils meta
+langutils stdutils
+

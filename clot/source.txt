@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/clot/clot-20090828.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/clot/clot-20110308.src.tbz

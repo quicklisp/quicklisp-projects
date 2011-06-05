@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/mime4cl-20110308.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/mime4cl-20110311.src.tbz

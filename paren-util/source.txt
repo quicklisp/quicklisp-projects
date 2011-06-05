@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/paren-util/.git
+git git://github.com/gonzojive/paren-util

@@ -1,2 +1,2 @@
-mercurial http://bitbucket.org/S11001001/weblocks-dev
+mercurial https://bitbucket.org/S11001001/weblocks-dev
 

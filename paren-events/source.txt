@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/paren-events/.git
+git git://github.com/gonzojive/paren-events

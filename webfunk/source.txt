@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/webfunk/.git
+git git://github.com/gonzojive/webfunk

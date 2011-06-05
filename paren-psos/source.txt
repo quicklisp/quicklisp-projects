@@ -1,1 +1,2 @@
-git http://common-lisp.net/project/suave/git/paren-psos/.git
+git git://github.com/gonzojive/paren-psos
+

@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/suave/git/rjson/.git
+git git://github.com/gonzojive/rjson

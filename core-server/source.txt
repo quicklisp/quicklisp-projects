@@ -1,0 +1,1 @@
+darcs http://labs.core.gen.tr/repos/core-server/

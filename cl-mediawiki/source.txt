@@ -1,1 +1,1 @@
-git http://repo.or.cz/r/cl-mediawiki.git/
+git https://github.com/bobbysmith007/cl-mediawiki

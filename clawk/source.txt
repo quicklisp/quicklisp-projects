@@ -1,1 +1,2 @@
-darcs http://www.foldr.org/~michaelw/projects/clawk/
+git git://github.com/xach/clawk.git
+
