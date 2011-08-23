@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/~loliveira/darcs/trivial-garbage/
+git git://github.com/trivial-garbage/trivial-garbage

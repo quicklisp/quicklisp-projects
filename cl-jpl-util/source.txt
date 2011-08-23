@@ -1,1 +1,2 @@
-http http://www.thoughtcrime.us/software/cl-jpl-util/cl-jpl-util-0.3.tar.gz
+http http://www.thoughtcrime.us/software/cl-jpl-util/cl-jpl-util-0.4.tar.gz
+

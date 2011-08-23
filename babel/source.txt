@@ -1,1 +1,2 @@
-clnet-darcs babel
+git git://github.com/cl-babel/babel.git
+

@@ -1,1 +1,2 @@
-http http://enroutesystems.com/software/cl-geo/cl-geo-0.1.tar.gz
+http http://surejourney.com/software/cl-geo/cl-geo-0.2.tar.gz
+

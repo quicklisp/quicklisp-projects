@@ -31,7 +31,7 @@ common-lisp-stat ch-util
 folio fset
 folio misc-extensions
 
-#gbbopen portable-threads
+gbbopen portable-threads
 
 plain-odbc alexandria-tests
 plain-odbc alexandria
@@ -53,4 +53,12 @@ cl-tap-producer mw-equiv
 
 langutils meta
 langutils stdutils
+
+caveman skeleton
+cl-project skeleton
+cl-project skeleton-test
+
+blackthorn-engine-3d userial
+blackthorn-engine-3d usocket
+blackthorn-engine-3d usocket-test
 

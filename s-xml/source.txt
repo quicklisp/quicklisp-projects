@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/s-xml/s-xml.tgz
+cvs :pserver:anonymous:anonymous@common-lisp.net:/project/s-xml/cvsroot
+

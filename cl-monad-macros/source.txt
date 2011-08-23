@@ -1,0 +1,2 @@
+svn svn://common-lisp.net/project/cl-monad-macros/svn/trunk
+

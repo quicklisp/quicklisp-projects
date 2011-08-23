@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/metatilities-base
+git git://github.com/gwkkwg/metatilities-base.git

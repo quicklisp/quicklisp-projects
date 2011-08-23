@@ -1,0 +1,1 @@
+svn http://html-entities.googlecode.com/svn/trunk/

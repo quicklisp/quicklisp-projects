@@ -1,1 +1,1 @@
-http http://www.decidable.org/lisp/utilities/parse-number/parse-number-latest.tar.gz
+http http://common-lisp.net/~sionescu/files/parse-number-1.2.tar.gz

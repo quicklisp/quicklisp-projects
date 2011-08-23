@@ -1,1 +1,1 @@
-mercurial https://blackthorn-engine.googlecode.com/hg/
+mercurial https://code.google.com/p/blackthorn-engine/
