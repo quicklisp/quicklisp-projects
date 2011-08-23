@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/net4cl-20110308.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/net4cl-20110816.src.tbz
