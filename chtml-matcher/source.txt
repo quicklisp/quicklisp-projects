@@ -1,1 +1,1 @@
-darcs http://www.common-lisp.net/project/chtml-matcher/darcs/chtml-matcher
+git git://github.com/eslick/chtml-matcher.git

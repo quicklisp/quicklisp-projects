@@ -1,3 +1,3 @@
-darcs http://dwim.hu/darcs/metacopy/
+darcs http://dwim.hu/live/metacopy/
 
 

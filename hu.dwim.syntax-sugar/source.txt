@@ -1,2 +1,2 @@
-darcs http://dwim.hu/darcs/hu.dwim.syntax-sugar/
+darcs http://dwim.hu/live/hu.dwim.syntax-sugar/
 

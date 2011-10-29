@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.logger/
+darcs http://dwim.hu/live/hu.dwim.logger/

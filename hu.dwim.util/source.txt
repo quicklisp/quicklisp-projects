@@ -1,2 +1,2 @@
-darcs http://dwim.hu/darcs/hu.dwim.util/
+darcs http://dwim.hu/live/hu.dwim.util/
 

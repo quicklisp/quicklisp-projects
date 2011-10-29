@@ -1,2 +1,2 @@
-darcs http://dwim.hu/darcs/hu.dwim.presentation/
+darcs http://dwim.hu/live/hu.dwim.presentation/
 
