@@ -1,1 +1,1 @@
-git git://github.com/bobbysmith007/clsql-orm.git
+git git://github.com/AccelerationNet/clsql-orm.git

@@ -1,1 +1,3 @@
+git git://github.com/archimag/restas.git
 tagged-git git://github.com/archimag/restas.git version-0.1.3
+

@@ -1,1 +1,1 @@
-git git://cyrusharmon.org/pub/git/hunchentoot-cgi.git
+git git://github.com/slyrus/hunchentoot-cgi.git
