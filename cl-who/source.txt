@@ -1,1 +1,1 @@
-ediware-http cl-who
+git git://github.com/edicl/cl-who.git
