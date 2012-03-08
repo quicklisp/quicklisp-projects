@@ -1,0 +1,1 @@
+git git://github.com/7max/cl-emacs-if.git

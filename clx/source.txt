@@ -1,1 +1,1 @@
-http http://common-lisp.net/~abridgewater/dist/clx/clx-0.7.4.tgz
+git git://github.com/sharplispers/clx.git

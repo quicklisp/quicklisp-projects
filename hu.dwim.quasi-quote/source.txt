@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.quasi-quote/
+darcs http://dwim.hu/live/hu.dwim.quasi-quote/

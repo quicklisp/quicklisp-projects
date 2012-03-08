@@ -1,1 +1,1 @@
-git git://github.com/bobbysmith007/cl-creditcard.git
+git git://github.com/AccelerationNet/cl-creditcard.git

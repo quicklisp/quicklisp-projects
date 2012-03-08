@@ -1,1 +1,2 @@
-darcs http://rvw.doc.gold.ac.uk/sullivan/darcs/spatial-trees
+git git://github.com/rpav/spatial-trees.git
+

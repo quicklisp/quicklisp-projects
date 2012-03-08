@@ -1,1 +1,2 @@
+https https://github.com/downloads/edicl/drakma/drakma.tar.gz
 ediware-http drakma

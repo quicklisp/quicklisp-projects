@@ -1,1 +1,1 @@
-svn http://montezuma.googlecode.com/svn/trunk/montezuma
+git git://github.com/skypher/montezuma.git

@@ -1,2 +1,3 @@
-git git://github.com/hanshuebner/yason.git
+http http://common-lisp.net/project/yason/files/yason.tar.gz
+
 

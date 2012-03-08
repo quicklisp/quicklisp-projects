@@ -1,1 +1,1 @@
-cvs :pserver:anonymous@lisa.cvs.sourceforge.net:/cvsroot/lisa
+git git://github.com/johanlindberg/lisa.git

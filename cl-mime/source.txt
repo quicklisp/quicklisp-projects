@@ -1,1 +1,2 @@
-svn svn://bknr.net/svn/trunk/thirdparty/cl-mime/
+git git://github.com/hanshuebner/cl-mime.git
+

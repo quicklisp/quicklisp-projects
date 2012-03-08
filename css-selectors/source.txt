@@ -1,2 +1,2 @@
-git git://github.com/bobbysmith007/css-selectors.git
+git git://github.com/AccelerationNet/css-selectors.git
 

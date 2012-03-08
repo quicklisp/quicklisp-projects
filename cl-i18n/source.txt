@@ -1,1 +1,1 @@
-darcs http://viridian-project.de/~sky/cl-i18n/
+git git://github.com/cage2/cl-i18n.git

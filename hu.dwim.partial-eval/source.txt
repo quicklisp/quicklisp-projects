@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.partial-eval/
+darcs http://dwim.hu/live/hu.dwim.partial-eval/

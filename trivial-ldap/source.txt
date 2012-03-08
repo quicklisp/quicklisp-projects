@@ -1,1 +1,1 @@
-http http://homepage.mac.com/ignavusinfo/trivial-ldap/trivial-ldap-0.92.tar.gz
+git git://github.com/rwiker/trivial-ldap.git

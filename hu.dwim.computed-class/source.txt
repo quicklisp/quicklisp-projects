@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.computed-class/
+darcs http://dwim.hu/live/hu.dwim.computed-class/

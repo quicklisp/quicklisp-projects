@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.reiterate/
+darcs http://dwim.hu/live/hu.dwim.reiterate/

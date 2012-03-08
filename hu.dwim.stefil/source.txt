@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.stefil/
+darcs http://dwim.hu/live/hu.dwim.stefil/

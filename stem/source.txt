@@ -1,1 +1,1 @@
-svn svn://bknr.net/svn/trunk/thirdparty/stem/
+git git://github.com/hanshuebner/stem.git

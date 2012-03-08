@@ -1,0 +1,1 @@
+git git://github.com/roerd/cl-rsvg2.git

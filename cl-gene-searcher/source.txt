@@ -1,0 +1,1 @@
+git git://github.com/TheDarkTrumpet/cl-gene-searcher.git

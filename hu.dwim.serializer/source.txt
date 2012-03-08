@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.serializer/
+darcs http://dwim.hu/live/hu.dwim.serializer/

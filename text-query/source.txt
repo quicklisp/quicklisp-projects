@@ -1,0 +1,1 @@
+http http://common-lisp.net/project/asdf-packaging/text-query-latest.tar.gz

@@ -1,1 +1,0 @@
-git git://github.com/tomoyuki28jp/web4r.git

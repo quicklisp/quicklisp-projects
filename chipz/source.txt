@@ -1,1 +1,2 @@
-froydware-http chipz
+git git://github.com/froydnj/chipz.git
+

@@ -48,6 +48,8 @@ plain-odbc trivial-features-tests
 plain-odbc trivial-features
 
 clack clack-test
+clack clack-middleware-csrf-test
+caveman caveman-test
 
 cl-tap-producer mw-equiv
 

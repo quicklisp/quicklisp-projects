@@ -1,1 +1,1 @@
-darcs http://dwim.hu/darcs/hu.dwim.defclass-star/
+darcs http://dwim.hu/live/hu.dwim.defclass-star/
