@@ -1,3 +1,2 @@
 https https://github.com/downloads/edicl/hunchentoot/hunchentoot.tar.gz
-ediware-http hunchentoot
 
