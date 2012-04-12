@@ -47,10 +47,6 @@ plain-odbc uffi
 plain-odbc trivial-features-tests
 plain-odbc trivial-features
 
-clack clack-test
-clack clack-middleware-csrf-test
-caveman caveman-test
-
 cl-tap-producer mw-equiv
 
 langutils meta
@@ -59,6 +55,8 @@ langutils stdutils
 caveman skeleton
 cl-project skeleton
 cl-project skeleton-test
+
+clack t-clack
 
 blackthorn-engine-3d userial
 blackthorn-engine-3d usocket

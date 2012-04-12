@@ -1,1 +1,1 @@
-darcs http://fo.am/darcs/osc/
+git git://github.com/zzkt/osc.git

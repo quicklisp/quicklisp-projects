@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/trivial-shell/trivial-shell_latest.tar.gz
+git git://github.com/gwkkwg/trivial-shell.git

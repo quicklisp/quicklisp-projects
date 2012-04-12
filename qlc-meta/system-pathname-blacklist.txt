@@ -12,3 +12,8 @@
 /external/lift.darcs/
 
 /systems/femlisp.asd
+
+/sav/
+
+/1580-frozen/
+

@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/clpmr-20120223.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/clpmr-20120311.src.tbz

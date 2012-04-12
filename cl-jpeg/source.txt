@@ -1,1 +1,1 @@
-cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/cl-jpeg/cvsroot cljl
+git git://github.com/sharplispers/cl-jpeg.git

@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/sclf-20120306.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/sclf-20120311.src.tbz

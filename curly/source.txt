@@ -1,1 +1,1 @@
-darcs http://www.pasternacki.net/repos/curly
+git git://github.com/mpasternacki/curly.git

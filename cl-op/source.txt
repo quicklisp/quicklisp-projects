@@ -1,0 +1,1 @@
+svn http://cl-op.googlecode.com/svn/trunk/

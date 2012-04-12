@@ -1,1 +1,1 @@
-git git://adaptive.cs.unm.edu/elf.git
+git git://github.com/eschulte/elf.git

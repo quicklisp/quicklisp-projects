@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/rpm.git
+git git://common-lisp.net/projects/qitab/rpm.git

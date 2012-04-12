@@ -1,1 +1,1 @@
-git git://github.com/xach/quickproject
+http http://www.xach.com/lisp/quickproject.tgz
