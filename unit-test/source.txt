@@ -1,1 +1,2 @@
-svn svn://bknr.net/svn/trunk/thirdparty/unit-test
+git git://github.com/hanshuebner/unit-test.git
+

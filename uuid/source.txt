@@ -1,1 +1,1 @@
-http http://www.dardoria.net/software/uuid.tar.gz
+git git://github.com/dardoria/uuid.git
