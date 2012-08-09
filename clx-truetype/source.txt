@@ -1,0 +1,1 @@
+git git://github.com/filonenko-mikhail/clx-truetype.git

@@ -1,1 +1,1 @@
-http http://common-lisp.net/~sionescu/files/parse-number-1.2.tar.gz
+https https://github.com/downloads/sharplispers/parse-number/parse-number-1.3.tar.gz

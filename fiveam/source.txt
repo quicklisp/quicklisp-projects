@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/bese/repos/fiveam/
+https https://github.com/downloads/sionescu/fiveam/fiveam-1.0.tar.gz

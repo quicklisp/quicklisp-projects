@@ -1,0 +1,1 @@
+git git://common-lisp.net/projects/asdf/asdf-contrib.git
