@@ -1,2 +1,1 @@
-git git://github.com/redline6561/cl-store.git
-
+git git://github.com/skypher/cl-store.git

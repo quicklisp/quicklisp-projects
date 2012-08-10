@@ -1,1 +1,1 @@
-git git://github.com/gonzojive/clws.git
+git git://github.com/3b/clws.git

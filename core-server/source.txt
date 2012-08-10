@@ -1,1 +1,1 @@
-darcs http://labs.core.gen.tr/repos/core-server/
+git git://github.com/evrim/core-server.git

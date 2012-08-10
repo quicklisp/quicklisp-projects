@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/xcvb/xcvb.git
+http-bz2 http://common-lisp.net/project/xcvb/releases/xcvb.tar.bz2
