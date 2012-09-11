@@ -1,1 +1,3 @@
-darcs http://www.pps.jussieu.fr/~jch/software/repos/cl-yacc
+git git://github.com/jech/cl-yacc.git
+
+

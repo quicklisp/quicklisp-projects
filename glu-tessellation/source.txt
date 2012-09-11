@@ -1,1 +1,0 @@
-git git://github.com/orthecreedence/glu-tessellation.git

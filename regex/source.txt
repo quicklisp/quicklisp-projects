@@ -1,1 +1,1 @@
-http http://www.foldr.org/~michaelw/lisp/clawk/regex.tar.gz
+git git://github.com/michaelw/regex.git

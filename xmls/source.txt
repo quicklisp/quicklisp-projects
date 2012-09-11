@@ -1,2 +1,2 @@
-http http://common-lisp.net/project/xmls/xmls-1.4.tar.gz
+http http://common-lisp.net/project/xmls/xmls-1.5.tar.gz
 

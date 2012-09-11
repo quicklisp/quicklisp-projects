@@ -1,1 +1,2 @@
-wcpware-http http://wcp.sdf-eu.org/software/smtp4cl-20120223.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/smtp4cl-20120618.src.tbz
+

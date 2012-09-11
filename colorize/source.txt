@@ -1,1 +1,1 @@
-svn svn://unmutual.info/colorize
+git git://github.com/redline6561/colorize.git

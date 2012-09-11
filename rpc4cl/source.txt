@@ -1,2 +1,1 @@
-http http://code.xn--stiernstrm-mcb.se/download/rpc4cl_latest.tar.gz
-
+mercurial https://bitbucket.org/pidu/rpc4cl
