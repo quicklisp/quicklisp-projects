@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/rfc2388/rfc2388_latest.tar.gz
+git git://github.com/jdz/rfc2388.git

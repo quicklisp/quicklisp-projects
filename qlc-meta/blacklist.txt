@@ -27,6 +27,9 @@ qooxlisp cl-json
 
 common-lisp-stat ch-util-test
 common-lisp-stat ch-util
+common-lisp-stat lift
+common-lisp-stat lift-test
+
 
 folio fset
 folio misc-extensions

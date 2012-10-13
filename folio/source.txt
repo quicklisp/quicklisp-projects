@@ -1,2 +1,1 @@
-git https://bywicket.codebasehq.com/bard/folio.git
-
+git git://github.com/mikelevins/folio.git

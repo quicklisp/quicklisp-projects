@@ -1,1 +1,1 @@
-svn svn://common-lisp.net/project/cl-irc/svn/trunk
+http http://common-lisp.net/project/cl-irc/releases/cl-irc_latest.tar.gz
