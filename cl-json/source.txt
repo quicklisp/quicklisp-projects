@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/cl-json/darcs/cl-json
+git git://github.com/hankhero/cl-json.git

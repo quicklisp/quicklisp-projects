@@ -2,6 +2,7 @@
 # index system. For example, prefer the real UFFI to CFFI's UFFI -
 # some things just don't compile with it.
 
+cleric bert
 cffi uffi
 lispbuilder trivial-garbage
 

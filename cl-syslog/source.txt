@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/cl-syslog/cl-syslog_latest.tar.gz
+cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-syslog/cvsroot
+

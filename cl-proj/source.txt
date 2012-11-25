@@ -1,0 +1,1 @@
+mercurial http://hg.code.sf.net/p/cl-proj/code
