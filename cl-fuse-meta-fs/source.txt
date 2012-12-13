@@ -1,0 +1,1 @@
+git git://github.com/fb08af68/cl-fuse-meta-fs.git
