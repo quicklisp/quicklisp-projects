@@ -1,1 +1,1 @@
-https https://github.com/downloads/sionescu/fiveam/fiveam-1.0.tar.gz
+https https://github.com/downloads/cl-fiveam/fiveam/fiveam-1.0.tar.gz

@@ -1,1 +1,0 @@
-cvs :pserver:anonymous@clg.cvs.sourceforge.net:/cvsroot/clg

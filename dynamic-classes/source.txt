@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/dynamic-classes/
+git git://github.com/gwkkwg/dynamic-classes.git

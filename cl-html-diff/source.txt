@@ -1,1 +1,1 @@
-http http://lemonodor.com/code/cl-html-diff_0.1.tar.gz
+git git://github.com/wiseman/cl-html-diff.git

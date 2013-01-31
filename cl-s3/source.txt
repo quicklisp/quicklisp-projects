@@ -1,1 +1,1 @@
-http http://homepage.mac.com/svc/cl-s3/cl-s3.tgz
+git git://github.com/svenvc/cl-s3.git

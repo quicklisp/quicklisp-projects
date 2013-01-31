@@ -66,4 +66,9 @@ blackthorn-engine-3d userial
 blackthorn-engine-3d usocket
 blackthorn-engine-3d usocket-test
 
+local-package-aliases some-application
+local-package-aliases com.my-company.some-library
+
+asdf-driver asdf
+asdf-driver generate-asdf
 

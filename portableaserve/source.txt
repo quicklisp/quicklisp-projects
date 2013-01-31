@@ -1,1 +1,1 @@
-cvs :pserver:anonymous@portableaserve.cvs.sourceforge.net:/cvsroot/portableaserve
+git git://git.code.sf.net/p/portableaserve/git

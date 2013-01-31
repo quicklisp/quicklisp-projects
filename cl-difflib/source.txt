@@ -1,1 +1,1 @@
-http http://lemonodor.com/code/cl-difflib_0.1.tar.gz
+git git://github.com/wiseman/cl-difflib.git

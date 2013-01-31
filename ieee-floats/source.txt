@@ -1,1 +1,1 @@
-clnet-darcs ieee-floats
+git https://github.com/marijnh/ieee-floats.git

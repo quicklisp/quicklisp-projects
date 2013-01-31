@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/gtk-cffi/cvsroot
+git git://github.com/Kalimehtar/gtk-cffi.git

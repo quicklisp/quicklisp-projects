@@ -1,2 +1,3 @@
-https https://github.com/downloads/edicl/hunchentoot/hunchentoot.tar.gz
+http http://weitz.de/files/hunchentoot.tar.gz
+
 

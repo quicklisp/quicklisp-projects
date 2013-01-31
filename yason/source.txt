@@ -1,1 +1,2 @@
-https https://github.com/downloads/hanshuebner/yason/yason.tar.gz
+http http://netzhansa.com/yason.tar.gz
+

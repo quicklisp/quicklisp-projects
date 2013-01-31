@@ -1,1 +1,1 @@
-svcware-http s-http-client
+git git://github.com/svenvc/s-http-client.git
