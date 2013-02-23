@@ -1,0 +1,1 @@
+http-bz2 http://tehran.lain.pl/stuff/fcgi-current.tar.bz2

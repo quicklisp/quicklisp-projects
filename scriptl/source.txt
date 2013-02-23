@@ -1,1 +1,1 @@
-https https://github.com/downloads/rpav/ScriptL/ScriptL-release.tar.gz
+git git://github.com/rpav/ScriptL.git
