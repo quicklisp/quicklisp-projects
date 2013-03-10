@@ -1,5 +1,4 @@
 http http://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
-http http://common-lisp.net/~lhealy/cffi.tgz
 
 
 
