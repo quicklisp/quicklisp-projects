@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/cobstor-20120110.src.tbz
+wcpware-http http://wcp.sdf-eu.org/software/cobstor-20121206.src.tbz
