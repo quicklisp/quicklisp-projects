@@ -1,1 +1,1 @@
-git git://github.com/SCR4/codata-recommended-values.git
+git git://github.com/ralph-schleicher/codata-recommended-values.git
