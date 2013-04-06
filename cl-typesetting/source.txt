@@ -1,1 +1,1 @@
-svn http://www.fractalconcept.com:8000/public/open-source/cl-typesetting
+git git://github.com/mbattyani/cl-typesetting.git
