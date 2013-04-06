@@ -1,2 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-plus-ssl/cvsroot
-
+git git://gitorious.org/trivial-gray-streams/trivial-gray-streams.git
