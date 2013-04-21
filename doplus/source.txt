@@ -1,1 +1,2 @@
-svn http://tapulli.googlecode.com/svn/trunk/doplus/
+mercurial https://code.google.com/p/doplus/
+
