@@ -1,1 +1,1 @@
-clnet-darcs local-time
+git git://github.com/dlowe-net/local-time.git
