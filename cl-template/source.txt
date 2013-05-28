@@ -1,0 +1,1 @@
+git git://github.com/alpha123/cl-template.git
