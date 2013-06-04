@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/rfc2109/release/rfc2109-latest.tar.gz
+darcs http://www.common-lisp.net/project/rfc2109/rfc2109/
