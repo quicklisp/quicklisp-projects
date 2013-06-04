@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/cl-selenium/releases/cl-selenium-0.4.tar.gz
+git git://github.com/html/cl-selenium.git
+
