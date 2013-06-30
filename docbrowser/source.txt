@@ -1,1 +1,2 @@
-mercurial https://code.google.com/p/docbrowser/
+git git://github.com/lokedhs/docbrowser.git
+
