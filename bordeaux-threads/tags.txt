@@ -1,3 +1,3 @@
 threads
-compatability
+compatibility
 concurrency
