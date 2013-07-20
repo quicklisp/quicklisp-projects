@@ -1,1 +1,2 @@
-svn http://cl-mpi.googlecode.com/svn/trunk/
+git git://github.com/angavrilov/cl-mpi.git
+
