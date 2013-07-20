@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/fiveam/files/fiveam-1.1.tar.gz
+http http://common-lisp.net/project/fiveam/files/fiveam-latest.tar.gz
