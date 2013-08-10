@@ -1,1 +1,2 @@
-http http://common-lisp.net/project/cl-containers/cl-html-parse/cl-html-parse_latest.tar.gz
+git git://github.com/gwkkwg/cl-html-parse.git
+
