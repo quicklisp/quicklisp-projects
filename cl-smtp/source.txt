@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-smtp/cl-smtp.tar.gz
+cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-smtp/cvsroot
