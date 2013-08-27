@@ -1,1 +1,2 @@
-mercurial https://code.google.com/p/cl-gdata/
+git https://github.com/lokedhs/cl-gdata.git
+
