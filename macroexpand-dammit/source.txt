@@ -1,1 +1,2 @@
-git https://github.com/guicho271828/macroexpand-dammit.git
+single-file http://john.freml.in/static-blog/macroexpand-dammit/macroexpand-dammit.lisp
+
