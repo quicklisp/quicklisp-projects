@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-memcached/cl-memcached-latest.tar.gz
+git https://github.com/quasi/cl-memcached.git
