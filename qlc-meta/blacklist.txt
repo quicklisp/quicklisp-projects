@@ -72,3 +72,4 @@ local-package-aliases com.my-company.some-library
 asdf-driver asdf
 asdf-driver generate-asdf
 
+wookie plugin
