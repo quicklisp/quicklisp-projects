@@ -73,3 +73,5 @@ asdf-driver asdf
 asdf-driver generate-asdf
 
 wookie plugin
+
+weblocks weblocks-demo
