@@ -1,1 +1,0 @@
-http-bz2 http://common-lisp.net/project/xcvb/releases/xcvb.tar.bz2
