@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-emb/cl-emb-latest.tar.gz
+git https://github.com/38a938c2/cl-emb.git
