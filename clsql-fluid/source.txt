@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/clsql-fluid/darcs/clsql-fluid/
+git https://github.com/html/clsql-fluid.git
