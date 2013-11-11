@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/closer/repos/lw-compat
+git git://git.code.sf.net/p/closer/lw-compat

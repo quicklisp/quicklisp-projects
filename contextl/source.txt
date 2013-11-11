@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/closer/repos/contextl/
+git git://git.code.sf.net/p/closer/contextl
