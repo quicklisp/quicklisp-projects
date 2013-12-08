@@ -1,1 +1,1 @@
-http http://cletris.googlecode.com/files/cletris-0.3.tar.gz
+git git://github.com/nlamirault/cletris.git
