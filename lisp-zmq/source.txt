@@ -1,1 +1,1 @@
-http http://codemore.org/download/lisp-zmq-1.1.0.tgz
+http http://wandrian.net/download/lisp-zmq-1.1.0.tgz
