@@ -1,1 +1,2 @@
-git git://repo.or.cz/cl-tuples.git
+git git://github.com/johnfredcee/cl-tuples.git
+
