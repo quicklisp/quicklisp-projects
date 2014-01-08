@@ -17,3 +17,6 @@
 /1580-frozen/
 
 /folio2/
+
+# For fset's Code/fset.asd
+/Code/
