@@ -1,1 +1,2 @@
-git git://cyrusharmon.org/pub/git/nuclblog.git
+git git://github.com/slyrus/nuclblog.git
+

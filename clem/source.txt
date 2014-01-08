@@ -1,1 +1,2 @@
-git git://cyrusharmon.org/pub/git/clem.git
+git git://github.com/slyrus/clem.git
+

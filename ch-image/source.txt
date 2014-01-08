@@ -1,2 +1,2 @@
-git git://cyrusharmon.org/pub/git/ch-image.git
+git git://github.com/slyrus/ch-image.git
 
