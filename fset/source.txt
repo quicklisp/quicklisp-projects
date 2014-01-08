@@ -1,1 +1,1 @@
-svn svn://common-lisp.net/project/fset/svn/trunk
+git https://github.com/slburson/fset.git
