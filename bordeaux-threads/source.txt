@@ -1,1 +1,1 @@
-https https://deneb.cddr.org/lisp/bordeaux-threads-0.8.3.tar.gz
+http http://common-lisp.net/project/bordeaux-threads/releases/bordeaux-threads-0.8.3.tar.gz
