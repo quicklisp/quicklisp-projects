@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/definer/definer.git
+cvs :ext:common-lisp.net:/project/definer/cvsroot
