@@ -1,2 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-syslog/cvsroot
-
+git https://github.com/mmaul/cl-syslog.git
