@@ -1,1 +1,1 @@
-git git://github.com/skypher/montezuma.git
+git https://github.com/sharplispers/montezuma.git
