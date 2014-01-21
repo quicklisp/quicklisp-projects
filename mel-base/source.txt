@@ -1,2 +1,2 @@
-git http://pmeta.net/projects/mel-base/mel-base.git
+git https://github.com/neonsquare/mel-base.git
 
