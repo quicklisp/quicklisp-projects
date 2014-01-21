@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous:@common-lisp.net:/project/mcclim/cvsroot
+git https://github.com/robert-strandh/McCLIM
