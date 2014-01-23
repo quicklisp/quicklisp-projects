@@ -1,2 +1,1 @@
-http http://common-lisp.net/project/iolib/files/iolib-0.8.0.tar.gz
-http http://common-lisp.net/project/iolib/files/iolib-0.7.3.tar.gz
+git https://github.com/sionescu/iolib.git
