@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/asdf-system-connections
+git https://github.com/gwkkwg/asdf-system-connections.git
