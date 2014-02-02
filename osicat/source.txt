@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/osicat/osicat.git
+git https://github.com/osicat/osicat.git
