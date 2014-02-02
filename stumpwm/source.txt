@@ -1,1 +1,1 @@
-git git://git.savannah.nongnu.org/stumpwm.git
+git git://github.com/sabetts/stumpwm.git
