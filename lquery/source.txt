@@ -1,1 +1,1 @@
-git git://git.tymoon.eu/lquery.git
+git https://github.com/Shinmera/lquery.git
