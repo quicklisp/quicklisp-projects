@@ -1,1 +1,2 @@
-http http://www.bobturf.org/software/cl-sendmail/cl-sendmail-0.5.5.tar.gz
+git https://github.com/u-u-h/cl-sendmail.git
+
