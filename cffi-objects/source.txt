@@ -1,1 +1,1 @@
-svn svn://common-lisp.net/project/cffi-objects/svn
+git https://github.com/Kalimehtar/cffi-objects.git
