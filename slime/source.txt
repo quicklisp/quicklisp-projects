@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/slime/cvsroot
+https https://github.com/slime/slime/archive/v2.4.tar.gz
