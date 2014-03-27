@@ -1,1 +1,2 @@
-git git://github.com/nlamirault/cl-lastfm.git
+https https://github.com/nlamirault/cl-lastfm/archive/0.2.1.tar.gz
+
