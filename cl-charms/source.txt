@@ -1,1 +1,1 @@
-git git://gitorious.org/cl-charms/cl-charms.git
+git https://github.com/HiTECNOLOGYs/cl-charms.git
