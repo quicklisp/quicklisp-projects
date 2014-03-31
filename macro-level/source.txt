@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/projects/macro-level/macro-level_latest.tar.gz
+http http://www.hexstreamsoft.com/libraries/macro-level/macro-level_latest.tar.gz

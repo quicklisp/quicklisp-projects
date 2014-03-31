@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/projects/map-bind/map-bind_latest.tar.gz
+http http://www.hexstreamsoft.com/libraries/map-bind/map-bind_latest.tar.gz

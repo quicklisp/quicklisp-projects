@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/projects/symbol-namespaces/symbol-namespaces_latest.tar.gz
+http http://www.hexstreamsoft.com/libraries/symbol-namespaces/symbol-namespaces_latest.tar.gz
