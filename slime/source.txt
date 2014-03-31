@@ -1,1 +1,1 @@
-https https://github.com/slime/slime/archive/v2.4.tar.gz
+http http://common-lisp.net/project/slime/slime_latest.tar.gz
