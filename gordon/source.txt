@@ -1,1 +1,2 @@
-http http://www.crazyrobot.net/torta/gordon-0.2.tar.gz
+git https://github.com/sgarciac/gordon.git                                          
+
