@@ -1,1 +1,1 @@
-http http://crazyrobot.net/torta/torta-0.3.tar.gz
+git https://github.com/sgarciac/torta.git
