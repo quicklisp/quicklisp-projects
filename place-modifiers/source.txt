@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/place-modifiers/place-modifiers_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/place-modifiers_latest.tar.gz

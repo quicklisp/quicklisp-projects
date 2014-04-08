@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/bubble-operator-upwards/bubble-operator-upwards_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/bubble-operator-upwards_latest.tar.gz

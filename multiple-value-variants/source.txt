@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/multiple-value-variants/multiple-value-variants_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/multiple-value-variants_latest.tar.gz

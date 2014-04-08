@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/enhanced-multiple-value-bind/enhanced-multiple-value-bind_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/enhanced-multiple-value-bind_latest.tar.gz
