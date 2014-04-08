@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/incognito-keywords/incognito-keywords_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/incognito-keywords_latest.tar.gz
