@@ -1,1 +1,1 @@
-http http://www.hexstreamsoft.com/libraries/enhanced-eval-when/enhanced-eval-when_latest.tar.gz
+http http://tarballs.hexstreamsoft.com/libraries/latest/enhanced-eval-when_latest.tar.gz
