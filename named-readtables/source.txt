@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/editor-hints/darcs/named-readtables/
+git https://github.com/melisgl/named-readtables.git
