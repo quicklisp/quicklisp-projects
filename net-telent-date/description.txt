@@ -1,1 +1,2 @@
-date
+Date and time parsing and formatting library.
+net-telent-date contains routines for printing and parsing RFC822², RFC2822 and HTTP time strings primarily, but can be used to parse other time formats as well.
