@@ -1,0 +1,2 @@
+URLs as specified in RFC1738.
+PURL provides a parser and defines a type for URLs as specified in RFC1738.
