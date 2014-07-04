@@ -1,0 +1,2 @@
+Monadic parser combinators library.
+MPC provides a toolbox of predefined parsers, facilities for error handling and parses arrays, streams and lists.
