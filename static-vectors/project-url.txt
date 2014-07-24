@@ -1,1 +1,0 @@
-http://gitorious.org/iolib/static-vectors

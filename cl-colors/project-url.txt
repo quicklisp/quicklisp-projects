@@ -1,1 +1,0 @@
-http://github.com/tpapp/cl-colors

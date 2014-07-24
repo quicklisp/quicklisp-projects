@@ -1,2 +1,0 @@
-http://common-lisp.net/project/cleric/
-
