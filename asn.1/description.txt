@@ -1,6 +1,0 @@
-ASN.1 implementation
-ASN.1 language mapping for Common Lisp, compiler and runtime support.
-Features:
-* ASN.1 data representation in Common Lisp
-* Language mapping from ASN.1 basic type to lisp type, OBJECT IDENTIFIER to CLOS-base class
-* BER (Basic Encode Rule) encode/decode on ASN.1 data

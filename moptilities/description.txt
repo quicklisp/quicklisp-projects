@@ -1,1 +1,0 @@
-MOP portability library

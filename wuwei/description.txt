@@ -1,7 +1,0 @@
-WuWei is a toolkit for building Ajax web pages and web sites in Common Lisp. It's designed to be light-weight, a toolkit rather than a platform.
-
-Features:
-* Continuation-based AJAX user interfaces 
-* Server-side DOM operations (add/remove elements, visual fades, drag and drop) 
-* High-level interfaces to in-place-editing and autocomplete widgets 
-* Login and session management 

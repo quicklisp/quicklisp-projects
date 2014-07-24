@@ -1,4 +1,0 @@
-rfc2616
-chunked
-streams
-compatability

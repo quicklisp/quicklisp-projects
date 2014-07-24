@@ -1,2 +1,0 @@
-ffi generator
-BINGE is a FFI generator for Common Lisp. It parses C source files (header or code, it doesn't mind) and spits out a FFI for your Lisp system of choice. Functions, global variables, types and symbolic constants can be easily extracted just naming them.

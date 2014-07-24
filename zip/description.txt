@@ -1,2 +1,0 @@
-A library for .zip file (Winzip) reading and writing.
-

@@ -1,2 +1,0 @@
-XLUnit is a Test Framework based on XPTest and JUnit. XLUnit strives to have a good balance between low programmer overhead and good support for fixture setup and teardown.
-

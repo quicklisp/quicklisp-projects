@@ -1,2 +1,0 @@
-image I/O and manipulation library
-ch-image is a lisp package for dealing with images, including image I/O, some simple drawing primitives, text rendering via FFI to freetype, and image manipulation such as discrete convolution and affine transformation.

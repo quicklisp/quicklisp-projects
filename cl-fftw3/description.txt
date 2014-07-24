@@ -1,2 +1,0 @@
-interface to fftw3 fourier transform library
-cl-fftw3 provides an interface for Common Lisp programs to use the FFTW3 Fourier transform library. A number of higher-level interfaces has been added in addition to the native interface to the FFTW3 C-based library.

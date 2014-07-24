@@ -1,4 +1,0 @@
-message-passing
-channels
-csp
-concurrency

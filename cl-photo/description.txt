@@ -1,1 +1,0 @@
-photography-related calculation library

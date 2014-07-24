@@ -1,2 +1,0 @@
-sbcl application builder
-Buildapp is an application for SBCL that configures and saves an executable Common Lisp image.

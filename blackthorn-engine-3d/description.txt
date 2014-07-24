@@ -1,4 +1,0 @@
-data-driven game engine
-Blackthorn is a data-driven game engine. The game world is constructed from trees of components, which can be layered and composed in arbitrary ways. Most components are considered immutable by default. Mutable components, or actors, change state by responding to events. Since the game engine controls the propagation of events, input events can be trivially synchronized across a network, allowing multiplayer games to be implemented in a simple and straightforward way.
-
-Blackthorn is also an interactive game development environment. When developing with SLIME, the game can be modified, inspected, and even recompiled without stopping the game or losing state.

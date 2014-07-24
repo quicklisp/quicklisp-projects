@@ -1,2 +1,0 @@
-2d computational geometry library
-cl-geometry is a system for two dimensional computational geometry for Common Lisp.

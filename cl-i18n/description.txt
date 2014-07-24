@@ -1,9 +1,0 @@
-gettext-style internationalization library
-cl-i18n is a gettext-style internationalization framework for Common Lisp.
-
-Features:
- * dead simple
- * ASDF package
- * #! string read macro
- * warns and acts gracefully when an untranslated string is encountered
- * very clean translation resource format that can be edited by non-programmers

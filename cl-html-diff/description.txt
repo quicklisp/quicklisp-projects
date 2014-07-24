@@ -1,2 +1,0 @@
-HTML diff library
-CL-HTML-DIFF is a tiny little Lisp library for generating a human-readable diff of two HTML documents, using HTML.

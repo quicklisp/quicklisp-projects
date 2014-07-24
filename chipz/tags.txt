@@ -1,7 +1,0 @@
-deflate
-zlib
-gzip
-bzip
-bzip2
-decompression
-compression

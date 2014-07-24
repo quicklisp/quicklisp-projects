@@ -1,4 +1,0 @@
-internationalization
-translation
-gettext
-i18n

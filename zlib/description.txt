@@ -1,1 +1,0 @@
-zlib is a native Common Lisp implementation of the zlib (RFC1950) compression scheme.

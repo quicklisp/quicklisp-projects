@@ -1,5 +1,0 @@
-gtk
-gtk+
-gtk2
-gui
-graphics

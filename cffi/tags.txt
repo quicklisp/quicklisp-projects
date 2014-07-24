@@ -1,3 +1,0 @@
-ffi
-c
-compatability

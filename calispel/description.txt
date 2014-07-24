@@ -1,4 +1,0 @@
-channel-based message-passing concurrency library
-Calispel is a Common Lisp library for thread-safe message-passing channels, in the style of the occam programming language.
-
-Calispel channels let one thread communicate with another, facilitating unidirectional communication of any Lisp object. Channels may be unbuffered, where a sender waits for a receiver (or vice versa) before either operation can continue, or channels may be buffered with flexible policy options.

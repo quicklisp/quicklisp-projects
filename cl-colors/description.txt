@@ -1,2 +1,0 @@
-color library
-cl-colors contains named RGB colors like +blue+ and +darkolivegreen+. Calling it a graphics library is a bit of an overstatement, but its primary purpose is to be used in graphics. It supports alpha channels and HSV conversion/manipulation.

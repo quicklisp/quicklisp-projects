@@ -1,1 +1,0 @@
-ZPNG writes PNG image files.

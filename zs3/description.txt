@@ -1,1 +1,0 @@
-ZS3 is a library for interacting with Amazon's Simple Storage Service (S3) and CloudFront content distribution service.

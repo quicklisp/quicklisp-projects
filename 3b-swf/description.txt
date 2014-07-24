@@ -1,2 +1,0 @@
-SWF (Flash) file manipulation library
-3b-swf is a library for manipulating SWF (Adobe Flash) files.

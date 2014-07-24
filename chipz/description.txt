@@ -1,3 +1,0 @@
-decompression library
-Chipz is a library for decompressing DEFLATE and BZIP2 data. DEFLATE data, defined in RFC1951, forms the core of popular compression formats such as zlib (RFC 1950) and gzip (RFC 1952). As such, Chipz also provides for decompressing data in those formats as well. BZIP2 is the format used by the popular compression tool bzip2.
- 

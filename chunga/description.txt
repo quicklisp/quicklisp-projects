@@ -1,2 +1,0 @@
-RFC 2616 chunked encoded stream library
-Chunga implements streams capable of chunked encoding on demand as defined in RFC 2616.

@@ -1,1 +1,0 @@
-x.let-star is a convenience library featuring various extensions along the lines of LET*/MULTIPLE-VALUE-BIND.

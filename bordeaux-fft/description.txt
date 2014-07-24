@@ -1,2 +1,0 @@
-pure-CL fast fourier transforms
-The Bordeaux-FFT library provides a reasonably efficient implementation of the Fast Fourier Transform and its inverse for complex-valued inputs, in portable Common Lisp.

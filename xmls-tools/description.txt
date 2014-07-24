@@ -1,1 +1,0 @@
-xmls-tools is a library to supplement use of xmls. It includes support for parsing with side effects, searching and validating XML. It includes an example side effect parser in the form of a XHTML to text converter.

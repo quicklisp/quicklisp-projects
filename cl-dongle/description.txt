@@ -1,3 +1,0 @@
-interface with copy protection dongles
-CL-DONGLE is a Common Lisp library which provides full access to all the functionality of SG-Lock's hardware-based copy protection system, i.e. you can use it to protect your Lisp applications natively using features like storing Lisp objects in the dongle or encrypting and signing arbitrary data.
-The library also contains a fast Lisp implementation of the Tiny Encryption Algorithm which works independently of attached dongles or the SG-Lock DLL and might thus be useful on its own.

@@ -1,1 +1,0 @@
-yaclml (Yet Another Common Lisp Markup Language) is an HTML markup generator and HTML template library.

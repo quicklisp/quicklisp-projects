@@ -1,2 +1,0 @@
-mapping binary files to lisp objects
-Binary-types is a Library for accessing binary files with fixed bit-length code-words. Binary-types provides macros that are used to declare the mapping between lisp objects and some binary (i.e. octet-based) representation.

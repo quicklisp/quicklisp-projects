@@ -1,1 +1,0 @@
-xmls is a small, simple, non-validating XML parser for Common Lisp. It's designed to be a self-contained, easily embedded parser that recognizes a useful subset of the XML spec. It provides a simple mapping from xml to lisp s-expressions and back.

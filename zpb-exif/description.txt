@@ -1,2 +1,0 @@
-ZPB-EXIF reads Exif (digital camera metadata) data from image files.
-

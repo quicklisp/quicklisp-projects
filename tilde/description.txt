@@ -1,1 +1,0 @@
-SBCL-only tilde pathname expansion

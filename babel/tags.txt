@@ -1,4 +1,0 @@
-charset
-conversion
-encoding
-decoding

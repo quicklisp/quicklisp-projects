@@ -1,4 +1,0 @@
-sql
-database
-sqlite
-sqlite3

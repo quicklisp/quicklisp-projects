@@ -1,4 +1,0 @@
-asdf system auto-loader
-ASDF-System-Connections provides auto-loading of systems that only make sense when several other systems are loaded.
-
-Example: CL-Containers and CL-Variates are separate systems and can therefore be loaded independently. If both of them are loaded, however, then it makes sense to also load code that uses CL-Variates to sample random elements from containers. Rather than requiring you to remember to load that extra system (and to load it only after both Cl-Containers and CL-Variates are loaded), ASDF-System-Connections lets you set things up so that loading happens automatically.

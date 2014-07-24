@@ -1,1 +1,0 @@
-ZPB-TTF is a TrueType file parser that provides an interface for reading typographic metrics, glyph outlines, and other information from the file.

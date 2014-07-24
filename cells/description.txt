@@ -1,2 +1,0 @@
-dataflow CLOS extension
-Cells is a mature, stable extension to CLOS that allows you to create classes, the instances of which have slots whose values are determined by a formula. Think of the slots as cells in a spreadsheet (get it?), and you've got the right idea. You can use any arbitrary Common Lisp expression to specify the value of a cell. The Cells system takes care of tracking dependencies among cells, and propagating values.

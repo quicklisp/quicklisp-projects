@@ -1,2 +1,0 @@
-ZCDB is a Common Lisp library for reading and writing D. J. Bernstein's fast and simple cdb database file format.
-

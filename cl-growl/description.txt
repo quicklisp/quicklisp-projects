@@ -1,2 +1,0 @@
-pure-CL growl protocol implementation
-Growl is a notification system for Mac OS X. It supports a small networking protocol called Growl Talk. This is a Common Lisp library that implements the Growl Talk protocol.

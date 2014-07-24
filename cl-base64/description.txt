@@ -1,2 +1,0 @@
-base64 encoding/decoding library
-cl-base64 is a development library that provides base64 encoding and decoding. The base64 encoding is specified by RFC 1521.

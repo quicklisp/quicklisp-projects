@@ -1,4 +1,0 @@
-sequence diffing library
-CL-DIFFLIB is a library for computing differences between pairs of sequences. It is nearly a transcription of Python's difflib module, which contains the following description of its algorithm:
-
-The basic algorithm predates, and is a little fancier than, an algorithm published in the late 1980's by Ratcliff and Obershelp under the hyperbolic name "gestalt pattern matching". The basic idea is to find the longest contiguous matching subsequence that contains no "junk" elements (R-O doesn't address junk). The same idea is then applied recursively to the pieces of the sequences to the left and to the right of the matching subsequence. This does not yield minimal edit sequences, but does tend to yield matches that "look right" to people.

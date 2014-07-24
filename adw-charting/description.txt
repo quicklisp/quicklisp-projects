@@ -1,2 +1,0 @@
-simple drawing of bar, line, pie charts and star ratings
-ADW-Charting is a simple chart drawing library for quickly creating reasonable-looking charts. It presents a function-oriented interface similar to Vecto, and saves results to PNG. It can currently be used to create pie charts, line charts, bar charts and star ratings. It lets you choose either google charts or the vecto vector drawing library as a back-end.

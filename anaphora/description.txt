@@ -1,2 +1,0 @@
-anaphoric macro collection
-Anaphora is the anaphoric macro collection from Hell: it includes many new fiends in addition to olds friends like AIF and AWHEN.

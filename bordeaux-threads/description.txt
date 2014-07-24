@@ -1,2 +1,0 @@
-thread portability library
-Bordeaux-Threads is a library to write multi-threaded applications in a portable way.

@@ -1,5 +1,0 @@
-generic containers (trees, heaps, sparse arrays, etc) library
-Common Lisp ships with a set of powerful built in data structures including the venerable list, full featured arrays, and hash-tables. CL-containers enhances and builds on these structures in two ways:
-
-* By adding containers that are not available in native Lisp (for example: binary search trees, red-black trees, sparse arrays and so on).
-* By providing a standard interface so that they are simpler to use and so that changing design decisions becomes significantly easier.

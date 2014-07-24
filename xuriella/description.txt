@@ -1,2 +1,0 @@
-Xuriella is an XSLT processor.
-Xuriella passes the XSLT 1.0 test suite, and allows XSLT extension elements to be implemented in Common Lisp.

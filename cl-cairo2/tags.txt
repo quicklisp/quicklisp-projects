@@ -1,3 +1,0 @@
-cairo
-cairo2
-graphics

@@ -1,2 +1,0 @@
-cairo2 bindings
-cl-cairo2 is a graphics library that provides Common Lisp bindings for the Cairo API.

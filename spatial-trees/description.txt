@@ -1,1 +1,0 @@
-dynamic index structures for spatially-extended data

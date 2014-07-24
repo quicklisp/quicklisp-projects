@@ -1,1 +1,0 @@
-xarray is a generalized interface for array-like objects with views.

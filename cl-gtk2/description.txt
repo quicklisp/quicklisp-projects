@@ -1,2 +1,0 @@
-Gtk+ GUI library bindings
-CL-GTK2 is a Common Lisp GUI library that provides access to the Gtk+ cross-platform GUI library in idiomatic Lisp style.

@@ -1,1 +1,0 @@
-X.FDATATYPES implements purely functional/persistent hash table, array, and set data structures, and several functions (map/fold/filter) to work with them.
