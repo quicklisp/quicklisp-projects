@@ -1,1 +1,1 @@
-git git://github.com/nubgames/djula.git
+git git://github.com/mmontone/djula.git
