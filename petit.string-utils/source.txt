@@ -1,0 +1,1 @@
+git https://github.com/ichimal/petit.string-utils.git
