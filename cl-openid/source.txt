@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/cl-openid/darcs/cl-openid/
+git git://github.com/cl-openid/cl-openid.git
