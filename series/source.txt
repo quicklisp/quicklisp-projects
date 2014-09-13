@@ -1,1 +1,1 @@
-git git://series.git.sourceforge.net/gitroot/series/series
+git git://git.code.sf.net/p/series/series
