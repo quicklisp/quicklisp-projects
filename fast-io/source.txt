@@ -1,1 +1,1 @@
-branched-git git://github.com/rpav/fast-io.git release
+git git://github.com/rpav/fast-io.git 
