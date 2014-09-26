@@ -75,3 +75,5 @@ asdf-driver generate-asdf
 wookie plugin
 
 weblocks weblocks-demo
+
+cl-cffi-gtk lisp-unit
