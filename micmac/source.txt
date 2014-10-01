@@ -1,1 +1,1 @@
-http http://quotenil.com/micmac/micmac-latest.tar.gz
+git https://github.com/melisgl/micmac.git

@@ -1,1 +1,1 @@
-git http://quotenil.com/git/lassie.git
+git https://github.com/melisgl/lassie.git

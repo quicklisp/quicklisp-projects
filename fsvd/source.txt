@@ -1,1 +1,1 @@
-git http://quotenil.com/git/fsvd.git
+git https://github.com/melisgl/fsvd.git

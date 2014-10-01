@@ -1,1 +1,1 @@
-tagged-git http://quotenil.com/git/mgl.git v0.0.5-pre-cuda
+tagged-git https://github.com/melisgl/mgl.git v0.0.5-pre-cuda
