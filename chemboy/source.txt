@@ -1,1 +1,0 @@
-http http://common-lisp.net/project/chemboy/chemboy-latest.tar.gz
