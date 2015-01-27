@@ -1,1 +1,1 @@
-git git://github.com/sykopomp/sheeple.git
+git git://github.com/zkat/sheeple.git

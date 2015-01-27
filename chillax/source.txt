@@ -1,1 +1,1 @@
-git git://github.com/sykopomp/chillax.git
+git git://github.com/zkat/chillax.git

@@ -1,1 +1,1 @@
-git git://github.com/sykopomp/cl-devil.git
+git git://github.com/zkat/cl-devil.git
