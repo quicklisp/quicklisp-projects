@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/mime4cl-20140621.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/mime4cl-latest.tbz
