@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/metafs-20121127.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/metafs-latest.tbz

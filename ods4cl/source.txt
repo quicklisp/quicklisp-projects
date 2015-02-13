@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/ods4cl-20090828.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/ods4cl-latest.tbz

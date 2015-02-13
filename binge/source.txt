@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/binge-20110816.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/binge-latest.tbz

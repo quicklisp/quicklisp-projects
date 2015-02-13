@@ -1,1 +1,1 @@
-wcpware-http http://wcp.sdf-eu.org/software/html-sugar-20110816.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/html-sugar-latest.tbz

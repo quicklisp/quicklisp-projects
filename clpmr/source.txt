@@ -1,2 +1,2 @@
-wcpware-http http://wcp.sdf-eu.org/software/clpmr-20120618.src.tbz
+http-bz2 http://wcp.sdf-eu.org/software/clpmr-latest.tbz
 
