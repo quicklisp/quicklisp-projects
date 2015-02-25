@@ -1,1 +1,2 @@
-git git://github.com/rolando2424/trivial-dump-core.git
+git https://github.com/rolpereira/trivial-dump-core.git
+
