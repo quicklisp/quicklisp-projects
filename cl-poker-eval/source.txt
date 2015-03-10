@@ -1,0 +1,1 @@
+git https://github.com/jperson/cl-poker-eval.git
