@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/slime/slime_latest.tar.gz
+https https://common-lisp.net/project/slime/slime_latest.tar.gz
