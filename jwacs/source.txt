@@ -1,1 +1,2 @@
-darcs http://chumsley.org/jwacs/unstable
+git https://github.com/chumsley/jwacs.git
+
