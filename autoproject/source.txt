@@ -1,1 +1,0 @@
-svn http://autoproject.googlecode.com/svn/trunk/
