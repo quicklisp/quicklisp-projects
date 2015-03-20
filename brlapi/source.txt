@@ -1,1 +1,0 @@
-svn http://mielke.cc/svn/releases/brltty-3.10/Bindings/Lisp/
