@@ -1,1 +1,1 @@
-git git://gitorious.org/conium/conium.git
+git https://gitorious.org/conium/conium.git
