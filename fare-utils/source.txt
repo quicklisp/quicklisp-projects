@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/fare-utils.git
+git https://gitlab.common-lisp.net/frideau/fare-utils.git

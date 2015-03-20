@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/xhtmlambda/XHTMLambda.git
+git https://gitlab.common-lisp.net/xhtmlambda/XHTMLambda.git

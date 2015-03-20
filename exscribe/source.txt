@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/exscribe.git
+git https://gitlab.common-lisp.net/frideau/exscribe.git

@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/fare-quasiquote.git
+git https://gitlab.common-lisp.net/frideau/fare-quasiquote.git

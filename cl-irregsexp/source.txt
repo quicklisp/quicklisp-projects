@@ -1,1 +1,1 @@
-git http://common-lisp.net/projects/cl-irregsexp/cl-irregsexp.git
+git https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git

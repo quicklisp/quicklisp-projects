@@ -1,2 +1,1 @@
-git http://common-lisp.net/projects/clazy/git/clazy.git/
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/clazy/cvsroot
+git https://gitlab.common-lisp.net/clazy/clazy.git

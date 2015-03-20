@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/asdf/asdf-package-system.git
+git https://gitlab.common-lisp.net/asdf/asdf-package-system.git

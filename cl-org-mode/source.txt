@@ -1,1 +1,1 @@
-git http://common-lisp.net/project/cl-org-mode/cl-org-mode.git
+git https://gitlab.common-lisp.net/cl-org-mode/cl-org-mode.git

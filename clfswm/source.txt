@@ -1,2 +1,1 @@
-git git://common-lisp.net/projects/clfswm/clfswm.git
-
+git https://gitlab.common-lisp.net/clfswm/clfswm.git

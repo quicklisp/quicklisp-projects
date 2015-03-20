@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/qitab/lisp-invocation.git
+git https://gitlab.common-lisp.net/qitab/lisp-invocation.git

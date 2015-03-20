@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/scribble.git
+git https://gitlab.common-lisp.net/frideau/scribble.git

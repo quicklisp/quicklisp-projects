@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/fare-mop.git
+git https://gitlab.common-lisp.net/frideau/fare-mop.git

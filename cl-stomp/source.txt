@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/cl-stomp/cl-stomp.git
+git https://gitlab.common-lisp.net/cl-stomp/cl-stomp.git

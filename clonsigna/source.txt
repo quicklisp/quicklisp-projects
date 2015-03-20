@@ -1,2 +1,1 @@
-git git://common-lisp.net/projects/clonsigna/clonsigna.git
-
+git https://gitlab.common-lisp.net/clonsigna/clonsigna.git

@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/meta.git
+git https://gitlab.common-lisp.net/frideau/meta.git

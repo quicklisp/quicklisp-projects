@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/qitab/quux-time.git
+git https://gitlab.common-lisp.net/qitab/quux-time.git

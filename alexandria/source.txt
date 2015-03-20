@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/alexandria/alexandria.git
+git https://gitlab.common-lisp.net/alexandria/alexandria.git

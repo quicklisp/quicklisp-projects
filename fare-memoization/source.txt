@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/fare-memoization.git
+git https://gitlab.common-lisp.net/frideau/fare-memoization.git

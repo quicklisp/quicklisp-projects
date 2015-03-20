@@ -1,1 +1,1 @@
-git git://common-lisp.net/users/frideau/fare-csv.git
+git https://gitlab.common-lisp.net/frideau/fare-csv.git

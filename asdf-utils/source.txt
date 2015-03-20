@@ -1,1 +1,1 @@
-git git://common-lisp.net/projects/asdf/asdf-utils.git
+git https://gitlab.common-lisp.net/asdf/asdf-utils.git
