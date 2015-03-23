@@ -1,1 +1,2 @@
-git git://repo.or.cz/gsll.git
+git https://gitlab.common-lisp.net/antik/gsll.git
+
