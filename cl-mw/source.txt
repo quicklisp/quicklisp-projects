@@ -1,1 +1,1 @@
-git http://pages.cs.wisc.edu/~psilord/lisp-public/public-repos-lisp/cl-mw.git
+git https://github.com/psilord/cl-mw.git
