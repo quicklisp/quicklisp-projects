@@ -1,2 +1,2 @@
-https http://common-lisp.net/project/xmls/xmls-1.7.tar.gz
+https http://common-lisp.net/project/xmls/xmls-1.7.tgz
 
