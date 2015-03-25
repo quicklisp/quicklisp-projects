@@ -1,1 +1,1 @@
-git git://github.com/arielnetworks/cl-annot.git
+git git://github.com/m2ym/cl-annot.git
