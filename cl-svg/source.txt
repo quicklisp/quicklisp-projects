@@ -1,1 +1,1 @@
-http http://cl-svg.googlecode.com/files/cl-svg-0.02.tar.gz
+git https://github.com/wmannis/cl-svg

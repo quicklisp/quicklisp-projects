@@ -1,1 +1,1 @@
-svn http://simple-rgb.googlecode.com/svn/trunk/
+git https://github.com/wmannis/simple-rgb
