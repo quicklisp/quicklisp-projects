@@ -1,2 +1,3 @@
-git https://gitlab.common-lisp.net/antik/gsll.git
+branched-git https://gitlab.common-lisp.net/antik/gsll.git master
+
 
