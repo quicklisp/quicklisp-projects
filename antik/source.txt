@@ -1,1 +1,2 @@
-git https://gitlab.common-lisp.net/antik/antik.git
+branched-git https://gitlab.common-lisp.net/antik/antik.git master
+
