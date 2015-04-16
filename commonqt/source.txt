@@ -1,1 +1,2 @@
-git https://gitorious.org/commonqt/commonqt.git
+git https://github.com/commonqt/commonqt.git
+
