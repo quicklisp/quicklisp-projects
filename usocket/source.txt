@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/usocket/releases/usocket-latest.tar.gz
+https http://common-lisp.net/project/usocket/releases/usocket-latest.tar.gz
