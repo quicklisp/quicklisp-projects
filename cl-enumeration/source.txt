@@ -1,1 +1,2 @@
-cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/cl-enumeration/cvsroot enumerations
+git https://gitlab.common-lisp.net/cl-enumeration/enumerations.git
+

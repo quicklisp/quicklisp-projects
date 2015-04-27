@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/climacs/cvsroot
+git https://gitlab.common-lisp.net/climacs/climacs.git

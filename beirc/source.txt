@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/beirc/cvsroot
+git https://gitlab.common-lisp.net/beirc/beirc.git
