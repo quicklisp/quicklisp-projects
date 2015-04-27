@@ -1,1 +1,1 @@
-mercurial http://common-lisp.net/project/f2cl/hg/f2cl
+git https://gitlab.common-lisp.net/f2cl/f2cl.git
