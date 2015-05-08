@@ -1,1 +1,0 @@
-single-file http://xmlisp.googlecode.com/svn/trunk/XMLisp/sources/XMLisp/XMLisp.lisp

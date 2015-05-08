@@ -1,1 +1,0 @@
-darcs http://common-lisp.net/project/lisp-on-lines/repo/relational-objects-for-lisp/

@@ -1,3 +1,0 @@
-git git://github.com/zkat/until-it-dies.git
-
-

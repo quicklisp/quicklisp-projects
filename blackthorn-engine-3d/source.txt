@@ -1,1 +1,0 @@
-mercurial https://blackthorn-engine-3d.googlecode.com/hg/
