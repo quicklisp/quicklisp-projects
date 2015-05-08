@@ -1,1 +1,0 @@
-darcs http://labs.core.gen.tr/repos/arnesi_dev/
