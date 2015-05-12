@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/rucksack/cvsroot
+git https://gitlab.common-lisp.net/rucksack/rucksack.git

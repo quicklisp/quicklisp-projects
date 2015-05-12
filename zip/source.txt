@@ -1,2 +1,1 @@
-cvs :pserver:anonymous:anonymous:anonymous@common-lisp.net:/project/zip/cvsroot
-
+git https://gitlab.common-lisp.net/zip/zip.git

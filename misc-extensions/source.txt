@@ -1,1 +1,1 @@
-cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/misc-extensions/cvsroot devel
+git https://gitlab.common-lisp.net/misc-extensions/devel.git

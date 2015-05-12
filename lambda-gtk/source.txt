@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/lambda-gtk/cvsroot
+git https://gitlab.common-lisp.net/lambda-gtk/lambda-gtk.git

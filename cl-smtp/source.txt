@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-smtp/cvsroot
+git https://gitlab.common-lisp.net/cl-smtp/cl-smtp.git

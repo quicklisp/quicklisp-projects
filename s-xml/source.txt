@@ -1,2 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/s-xml/cvsroot
-
+git https://gitlab.common-lisp.net/s-xml/s-xml.git

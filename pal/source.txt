@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/pal/cvsroot
+git https://gitlab.common-lisp.net/pal/pal.git

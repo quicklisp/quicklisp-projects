@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-cli-parser/cvsroot
+git https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git

@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/pg/cvsroot
+git https://gitlab.common-lisp.net/pg/pg.git

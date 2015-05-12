@@ -1,1 +1,1 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-unification/cvsroot
+git https://gitlab.common-lisp.net/cl-unification/cl-unification.git
