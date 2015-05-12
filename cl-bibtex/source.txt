@@ -1,1 +1,2 @@
-cvs :pserver:anonymous:anonymous@cvs.sv.gnu.org:/sources/cl-bibtex
+git https://github.com/mkoeppe/cl-bibtex.git
+
