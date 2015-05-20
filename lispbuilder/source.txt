@@ -1,1 +1,3 @@
-svn http://lispbuilder.googlecode.com/svn/trunk/
+git https://github.com/lispbuilder/lispbuilder.git
+
+
