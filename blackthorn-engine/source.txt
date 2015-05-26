@@ -1,1 +1,1 @@
-mercurial https://code.google.com/p/blackthorn-engine/
+mercurial https://bitbucket.org/elliottslaughter/blackthorn-engine
