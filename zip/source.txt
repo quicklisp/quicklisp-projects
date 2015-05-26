@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/zip/zip.git
+git https://github.com/bluelisp/zip.git
