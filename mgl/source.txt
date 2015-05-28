@@ -1,1 +1,1 @@
-tagged-git https://github.com/melisgl/mgl.git v0.0.5-pre-cuda
+branched-git https://github.com/melisgl/mgl.git pre-cuda
