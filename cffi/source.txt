@@ -1,4 +1,4 @@
-http http://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
+https https://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
 
 
 
