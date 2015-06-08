@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/pidu/rpc4cl
+git https://github.com/pidu/rpc4cl.git
