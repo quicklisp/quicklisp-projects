@@ -79,3 +79,5 @@ weblocks weblocks-demo
 cl-cffi-gtk lisp-unit
 
 swank-protocol swank-protocol-test
+
+linedit terminfo
