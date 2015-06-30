@@ -1,1 +1,2 @@
-git https://git.gitorious.org/com-informatimago/com-informatimago.git
+git https://gitlab.com/com-informatimago/com-informatimago.git
+

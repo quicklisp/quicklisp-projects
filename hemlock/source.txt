@@ -1,1 +1,1 @@
-git https://gitorious.org/hemlock/hemlock.git
+git https://github.com/bluelisp/hemlock.git

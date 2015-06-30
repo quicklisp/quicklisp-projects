@@ -1,1 +1,2 @@
-git https://gitorious.org/conium/conium.git
+git https://github.com/bluelisp/conium.git
+

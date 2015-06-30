@@ -1,1 +1,2 @@
-git https://gitorious.org/prepl/prepl.git
+git https://github.com/bluelisp/prepl.git
+
