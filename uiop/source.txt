@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/asdf/archives/uiop.tar.gz
+https http://common-lisp.net/project/asdf/archives/uiop.tar.gz
