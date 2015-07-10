@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/submarine/darcs/submarine/
+darcs https://common-lisp.net/project/submarine/darcs/submarine/

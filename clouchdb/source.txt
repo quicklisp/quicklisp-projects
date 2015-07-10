@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/clouchdb/clouchdb-latest.tar.gz
+https https://common-lisp.net/project/clouchdb/clouchdb-latest.tar.gz

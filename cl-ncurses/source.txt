@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-ncurses/files/cl-ncurses_latest-version.tgz
+https https://common-lisp.net/project/cl-ncurses/files/cl-ncurses_latest-version.tgz

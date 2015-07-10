@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/ucw/darcs/rfc2388-binary/
+darcs https://common-lisp.net/project/ucw/darcs/rfc2388-binary/

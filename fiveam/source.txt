@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/fiveam/files/fiveam-latest.tar.gz
+https https://common-lisp.net/project/fiveam/files/fiveam-latest.tar.gz

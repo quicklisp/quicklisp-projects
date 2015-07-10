@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-irc/releases/cl-irc_latest.tar.gz
+https https://common-lisp.net/project/cl-irc/releases/cl-irc_latest.tar.gz
