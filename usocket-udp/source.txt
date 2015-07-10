@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/cl-net-snmp/release/usocket-udp_latest.tar.gz
+https https://common-lisp.net/project/cl-net-snmp/release/usocket-udp_latest.tar.gz

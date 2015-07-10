@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/parse-declarations/darcs/parse-declarations
+darcs https://common-lisp.net/project/parse-declarations/darcs/parse-declarations

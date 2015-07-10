@@ -1,1 +1,1 @@
-darcs http://www.common-lisp.net/project/elephant/darcs/elephant-1.0
+darcs https://www.common-lisp.net/project/elephant/darcs/elephant-1.0

@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/eager-future/repository/eager-future/
+darcs https://common-lisp.net/project/eager-future/repository/eager-future/
