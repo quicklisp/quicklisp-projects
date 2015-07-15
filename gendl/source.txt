@@ -1,1 +1,1 @@
-git git://github.com/genworks/gendl.git
+git https://gitlab.common-lisp.net/gendl/gendl.git
