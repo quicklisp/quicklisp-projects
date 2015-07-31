@@ -1,1 +1,1 @@
-git http://www.prism.gatech.edu/~ndantam3/git/s-protobuf.git
+git https://github.com/ndantam/s-protobuf.git
