@@ -1,1 +1,1 @@
-git http://mr.gy/maintenance/cl-qprint/cl-qprint.git
+git https://github.com/eugeneia/cl-qprint.git

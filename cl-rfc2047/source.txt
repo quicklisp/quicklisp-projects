@@ -1,1 +1,1 @@
-git http://mr.gy/maintenance/cl-rfc2047/cl-rfc2047.git
+git https://github.com/eugeneia/cl-rfc2047.git

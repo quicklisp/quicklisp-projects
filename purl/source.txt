@@ -1,1 +1,1 @@
-git http://mr.gy/software/purl/purl.git
+git https://github.com/eugeneia/purl.git

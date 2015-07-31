@@ -1,1 +1,1 @@
-git https://gitorious.org/dh-misc/mini-cas.git
+git http://git.tentpost.com/git/lisp/mini-cas.git

@@ -1,1 +1,1 @@
-git http://mr.gy/maintenance/mpc/mpc.git
+git https://github.com/eugeneia/mpc.git
