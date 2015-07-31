@@ -20,3 +20,5 @@
 
 # For fset's Code/fset.asd
 /Code/
+
+/Outdated Demos/
