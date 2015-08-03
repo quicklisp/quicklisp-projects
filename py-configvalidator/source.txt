@@ -1,2 +1,3 @@
+git https://github.com/arbscht/py-configvalidator.git
 git https://gitorious.org/py-configvalidator/py-configvalidator.git
 
