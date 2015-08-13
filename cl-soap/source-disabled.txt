@@ -1,1 +1,0 @@
-cvs :pserver:anonymous:anonymous@common-lisp.net:/project/cl-soap/cvsroot

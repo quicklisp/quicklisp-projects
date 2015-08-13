@@ -1,1 +1,0 @@
-mercurial https://code.google.com/p/def-symbol-readmacro/

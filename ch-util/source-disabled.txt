@@ -1,1 +1,0 @@
-git git://cyrusharmon.org/pub/git/ch-util.git

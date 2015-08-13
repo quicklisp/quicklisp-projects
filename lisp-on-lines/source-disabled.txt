@@ -1,2 +1,0 @@
-git git://github.com/drewc/lisp-on-lines
-

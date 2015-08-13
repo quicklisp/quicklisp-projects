@@ -1,1 +1,0 @@
-cvs :ext:common-lisp.net:/project/definer/cvsroot

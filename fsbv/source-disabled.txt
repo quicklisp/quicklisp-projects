@@ -1,1 +1,0 @@
-git git://repo.or.cz/fsbv.git

@@ -1,1 +1,0 @@
-git https://git.gitorious.org/com-informatimago/com-informatimago-rdp.git

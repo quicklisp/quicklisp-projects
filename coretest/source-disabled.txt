@@ -1,1 +1,0 @@
-git git://github.com/trialcodr/coretest.git
