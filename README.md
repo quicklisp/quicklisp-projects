@@ -1,5 +1,5 @@
-ABOUT QUICKLISP-PROJECTS
-------------------------------------------
+# ABOUT QUICKLISP-PROJECTS
+
 quicklisp-projects has metadata for Common Lisp projects tracked by
 Quicklisp. Each subdirectory is named after a project, and a project's
 subdirectory has a source.txt file describing how to get the project's
@@ -10,9 +10,14 @@ and updating Quicklisp data.
 
 
 
-TO ADD A PROJECT TO QUICKLISP
-------------------------------------------
-Please do NOT open a pull request.
+## TO ADD A PROJECT TO QUICKLISP
+
+For background info, see [Getting a library into
+Quicklisp](http://blog.quicklisp.org/2015/01/getting-library-into-quicklisp.html)
+and [Some problems when adding libraries to
+Quicklisp](http://blog.quicklisp.org/2015/01/some-problems-when-adding-libraries-to.html).
+
+Please do *not* open a pull request.
 
 Please open a github issue here:
 
