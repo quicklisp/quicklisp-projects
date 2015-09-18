@@ -1,1 +1,1 @@
-git https://github.com/dimitri/cl-ixf.git
+tagged-git https://github.com/dimitri/cl-ixf.git v0.9
