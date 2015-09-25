@@ -1,2 +1,2 @@
-tagged-git https://gitlab.com/com-informatimago/com-informatimago.git quicklisp
+git https://gitlab.com/com-informatimago/com-informatimago.git
 
