@@ -1,1 +1,1 @@
-git git://github.com/arielnetworks/cl-locale.git
+git https://github.com/fukamachi/cl-locale.git
