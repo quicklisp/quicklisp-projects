@@ -1,1 +1,0 @@
-git git://github.com/vii/teepeedee2.git
