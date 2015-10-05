@@ -1,2 +1,1 @@
-http http://www.thoughtcrime.us/software/cl-jpl-util/cl-jpl-util-0.4.tar.gz
-
+git https://github.com/rick-monster/cl-jpl-util.git

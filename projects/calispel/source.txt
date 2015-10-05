@@ -1,1 +1,1 @@
-http http://www.thoughtcrime.us/software/calispel/calispel-0.1.tar.gz
+git https://github.com/rick-monster/calispel.git
