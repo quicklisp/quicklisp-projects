@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/cl-permutation
+git https://bitbucket.org/tarballs_are_good/cl-permutation
