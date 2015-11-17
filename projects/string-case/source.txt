@@ -1,1 +1,1 @@
-single-file http://pvk.ca/string-case.lisp
+git https://github.com/pkhuong/string-case.git
