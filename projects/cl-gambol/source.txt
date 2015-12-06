@@ -1,1 +1,1 @@
-git https://github.com/wmannis/cl-gambol
+git https://github.com/thezerobit/cl-gambol.git
