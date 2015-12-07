@@ -1,1 +1,1 @@
-git git://github.com/WarrenWilkinson/read-csv.git
+git https://github.com/deadtrickster/read-csv.git
