@@ -1,1 +1,1 @@
-git git://github.com/Ramarren/cl-geometry.git
+git https://github.com/vydd/cl-geometry.git
