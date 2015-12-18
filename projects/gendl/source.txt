@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/gendl/gendl.git
+branched-git https://gitlab.common-lisp.net/gendl/gendl.git devo
