@@ -1,1 +1,2 @@
-https https://common-lisp.net/project/bordeaux-threads/releases/bordeaux-threads.tar.gz
+tagged-git https://github.com/sionescu/bordeaux-threads.git v0.8.4
+
