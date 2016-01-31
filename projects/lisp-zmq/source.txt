@@ -1,1 +1,1 @@
-http http://wandrian.net/download/lisp-zmq-1.5.0.tgz
+git https://github.com/galdor/lisp-zmq.git
