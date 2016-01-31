@@ -1,1 +1,1 @@
-tagged-git git://github.com/sharplispers/cl-jpeg.git quicklisp-0
+git git://github.com/sharplispers/cl-jpeg.git
