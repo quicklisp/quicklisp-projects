@@ -1,1 +1,1 @@
-git git://github.com/patzy/glop.git
+git https://github.com/lispgames/glop.git
