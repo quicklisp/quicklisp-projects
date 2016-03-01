@@ -1,0 +1,1 @@
+latest-github-release https://github.com/cl-rabbit/cl-bunny.git
