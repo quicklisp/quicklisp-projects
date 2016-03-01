@@ -1,0 +1,1 @@
+branched-git https://github.com/cbaggers/cepl.skitter.git release-quicklisp
