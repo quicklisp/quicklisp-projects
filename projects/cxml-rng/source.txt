@@ -1,1 +1,2 @@
-http http://www.lichteblau.com/cxml-rng/download/cxml-rng.tar.gz
+git http://www.lichteblau.com/git/cxml-rng.git
+
