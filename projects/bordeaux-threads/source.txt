@@ -1,2 +1,2 @@
-tagged-git https://github.com/sionescu/bordeaux-threads.git v0.8.4
+latest-github-release https://github.com/sionescu/bordeaux-threads.git
 
