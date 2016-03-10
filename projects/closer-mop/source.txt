@@ -1,1 +1,2 @@
-git git://git.code.sf.net/p/closer/closer-mop
+git git://github.com/pcostanza/closer-mop.git
+

@@ -1,1 +1,1 @@
-git git://git.code.sf.net/p/closer/contextl
+git git://github.com/pcostanza/contextl.git

@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/closer/repos/filtered-functions/
+git git://github.com/pcostanza/filtered-functions.git
+

@@ -1,1 +1,1 @@
-git git://git.code.sf.net/p/closer/lw-compat
+git git://github.com/pcostanza/lw-compat.git
