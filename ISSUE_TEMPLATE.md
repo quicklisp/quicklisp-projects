@@ -1,7 +1,7 @@
 
-# Please add <<library name>>.
+# Please add <library name>.
 
-<<Put a description of the library here.>>
+<Put a description of the library here.>
 
 Checklists:
 
@@ -24,10 +24,7 @@ Checklists:
 + [ ] My library has an usage instruction. (not a requirement)
 + [ ] I am an author of the library. (not a requirement)
 
-[Getting a library into Quicklisp](http://blog.quicklisp.org/2015/01/getting-library-into-quicklisp.html)
-[Some problems when adding libraries to Quicklisp](http://blog.quicklisp.org/2015/01/some-problems-when-adding-libraries-to.html).
-
-<<Add a link to your repository.>>
+<Add a link to your repository.>
 
 ## Author guideline (remove when you create an issue)
 
@@ -42,4 +39,9 @@ Checklists:
   compatibility to other libraries, extensibility, and not necessarily a
   new feature. See
   [Dealing with "redundant" libraries](http://blog.quicklisp.org/2015/04/dealing-with-redundant-libraries.html)
+
+See also:
+
++ [Getting a library into Quicklisp](http://blog.quicklisp.org/2015/01/getting-library-into-quicklisp.html)
++ [Some problems when adding libraries to Quicklisp](http://blog.quicklisp.org/2015/01/some-problems-when-adding-libraries-to.html).
 
