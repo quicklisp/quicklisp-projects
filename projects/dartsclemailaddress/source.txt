@@ -1,1 +1,1 @@
-git http://github.com/deterministic-arts/DartsCLEmailAddress.git
+branched-git http://github.com/deterministic-arts/DartsCLEmailAddress.git quicklisp-release
