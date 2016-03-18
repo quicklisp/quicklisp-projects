@@ -12,6 +12,7 @@ Checklists:
   + [ ] System name.
   + [ ] Package name / nickname.
   + [ ] Does not modify the global readtable destructively.
+  + [ ] Does not alter macroexpand-hook destructively.
 + [ ] My ASDF system has sufficient system definition metadata.
     + [ ] :license
     + [ ] :author
