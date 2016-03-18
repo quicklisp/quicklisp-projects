@@ -20,8 +20,9 @@ Checklists:
 + [ ] My library has a sufficient README describing its purpose.
 + [ ] My library does not depend on libraries outside Quicklisp.
 + [ ] My library does not depend on quicklisp itself.
-+ [ ] There is a library with the similar feature, but the motivation in
-      this library is clear (see below, not a requirement)
++ [ ] There is no library with the similar feature. Or, although there is a
+      similar library, I have a clear motivation to make it a standalone
+      library, and it is described in README (see below, not a requirement)
 + [ ] My library has an usage instruction. (not a requirement)
 + [ ] I am an author of the library. (not a requirement)
 
@@ -34,7 +35,7 @@ Checklists:
   want to use it from Common Lisp, and link to any useful information about
   the C library.
 + If there is a library with the similar feature, please consider
-  collaboration/coordination, rather than making an individual library.
+  collaboration/coordination, rather than writing an individual library.
   If this is unachievable, please describe what is different from/superior
   to those libraries. It could be speed, simpler implementation,
   compatibility to other libraries, extensibility, and not necessarily a
