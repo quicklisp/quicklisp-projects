@@ -18,8 +18,12 @@ Checklists:
     + [ ] :author
     + [ ] :description
 + [ ] My library has a sufficient README describing its purpose.
-+ [ ] My library does not depend on libraries outside Quicklisp.
++ [ ] My library does not depend on Common Lisp libraries outside Quicklisp.
 + [ ] My library does not depend on quicklisp itself.
++ [ ] My library does not depend on non-lisp libraries outside Quicklisp,
+      or they are easily installable by standard package managers (such as
+      apt-get, yum). In particular, it is available on Debian8. (not a requirement)
+    + [ ] The installation command below is comprehensive. (optional)
 + [ ] There is no library with the similar feature. Or, although there is a
       similar library, I have a clear motivation to make it a standalone
       library, and it is described in README (see below, not a requirement)
@@ -27,6 +31,12 @@ Checklists:
 + [ ] I am an author of the library. (not a requirement)
 
 <Add a link to your repository.>
+
+Commands for installing Non-lisp dependencies:
+
+```sh
+apt-get install <dependencies>
+```
 
 ## Author guideline (remove when you create an issue)
 
