@@ -1,1 +1,1 @@
-git git://github.com/hackinghat/cl-mysql.git
+git git://github.com/sharplispers/cl-mysql.git
