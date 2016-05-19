@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/symbol-munger.git
+git https://github.com/AccelerationNet/symbol-munger.git

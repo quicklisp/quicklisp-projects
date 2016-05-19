@@ -1,1 +1,1 @@
-git git://github.com/ahefner/mixalot.git
+git https://github.com/ahefner/mixalot.git

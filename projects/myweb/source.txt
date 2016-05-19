@@ -1,1 +1,1 @@
-git git://github.com/troydm/myweb.git
+git https://github.com/troydm/myweb.git

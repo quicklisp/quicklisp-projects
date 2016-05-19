@@ -1,1 +1,1 @@
-git git://github.com/skypher/weblocks.git
+git https://github.com/skypher/weblocks.git

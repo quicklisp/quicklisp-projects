@@ -1,1 +1,1 @@
-git git://github.com/flambard/cl-bert.git
+git https://github.com/flambard/cl-bert.git

@@ -1,1 +1,1 @@
-git git://github.com/ks/X.LET-STAR.git
+git https://github.com/ks/X.LET-STAR.git

@@ -1,2 +1,2 @@
-git git://github.com/archimag/restas-directory-publisher.git
-tagged-git git://github.com/archimag/restas-directory-publisher.git version-0.1
+git https://github.com/archimag/restas-directory-publisher.git
+tagged-git https://github.com/archimag/restas-directory-publisher.git version-0.1

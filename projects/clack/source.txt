@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/clack.git
+git https://github.com/fukamachi/clack.git

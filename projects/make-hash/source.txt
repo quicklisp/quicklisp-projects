@@ -1,1 +1,1 @@
-git git://github.com/genovese/make-hash.git
+git https://github.com/genovese/make-hash.git

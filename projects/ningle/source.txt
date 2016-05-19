@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/ningle.git
+git https://github.com/fukamachi/ningle.git

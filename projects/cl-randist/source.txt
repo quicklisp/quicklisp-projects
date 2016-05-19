@@ -1,1 +1,1 @@
-git git://github.com/lvaruzza/cl-randist.git
+git https://github.com/lvaruzza/cl-randist.git

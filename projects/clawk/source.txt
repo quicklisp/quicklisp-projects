@@ -1,2 +1,2 @@
-git git://github.com/sharplispers/clawk.git
+git https://github.com/sharplispers/clawk.git
 

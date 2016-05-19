@@ -1,1 +1,1 @@
-git git://github.com/marijnh/Postmodern.git
+git https://github.com/marijnh/Postmodern.git

@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/cl-inflector.git
+git https://github.com/AccelerationNet/cl-inflector.git

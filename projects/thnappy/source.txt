@@ -1,1 +1,1 @@
-git git://github.com/flambard/thnappy
+git https://github.com/flambard/thnappy

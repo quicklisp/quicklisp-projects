@@ -1,1 +1,1 @@
-git git://github.com/ebobby/cl-bplustree.git
+git https://github.com/ebobby/cl-bplustree.git

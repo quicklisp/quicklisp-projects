@@ -1,1 +1,1 @@
-git git://github.com/zkat/cl-devil.git
+git https://github.com/zkat/cl-devil.git

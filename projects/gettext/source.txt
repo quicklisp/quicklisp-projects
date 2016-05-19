@@ -1,1 +1,1 @@
-git git://github.com/copyleft/gettext.git
+git https://github.com/copyleft/gettext.git

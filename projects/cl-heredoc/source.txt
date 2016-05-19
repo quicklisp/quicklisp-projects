@@ -1,1 +1,1 @@
-git git://github.com/e-user/cl-heredoc.git
+git https://github.com/e-user/cl-heredoc.git

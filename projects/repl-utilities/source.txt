@@ -1,1 +1,1 @@
-git git://github.com/m-n/repl-utilities.git
+git https://github.com/m-n/repl-utilities.git

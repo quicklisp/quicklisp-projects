@@ -1,1 +1,1 @@
-git git://github.com/gonzojive/amazon-ecs
+git https://github.com/gonzojive/amazon-ecs

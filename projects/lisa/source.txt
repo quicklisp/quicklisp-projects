@@ -1,1 +1,1 @@
-git git://github.com/johanlindberg/lisa.git
+git https://github.com/johanlindberg/lisa.git

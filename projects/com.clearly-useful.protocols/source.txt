@@ -1,1 +1,1 @@
-git git://github.com/jaeschliman/com.clearly-useful.protocols.git
+git https://github.com/jaeschliman/com.clearly-useful.protocols.git

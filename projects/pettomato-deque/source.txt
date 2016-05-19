@@ -1,1 +1,1 @@
-git git://github.com/austinhaas/pettomato-deque.git
+git https://github.com/austinhaas/pettomato-deque.git

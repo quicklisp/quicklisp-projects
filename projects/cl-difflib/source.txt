@@ -1,1 +1,1 @@
-git git://github.com/wiseman/cl-difflib.git
+git https://github.com/wiseman/cl-difflib.git

@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/function-cache.git
+git https://github.com/AccelerationNet/function-cache.git

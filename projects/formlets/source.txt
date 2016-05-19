@@ -1,1 +1,1 @@
-git git://github.com/Inaimathi/formlets.git
+git https://github.com/Inaimathi/formlets.git

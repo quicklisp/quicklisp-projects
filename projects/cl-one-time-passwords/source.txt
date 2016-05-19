@@ -1,1 +1,1 @@
-git git://github.com/bhyde/cl-one-time-passwords.git
+git https://github.com/bhyde/cl-one-time-passwords.git

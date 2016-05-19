@@ -1,1 +1,1 @@
-git git://github.com/pve1/apply-argv.git
+git https://github.com/pve1/apply-argv.git

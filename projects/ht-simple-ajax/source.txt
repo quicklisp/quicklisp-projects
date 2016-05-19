@@ -1,1 +1,1 @@
-git git://github.com/martin-loetzsch/ht-simple-ajax.git
+git https://github.com/martin-loetzsch/ht-simple-ajax.git

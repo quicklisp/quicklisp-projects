@@ -1,1 +1,1 @@
-git git://github.com/tkych/quicksearch.git
+git https://github.com/tkych/quicksearch.git

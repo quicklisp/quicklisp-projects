@@ -1,1 +1,1 @@
-git git://github.com/kanru/cl-mustache.git
+git https://github.com/kanru/cl-mustache.git

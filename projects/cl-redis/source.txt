@@ -1,1 +1,1 @@
-git git://github.com/vseloved/cl-redis.git
+git https://github.com/vseloved/cl-redis.git

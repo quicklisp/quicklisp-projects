@@ -1,1 +1,1 @@
-git git://github.com/pnathan/cl-yahoo-finance.git
+git https://github.com/pnathan/cl-yahoo-finance.git

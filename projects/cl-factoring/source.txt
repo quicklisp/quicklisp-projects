@@ -1,1 +1,1 @@
-git git://github.com/smithzvk/cl-factoring.git
+git https://github.com/smithzvk/cl-factoring.git

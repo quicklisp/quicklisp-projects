@@ -1,2 +1,2 @@
-git git://github.com/gwkkwg/cl-html-parse.git
+git https://github.com/gwkkwg/cl-html-parse.git
 

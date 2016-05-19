@@ -1,1 +1,1 @@
-git git://github.com/rpav/cl-gendoc.git
+git https://github.com/rpav/cl-gendoc.git

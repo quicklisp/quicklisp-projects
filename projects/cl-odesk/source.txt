@@ -1,1 +1,1 @@
-git git://github.com/dym/cl-odesk.git
+git https://github.com/dym/cl-odesk.git

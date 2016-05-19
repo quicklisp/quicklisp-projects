@@ -1,1 +1,1 @@
-git git://github.com/Ramarren/cl-parser-combinators.git
+git https://github.com/Ramarren/cl-parser-combinators.git

@@ -1,1 +1,1 @@
-git git://github.com/mabragor/defmacro-enhance.git
+git https://github.com/mabragor/defmacro-enhance.git

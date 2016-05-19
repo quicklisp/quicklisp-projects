@@ -1,1 +1,1 @@
-git git://github.com/smithzvk/modf.git
+git https://github.com/smithzvk/modf.git

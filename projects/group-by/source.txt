@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/group-by.git
+git https://github.com/AccelerationNet/group-by.git

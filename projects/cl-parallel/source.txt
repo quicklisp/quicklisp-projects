@@ -1,1 +1,1 @@
-git git://github.com/nahiluhmot/cl-parallel.git
+git https://github.com/nahiluhmot/cl-parallel.git

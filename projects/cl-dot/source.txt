@@ -1,1 +1,1 @@
-git git://github.com/michaelw/cl-dot.git
+git https://github.com/michaelw/cl-dot.git

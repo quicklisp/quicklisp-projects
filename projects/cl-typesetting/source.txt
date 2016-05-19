@@ -1,1 +1,1 @@
-git git://github.com/mbattyani/cl-typesetting.git
+git https://github.com/mbattyani/cl-typesetting.git

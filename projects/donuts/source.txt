@@ -1,1 +1,1 @@
-git git://github.com/tkych/donuts.git
+git https://github.com/tkych/donuts.git

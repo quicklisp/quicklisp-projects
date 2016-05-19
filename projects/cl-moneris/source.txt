@@ -1,1 +1,1 @@
-git git://github.com/vsedach/cl-moneris.git
+git https://github.com/vsedach/cl-moneris.git

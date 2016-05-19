@@ -1,1 +1,1 @@
-git git://github.com/pkhuong/Xecto.git
+git https://github.com/pkhuong/Xecto.git

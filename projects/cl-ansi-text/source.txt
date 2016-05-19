@@ -1,1 +1,1 @@
-git git://github.com/pnathan/cl-ansi-text.git
+git https://github.com/pnathan/cl-ansi-text.git

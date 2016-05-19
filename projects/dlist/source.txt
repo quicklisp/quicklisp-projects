@@ -1,1 +1,1 @@
-git git://github.com/krzysz00/dlist.git
+git https://github.com/krzysz00/dlist.git

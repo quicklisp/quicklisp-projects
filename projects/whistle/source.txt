@@ -1,1 +1,1 @@
-git git://github.com/gigamonkey/whistle.git
+git https://github.com/gigamonkey/whistle.git

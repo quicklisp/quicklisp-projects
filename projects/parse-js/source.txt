@@ -1,2 +1,2 @@
-git git://github.com/marijnh/parse-js.git
+git https://github.com/marijnh/parse-js.git
 

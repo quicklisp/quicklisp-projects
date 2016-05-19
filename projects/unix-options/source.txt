@@ -1,1 +1,1 @@
-git git://github.com/astine/unix-options.git
+git https://github.com/astine/unix-options.git

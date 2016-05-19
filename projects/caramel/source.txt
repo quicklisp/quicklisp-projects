@@ -1,1 +1,1 @@
-git git://github.com/pocket7878/Caramel.git
+git https://github.com/pocket7878/Caramel.git

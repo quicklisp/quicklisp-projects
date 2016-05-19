@@ -1,1 +1,1 @@
-git git://github.com/e-user/evol.git
+git https://github.com/e-user/evol.git

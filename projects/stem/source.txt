@@ -1,1 +1,1 @@
-git git://github.com/hanshuebner/stem.git
+git https://github.com/hanshuebner/stem.git

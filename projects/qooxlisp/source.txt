@@ -1,1 +1,1 @@
-git git://github.com/kennytilton/qooxlisp.git
+git https://github.com/kennytilton/qooxlisp.git

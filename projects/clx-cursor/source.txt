@@ -1,1 +1,1 @@
-git git://github.com/filonenko-mikhail/clx-cursor.git
+git https://github.com/filonenko-mikhail/clx-cursor.git

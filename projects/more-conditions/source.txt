@@ -1,1 +1,1 @@
-git git://github.com/scymtym/more-conditions.git
+git https://github.com/scymtym/more-conditions.git

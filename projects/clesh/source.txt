@@ -1,1 +1,1 @@
-git git://github.com/Neronus/clesh.git
+git https://github.com/Neronus/clesh.git

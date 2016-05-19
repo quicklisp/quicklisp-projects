@@ -1,2 +1,2 @@
-git git://github.com/gonzojive/paren-psos
+git https://github.com/gonzojive/paren-psos
 

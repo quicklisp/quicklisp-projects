@@ -1,1 +1,1 @@
-git git://github.com/starseeker/cl-lexer.git
+git https://github.com/starseeker/cl-lexer.git

@@ -1,1 +1,1 @@
-git git://github.com/woudshoo/rectangle-packing.git
+git https://github.com/woudshoo/rectangle-packing.git

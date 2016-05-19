@@ -1,2 +1,2 @@
-git git://github.com/froydnj/chipz.git
+git https://github.com/froydnj/chipz.git
 

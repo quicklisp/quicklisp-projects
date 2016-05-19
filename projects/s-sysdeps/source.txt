@@ -1,1 +1,1 @@
-git git://github.com/svenvc/s-sysdeps.git
+git https://github.com/svenvc/s-sysdeps.git

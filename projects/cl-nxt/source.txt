@@ -1,1 +1,1 @@
-git git://github.com/woudshoo/cl-nxt.git
+git https://github.com/woudshoo/cl-nxt.git

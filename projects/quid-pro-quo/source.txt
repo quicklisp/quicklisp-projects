@@ -1,1 +1,1 @@
-git git://github.com/sellout/quid-pro-quo.git
+git https://github.com/sellout/quid-pro-quo.git

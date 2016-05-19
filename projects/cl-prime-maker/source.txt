@@ -1,1 +1,1 @@
-git git://github.com/nakrakiiya/cl-prime-maker.git
+git https://github.com/nakrakiiya/cl-prime-maker.git

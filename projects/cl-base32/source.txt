@@ -1,1 +1,1 @@
-git git://github.com/hargettp/cl-base32.git
+git https://github.com/hargettp/cl-base32.git

@@ -1,1 +1,1 @@
-git git://github.com/gwkkwg/log5
+git https://github.com/gwkkwg/log5

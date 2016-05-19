@@ -1,1 +1,1 @@
-git git://github.com/jamtho/twfy.git
+git https://github.com/jamtho/twfy.git

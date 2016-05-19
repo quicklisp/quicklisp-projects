@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/access.git
+git https://github.com/AccelerationNet/access.git

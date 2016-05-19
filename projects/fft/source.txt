@@ -1,1 +1,1 @@
-git git://github.com/nklein/FFT.git
+git https://github.com/nklein/FFT.git

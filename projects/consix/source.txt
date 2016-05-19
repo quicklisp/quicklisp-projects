@@ -1,1 +1,1 @@
-git git://github.com/death/consix.git
+git https://github.com/death/consix.git

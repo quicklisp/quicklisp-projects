@@ -1,1 +1,1 @@
-git git://github.com/austinhaas/pettomato-indexed-priority-queue.git
+git https://github.com/austinhaas/pettomato-indexed-priority-queue.git

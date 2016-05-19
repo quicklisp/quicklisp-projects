@@ -1,1 +1,1 @@
-git git://github.com/chfin/treedb.git
+git https://github.com/chfin/treedb.git

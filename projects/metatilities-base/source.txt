@@ -1,1 +1,1 @@
-git git://github.com/gwkkwg/metatilities-base.git
+git https://github.com/gwkkwg/metatilities-base.git

@@ -1,1 +1,1 @@
-git git://github.com/zzkt/osc.git
+git https://github.com/zzkt/osc.git

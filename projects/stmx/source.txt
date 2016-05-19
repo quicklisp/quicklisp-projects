@@ -1,1 +1,1 @@
-branched-git git://github.com/cosmos72/stmx.git stable
+branched-git https://github.com/cosmos72/stmx.git stable

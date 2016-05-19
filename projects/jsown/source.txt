@@ -1,1 +1,1 @@
-git git://github.com/madnificent/jsown.git
+git https://github.com/madnificent/jsown.git

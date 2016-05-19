@@ -1,1 +1,1 @@
-git git://github.com/eslick/chtml-matcher.git
+git https://github.com/eslick/chtml-matcher.git

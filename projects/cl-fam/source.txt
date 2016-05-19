@@ -1,1 +1,1 @@
-git git://github.com/7max/cl-fam.git
+git https://github.com/7max/cl-fam.git

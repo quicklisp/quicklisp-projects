@@ -1,1 +1,1 @@
-git git://github.com/3b/cl-opengl.git
+git https://github.com/3b/cl-opengl.git

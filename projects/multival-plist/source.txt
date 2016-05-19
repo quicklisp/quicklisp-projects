@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/multival-plist.git
+git https://github.com/fukamachi/multival-plist.git

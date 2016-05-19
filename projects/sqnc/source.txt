@@ -1,1 +1,1 @@
-git git://github.com/tlh/sqnc.git
+git https://github.com/tlh/sqnc.git

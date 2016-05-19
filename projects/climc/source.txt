@@ -1,1 +1,1 @@
-git git://github.com/nlamirault/climc.git
+git https://github.com/nlamirault/climc.git

@@ -1,1 +1,1 @@
-git git://github.com/cl-openid/cl-openid.git
+git https://github.com/cl-openid/cl-openid.git

@@ -1,1 +1,1 @@
-git git://github.com/gwkkwg/moptilities.git
+git https://github.com/gwkkwg/moptilities.git

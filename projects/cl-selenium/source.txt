@@ -1,2 +1,2 @@
-git git://github.com/html/cl-selenium.git
+git https://github.com/html/cl-selenium.git
 

@@ -1,1 +1,1 @@
-git git://github.com/guicho271828/inner-conditional.git
+git https://github.com/guicho271828/inner-conditional.git

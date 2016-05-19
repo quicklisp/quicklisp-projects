@@ -1,1 +1,1 @@
-git git://github.com/metawilm/cl-custom-hash-table.git
+git https://github.com/metawilm/cl-custom-hash-table.git

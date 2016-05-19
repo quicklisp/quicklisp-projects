@@ -1,1 +1,1 @@
-git git://github.com/eslick/cl-langutils.git
+git https://github.com/eslick/cl-langutils.git

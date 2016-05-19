@@ -1,1 +1,1 @@
-git git://github.com/fare/lisp-interface-library.git
+git https://github.com/fare/lisp-interface-library.git

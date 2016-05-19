@@ -1,1 +1,1 @@
-git git://github.com/mabragor/cl-secure-read.git
+git https://github.com/mabragor/cl-secure-read.git

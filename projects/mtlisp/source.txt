@@ -1,1 +1,1 @@
-git git://github.com/mtravers/mtlisp.git
+git https://github.com/mtravers/mtlisp.git

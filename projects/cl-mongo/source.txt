@@ -1,1 +1,1 @@
-git git://github.com/fons/cl-mongo.git
+git https://github.com/fons/cl-mongo.git

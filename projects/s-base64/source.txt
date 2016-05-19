@@ -1,1 +1,1 @@
-git git://github.com/svenvc/s-base64.git
+git https://github.com/svenvc/s-base64.git

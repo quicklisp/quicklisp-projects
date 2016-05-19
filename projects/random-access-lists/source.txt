@@ -1,1 +1,1 @@
-git git://github.com/VincentToups/random-access-lists.git
+git https://github.com/VincentToups/random-access-lists.git

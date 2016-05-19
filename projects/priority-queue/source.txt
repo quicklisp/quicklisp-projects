@@ -1,1 +1,1 @@
-git git://github.com/dsorokin/priority-queue.git
+git https://github.com/dsorokin/priority-queue.git

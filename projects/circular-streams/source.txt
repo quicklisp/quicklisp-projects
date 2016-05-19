@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/circular-streams.git
+git https://github.com/fukamachi/circular-streams.git

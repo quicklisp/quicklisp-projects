@@ -1,1 +1,1 @@
-git git://github.com/jimrthy/cl-glfw.git
+git https://github.com/jimrthy/cl-glfw.git

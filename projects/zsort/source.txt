@@ -1,1 +1,1 @@
-git git://github.com/jorgetavares/zsort.git
+git https://github.com/jorgetavares/zsort.git

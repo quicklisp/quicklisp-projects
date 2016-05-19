@@ -1,2 +1,2 @@
-git git://github.com/hanshuebner/unit-test.git
+git https://github.com/hanshuebner/unit-test.git
 

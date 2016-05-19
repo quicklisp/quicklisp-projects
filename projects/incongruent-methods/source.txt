@@ -1,1 +1,1 @@
-git git://github.com/pve1/incongruent-methods.git
+git https://github.com/pve1/incongruent-methods.git

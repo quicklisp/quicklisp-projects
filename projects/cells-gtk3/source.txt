@@ -1,1 +1,1 @@
-git git://github.com/Ramarren/cells-gtk3.git
+git https://github.com/Ramarren/cells-gtk3.git

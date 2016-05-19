@@ -1,1 +1,1 @@
-git git://github.com/ichimal/petit.package-utils.git
+git https://github.com/ichimal/petit.package-utils.git

@@ -1,1 +1,1 @@
-git git://github.com/nikodemus/screamer
+git https://github.com/nikodemus/screamer

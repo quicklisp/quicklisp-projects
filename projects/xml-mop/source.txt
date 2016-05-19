@@ -1,1 +1,1 @@
-git git://github.com/gonzojive/xml-mop
+git https://github.com/gonzojive/xml-mop

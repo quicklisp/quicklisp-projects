@@ -1,1 +1,1 @@
-git git://github.com/vsedach/vas-string-metrics.git
+git https://github.com/vsedach/vas-string-metrics.git

@@ -1,2 +1,2 @@
-git git://github.com/archimag/cl-mssql.git
+git https://github.com/archimag/cl-mssql.git
 

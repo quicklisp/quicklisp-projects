@@ -1,2 +1,2 @@
-git git://github.com/mrc/lhstats.git
+git https://github.com/mrc/lhstats.git
 

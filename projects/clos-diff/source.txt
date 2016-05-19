@@ -1,1 +1,1 @@
-git git://github.com/krzysz00/clos-diff.git
+git https://github.com/krzysz00/clos-diff.git

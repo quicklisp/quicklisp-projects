@@ -1,1 +1,1 @@
-git git://github.com/billstclair/cl-autorepo.git
+git https://github.com/billstclair/cl-autorepo.git

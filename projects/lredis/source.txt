@@ -1,1 +1,1 @@
-git git://github.com/death/lredis
+git https://github.com/death/lredis

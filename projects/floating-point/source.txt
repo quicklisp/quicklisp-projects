@@ -1,1 +1,1 @@
-git git://github.com/OdonataResearchLLC/floating-point.git
+git https://github.com/OdonataResearchLLC/floating-point.git

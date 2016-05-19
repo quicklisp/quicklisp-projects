@@ -1,1 +1,1 @@
-git git://github.com/lokedhs/cl-gss.git
+git https://github.com/lokedhs/cl-gss.git

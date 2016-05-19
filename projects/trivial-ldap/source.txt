@@ -1,1 +1,1 @@
-git git://github.com/rwiker/trivial-ldap.git
+git https://github.com/rwiker/trivial-ldap.git

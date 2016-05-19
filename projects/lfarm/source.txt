@@ -1,1 +1,1 @@
-git git://github.com/lmj/lfarm.git
+git https://github.com/lmj/lfarm.git

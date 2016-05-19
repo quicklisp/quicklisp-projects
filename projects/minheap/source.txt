@@ -1,1 +1,1 @@
-git git://github.com/sfrank/minheap.git
+git https://github.com/sfrank/minheap.git

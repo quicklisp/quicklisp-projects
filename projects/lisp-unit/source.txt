@@ -1,2 +1,2 @@
-git git://github.com/OdonataResearchLLC/lisp-unit.git
+git https://github.com/OdonataResearchLLC/lisp-unit.git
 

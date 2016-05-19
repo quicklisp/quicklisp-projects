@@ -1,1 +1,1 @@
-git git://github.com/redline6561/trivial-raw-io.git
+git https://github.com/redline6561/trivial-raw-io.git

@@ -1,1 +1,1 @@
-git git://github.com/nja/cl-bencode.git
+git https://github.com/nja/cl-bencode.git

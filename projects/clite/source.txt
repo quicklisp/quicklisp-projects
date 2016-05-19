@@ -1,1 +1,1 @@
-git git://github.com/lispy-stuff/clite.git
+git https://github.com/lispy-stuff/clite.git

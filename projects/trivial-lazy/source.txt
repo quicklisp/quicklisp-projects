@@ -1,1 +1,1 @@
-git git://github.com/dsorokin/trivial-lazy.git
+git https://github.com/dsorokin/trivial-lazy.git

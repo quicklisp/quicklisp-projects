@@ -1,1 +1,1 @@
-git git://github.com/adlai/Eos.git
+git https://github.com/adlai/Eos.git

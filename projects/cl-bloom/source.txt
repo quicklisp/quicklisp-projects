@@ -1,1 +1,1 @@
-git git://github.com/ruricolist/cl-bloom.git
+git https://github.com/ruricolist/cl-bloom.git

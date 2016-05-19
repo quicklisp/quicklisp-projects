@@ -1,1 +1,1 @@
-git git://github.com/skypher/cl-store.git
+git https://github.com/skypher/cl-store.git

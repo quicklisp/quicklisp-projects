@@ -1,1 +1,1 @@
-git git://github.com/nikodemus/pileup
+git https://github.com/nikodemus/pileup

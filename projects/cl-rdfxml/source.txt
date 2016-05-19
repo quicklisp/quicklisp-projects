@@ -1,1 +1,1 @@
-git git://github.com/tayloj/cl-rdfxml.git
+git https://github.com/tayloj/cl-rdfxml.git

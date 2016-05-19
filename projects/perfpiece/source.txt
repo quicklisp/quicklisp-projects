@@ -1,1 +1,1 @@
-git git://github.com/luismbo/perfpiece.git
+git https://github.com/luismbo/perfpiece.git

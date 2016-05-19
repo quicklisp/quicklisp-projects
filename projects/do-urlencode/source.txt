@@ -1,1 +1,1 @@
-git git://github.com/drdo/do-urlencode.git
+git https://github.com/drdo/do-urlencode.git

@@ -1,2 +1,2 @@
-git git://github.com/antifuchs/cxml-rpc.git
+git https://github.com/antifuchs/cxml-rpc.git
 

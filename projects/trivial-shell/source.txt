@@ -1,1 +1,1 @@
-git git://github.com/gwkkwg/trivial-shell.git
+git https://github.com/gwkkwg/trivial-shell.git

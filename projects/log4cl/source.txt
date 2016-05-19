@@ -1,2 +1,2 @@
-git git://github.com/sharplispers/log4cl.git
-git git://github.com/7max/log4cl.git
+git https://github.com/sharplispers/log4cl.git
+git https://github.com/7max/log4cl.git

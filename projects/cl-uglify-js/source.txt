@@ -1,1 +1,1 @@
-git git://github.com/mishoo/cl-uglify-js.git
+git https://github.com/mishoo/cl-uglify-js.git

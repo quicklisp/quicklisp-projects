@@ -1,1 +1,1 @@
-git git://github.com/keithj/cl-tokyo-cabinet.git
+git https://github.com/keithj/cl-tokyo-cabinet.git

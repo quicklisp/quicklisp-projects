@@ -1,1 +1,1 @@
-git git://github.com/sharplispers/clx.git
+git https://github.com/sharplispers/clx.git

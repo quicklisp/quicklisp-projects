@@ -1,2 +1,2 @@
-git git://github.com/slyrus/clem.git
+git https://github.com/slyrus/clem.git
 

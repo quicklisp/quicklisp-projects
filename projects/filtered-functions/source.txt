@@ -1,2 +1,2 @@
-git git://github.com/pcostanza/filtered-functions.git
+git https://github.com/pcostanza/filtered-functions.git
 

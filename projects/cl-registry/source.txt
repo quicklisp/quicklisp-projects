@@ -1,2 +1,2 @@
-git git://github.com/eslick/cl-registry.git
+git https://github.com/eslick/cl-registry.git
 

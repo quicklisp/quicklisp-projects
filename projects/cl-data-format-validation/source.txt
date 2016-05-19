@@ -1,1 +1,1 @@
-git git://github.com/willijar/cl-data-format-validation.git
+git https://github.com/willijar/cl-data-format-validation.git

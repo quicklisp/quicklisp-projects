@@ -1,1 +1,1 @@
-git git://github.com/death/dbus.git
+git https://github.com/death/dbus.git

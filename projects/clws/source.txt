@@ -1,1 +1,1 @@
-git git://github.com/3b/clws.git
+git https://github.com/3b/clws.git

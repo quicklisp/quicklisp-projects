@@ -1,1 +1,1 @@
-git git://github.com/zkat/cl-speedy-queue.git
+git https://github.com/zkat/cl-speedy-queue.git

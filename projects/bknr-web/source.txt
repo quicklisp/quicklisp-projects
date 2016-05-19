@@ -1,1 +1,1 @@
-git git://github.com/hanshuebner/bknr-web.git
+git https://github.com/hanshuebner/bknr-web.git

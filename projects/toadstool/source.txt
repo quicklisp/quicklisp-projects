@@ -1,1 +1,1 @@
-git git://github.com/kisp/toadstool.git
+git https://github.com/kisp/toadstool.git

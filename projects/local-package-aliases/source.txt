@@ -1,1 +1,1 @@
-git git://github.com/avodonosov/local-package-aliases.git
+git https://github.com/avodonosov/local-package-aliases.git

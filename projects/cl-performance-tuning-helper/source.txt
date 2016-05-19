@@ -1,1 +1,1 @@
-git git://github.com/ichimal/cl-performance-tuning-helper.git
+git https://github.com/ichimal/cl-performance-tuning-helper.git

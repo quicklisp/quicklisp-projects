@@ -1,1 +1,1 @@
-git git://github.com/thezerobit/green-threads.git
+git https://github.com/thezerobit/green-threads.git

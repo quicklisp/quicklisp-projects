@@ -1,1 +1,1 @@
-git git://github.com/quek/cl-win32ole.git
+git https://github.com/quek/cl-win32ole.git

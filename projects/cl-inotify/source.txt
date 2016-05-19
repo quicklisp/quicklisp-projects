@@ -1,1 +1,1 @@
-git git://github.com/Ferada/cl-inotify.git
+git https://github.com/Ferada/cl-inotify.git

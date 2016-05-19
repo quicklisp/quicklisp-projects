@@ -1,1 +1,1 @@
-git git://github.com/brianjcj/telnetlib-for-common-lisp
+git https://github.com/brianjcj/telnetlib-for-common-lisp

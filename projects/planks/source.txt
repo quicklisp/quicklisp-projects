@@ -1,2 +1,2 @@
-git git://github.com/drewc/planks
+git https://github.com/drewc/planks
 

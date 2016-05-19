@@ -1,1 +1,1 @@
-git git://github.com/danlentz/dstm-collections.git
+git https://github.com/danlentz/dstm-collections.git

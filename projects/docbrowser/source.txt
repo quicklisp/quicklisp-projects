@@ -1,2 +1,2 @@
-git git://github.com/lokedhs/docbrowser.git
+git https://github.com/lokedhs/docbrowser.git
 

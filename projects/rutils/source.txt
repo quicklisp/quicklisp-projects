@@ -1,2 +1,2 @@
-git git://github.com/vseloved/rutils.git
-tagged-git git://github.com/vseloved/rutils.git 1.0.0
+git https://github.com/vseloved/rutils.git
+tagged-git https://github.com/vseloved/rutils.git 1.0.0

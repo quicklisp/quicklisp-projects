@@ -1,1 +1,1 @@
-git git://github.com/dsorokin/generic-sequences.git
+git https://github.com/dsorokin/generic-sequences.git

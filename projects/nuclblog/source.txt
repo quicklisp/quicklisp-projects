@@ -1,2 +1,2 @@
-git git://github.com/slyrus/nuclblog.git
+git https://github.com/slyrus/nuclblog.git
 

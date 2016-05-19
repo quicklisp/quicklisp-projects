@@ -1,2 +1,2 @@
-git git://github.com/fons/cl-twitter.git
+git https://github.com/fons/cl-twitter.git
 

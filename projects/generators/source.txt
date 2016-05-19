@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/generators.git
+git https://github.com/AccelerationNet/generators.git

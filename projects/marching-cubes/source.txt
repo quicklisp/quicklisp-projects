@@ -1,1 +1,1 @@
-git git://github.com/takagi/marching-cubes.git
+git https://github.com/takagi/marching-cubes.git

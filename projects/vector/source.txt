@@ -1,1 +1,1 @@
-git git://github.com/elbeno/vector.git
+git https://github.com/elbeno/vector.git

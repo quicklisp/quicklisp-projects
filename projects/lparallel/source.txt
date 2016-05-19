@@ -1,1 +1,1 @@
-git git://github.com/lmj/lparallel.git
+git https://github.com/lmj/lparallel.git

@@ -1,1 +1,1 @@
-git git://github.com/jmbr/incf-cl.git
+git https://github.com/jmbr/incf-cl.git

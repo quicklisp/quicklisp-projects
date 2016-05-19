@@ -1,1 +1,1 @@
-git git://github.com/pcostanza/lw-compat.git
+git https://github.com/pcostanza/lw-compat.git

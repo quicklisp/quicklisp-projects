@@ -1,1 +1,1 @@
-git git://github.com/drewc/smug.git
+git https://github.com/drewc/smug.git

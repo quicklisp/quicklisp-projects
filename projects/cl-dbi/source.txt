@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/cl-dbi.git
+git https://github.com/fukamachi/cl-dbi.git

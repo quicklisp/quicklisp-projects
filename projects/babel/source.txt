@@ -1,2 +1,2 @@
-git git://github.com/cl-babel/babel.git
+git https://github.com/cl-babel/babel.git
 

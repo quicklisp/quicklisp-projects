@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/talcl.git
+git https://github.com/AccelerationNet/talcl.git

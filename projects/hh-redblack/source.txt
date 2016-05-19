@@ -1,1 +1,1 @@
-git git://github.com/hargettp/hh-redblack.git
+git https://github.com/hargettp/hh-redblack.git

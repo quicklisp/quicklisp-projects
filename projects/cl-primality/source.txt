@@ -1,1 +1,1 @@
-git git://github.com/smithzvk/cl-primality.git
+git https://github.com/smithzvk/cl-primality.git

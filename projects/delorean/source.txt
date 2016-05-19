@@ -1,1 +1,1 @@
-git git://github.com/cddr/delorean.git
+git https://github.com/cddr/delorean.git

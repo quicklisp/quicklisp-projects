@@ -1,1 +1,1 @@
-git git://github.com/RobBlackwell/cl-apple-plist.git
+git https://github.com/RobBlackwell/cl-apple-plist.git

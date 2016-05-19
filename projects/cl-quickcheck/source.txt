@@ -1,1 +1,1 @@
-git git://github.com/mcandre/cl-quickcheck
+git https://github.com/mcandre/cl-quickcheck

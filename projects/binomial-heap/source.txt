@@ -1,1 +1,1 @@
-git git://github.com/vy/binomial-heap.git
+git https://github.com/vy/binomial-heap.git

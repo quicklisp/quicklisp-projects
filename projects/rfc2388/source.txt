@@ -1,1 +1,1 @@
-git git://github.com/jdz/rfc2388.git
+git https://github.com/jdz/rfc2388.git

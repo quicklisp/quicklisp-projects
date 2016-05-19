@@ -1,1 +1,1 @@
-git git://github.com/blindglobe/lisp-matrix.git
+git https://github.com/blindglobe/lisp-matrix.git

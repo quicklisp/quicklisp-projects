@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/clsql-helper.git
+git https://github.com/AccelerationNet/clsql-helper.git

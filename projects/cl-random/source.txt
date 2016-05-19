@@ -1,1 +1,1 @@
-git git://github.com/tpapp/cl-random.git
+git https://github.com/tpapp/cl-random.git

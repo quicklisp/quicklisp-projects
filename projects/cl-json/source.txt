@@ -1,1 +1,1 @@
-git git://github.com/hankhero/cl-json.git
+git https://github.com/hankhero/cl-json.git

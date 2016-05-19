@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/data-table.git
+git https://github.com/AccelerationNet/data-table.git

@@ -1,1 +1,1 @@
-git git://github.com/gonzojive/js-parser
+git https://github.com/gonzojive/js-parser

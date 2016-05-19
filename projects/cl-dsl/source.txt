@@ -1,1 +1,1 @@
-git git://github.com/mabragor/cl-dsl.git
+git https://github.com/mabragor/cl-dsl.git

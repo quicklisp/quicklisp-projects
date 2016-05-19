@@ -1,2 +1,2 @@
-git git://github.com/rpav/spatial-trees.git
+git https://github.com/rpav/spatial-trees.git
 

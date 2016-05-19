@@ -1,2 +1,2 @@
-git git://github.com/pcostanza/closer-mop.git
+git https://github.com/pcostanza/closer-mop.git
 

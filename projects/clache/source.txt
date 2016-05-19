@@ -1,1 +1,1 @@
-git git://github.com/html/clache.git
+git https://github.com/html/clache.git

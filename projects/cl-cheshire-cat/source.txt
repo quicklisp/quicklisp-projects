@@ -1,1 +1,1 @@
-git git://github.com/mentel/cl-cheshire-cat.git
+git https://github.com/mentel/cl-cheshire-cat.git

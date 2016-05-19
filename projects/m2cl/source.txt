@@ -1,1 +1,1 @@
-git git://github.com/galdor/m2cl.git
+git https://github.com/galdor/m2cl.git

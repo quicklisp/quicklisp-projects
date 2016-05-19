@@ -1,1 +1,1 @@
-git git://github.com/oconnore/queues.git
+git https://github.com/oconnore/queues.git

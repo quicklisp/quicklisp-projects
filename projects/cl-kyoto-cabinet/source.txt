@@ -1,1 +1,1 @@
-git git://github.com/kraison/cl-kyoto-cabinet.git
+git https://github.com/kraison/cl-kyoto-cabinet.git

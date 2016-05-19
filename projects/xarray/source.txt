@@ -1,1 +1,1 @@
-git git://github.com/blindglobe/xarray.git
+git https://github.com/blindglobe/xarray.git

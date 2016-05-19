@@ -1,1 +1,1 @@
-git git://github.com/joachifm/cl-webkit.git
+git https://github.com/joachifm/cl-webkit.git

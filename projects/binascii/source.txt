@@ -1,1 +1,1 @@
-git git://github.com/froydnj/binascii.git
+git https://github.com/froydnj/binascii.git

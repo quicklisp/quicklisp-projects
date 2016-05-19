@@ -1,1 +1,1 @@
-git git://github.com/archimag/cl-popen
+git https://github.com/archimag/cl-popen

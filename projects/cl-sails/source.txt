@@ -1,1 +1,1 @@
-git git://github.com/gonzojive/cl-sails
+git https://github.com/gonzojive/cl-sails

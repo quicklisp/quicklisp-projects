@@ -1,1 +1,1 @@
-git git://github.com/slyrus/hunchentoot-cgi.git
+git https://github.com/slyrus/hunchentoot-cgi.git

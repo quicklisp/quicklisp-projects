@@ -1,1 +1,1 @@
-git git://github.com/klimenko-serj/cl-fbclient.git
+git https://github.com/klimenko-serj/cl-fbclient.git

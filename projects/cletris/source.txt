@@ -1,1 +1,1 @@
-git git://github.com/nlamirault/cletris.git
+git https://github.com/nlamirault/cletris.git

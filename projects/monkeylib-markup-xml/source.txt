@@ -1,1 +1,1 @@
-git git://github.com/gigamonkey/monkeylib-markup-xml.git
+git https://github.com/gigamonkey/monkeylib-markup-xml.git

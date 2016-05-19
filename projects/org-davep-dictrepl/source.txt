@@ -1,1 +1,1 @@
-git git://github.com/davep/org-davep-dictrepl.git
+git https://github.com/davep/org-davep-dictrepl.git

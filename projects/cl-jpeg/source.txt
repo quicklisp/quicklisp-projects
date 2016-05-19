@@ -1,1 +1,1 @@
-git git://github.com/sharplispers/cl-jpeg.git
+git https://github.com/sharplispers/cl-jpeg.git

@@ -1,1 +1,1 @@
-git git://github.com/elbeno/curve.git
+git https://github.com/elbeno/curve.git

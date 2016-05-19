@@ -1,1 +1,1 @@
-git git://github.com/e40/cl-geocode.git
+git https://github.com/e40/cl-geocode.git

@@ -1,1 +1,1 @@
-git git://github.com/orivej/defmemo.git
+git https://github.com/orivej/defmemo.git

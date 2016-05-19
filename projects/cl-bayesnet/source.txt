@@ -1,1 +1,1 @@
-git git://github.com/lhope/cl-bayesnet.git
+git https://github.com/lhope/cl-bayesnet.git

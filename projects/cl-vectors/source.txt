@@ -1,1 +1,1 @@
-git git://github.com/fjolliton/cl-vectors.git
+git https://github.com/fjolliton/cl-vectors.git

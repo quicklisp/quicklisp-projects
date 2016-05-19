@@ -1,1 +1,1 @@
-git git://github.com/fb08af68/esrap-peg.git
+git https://github.com/fb08af68/esrap-peg.git

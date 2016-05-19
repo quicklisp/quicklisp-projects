@@ -1,1 +1,1 @@
-git git://github.com/scymtym/xml.location.git
+git https://github.com/scymtym/xml.location.git

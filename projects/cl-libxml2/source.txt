@@ -1,2 +1,2 @@
-git git://github.com/archimag/cl-libxml2.git
+git https://github.com/archimag/cl-libxml2.git
 

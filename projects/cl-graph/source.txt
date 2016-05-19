@@ -1,2 +1,2 @@
-git git://github.com/gwkkwg/cl-graph
+git https://github.com/gwkkwg/cl-graph
 

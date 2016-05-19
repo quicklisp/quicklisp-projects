@@ -1,2 +1,2 @@
-git git://github.com/sharplispers/csv-parser
+git https://github.com/sharplispers/csv-parser
 

@@ -1,1 +1,1 @@
-git git://github.com/pinterface/clavatar.git
+git https://github.com/pinterface/clavatar.git

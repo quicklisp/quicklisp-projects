@@ -1,1 +1,1 @@
-git git://github.com/mtravers/wuwei.git
+git https://github.com/mtravers/wuwei.git

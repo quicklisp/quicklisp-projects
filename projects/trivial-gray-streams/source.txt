@@ -1,1 +1,1 @@
-git git://github.com/trivial-gray-streams/trivial-gray-streams.git
+git https://github.com/trivial-gray-streams/trivial-gray-streams.git

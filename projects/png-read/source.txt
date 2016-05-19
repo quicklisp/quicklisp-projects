@@ -1,1 +1,1 @@
-git git://github.com/Ramarren/png-read.git
+git https://github.com/Ramarren/png-read.git

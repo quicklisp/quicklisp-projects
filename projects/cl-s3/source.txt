@@ -1,1 +1,1 @@
-git git://github.com/svenvc/cl-s3.git
+git https://github.com/svenvc/cl-s3.git

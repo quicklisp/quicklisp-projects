@@ -1,1 +1,1 @@
-git git://github.com/mikelevins/folio.git
+git https://github.com/mikelevins/folio.git

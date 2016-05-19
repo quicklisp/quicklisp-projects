@@ -1,1 +1,1 @@
-git git://github.com/pcostanza/contextl.git
+git https://github.com/pcostanza/contextl.git

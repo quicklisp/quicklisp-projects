@@ -1,1 +1,1 @@
-git git://github.com/pmai/sha3.git
+git https://github.com/pmai/sha3.git

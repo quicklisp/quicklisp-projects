@@ -1,1 +1,1 @@
-git git://github.com/KDr2/cl-fastcgi.git
+git https://github.com/KDr2/cl-fastcgi.git

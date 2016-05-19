@@ -1,1 +1,1 @@
-git git://github.com/gwkkwg/lift
+git https://github.com/gwkkwg/lift

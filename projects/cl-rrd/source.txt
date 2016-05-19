@@ -1,1 +1,1 @@
-git git://github.com/hbock/cl-rrd.git
+git https://github.com/hbock/cl-rrd.git

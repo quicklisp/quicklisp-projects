@@ -1,1 +1,1 @@
-git git://github.com/m2ym/cl-syntax
+git https://github.com/m2ym/cl-syntax

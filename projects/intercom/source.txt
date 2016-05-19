@@ -1,1 +1,1 @@
-git git://github.com/madnificent/intercom.git
+git https://github.com/madnificent/intercom.git

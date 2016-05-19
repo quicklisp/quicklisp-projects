@@ -1,1 +1,1 @@
-git git://github.com/mmontone/djula.git
+git https://github.com/mmontone/djula.git

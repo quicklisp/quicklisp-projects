@@ -1,1 +1,1 @@
-git git://github.com/standin000/cl-paypal.git
+git https://github.com/standin000/cl-paypal.git

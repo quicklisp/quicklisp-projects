@@ -1,1 +1,1 @@
-git git://github.com/jhanley634/tap-unit-test.git
+git https://github.com/jhanley634/tap-unit-test.git

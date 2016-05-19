@@ -1,1 +1,1 @@
-git git://github.com/ruricolist/spinneret.git
+git https://github.com/ruricolist/spinneret.git

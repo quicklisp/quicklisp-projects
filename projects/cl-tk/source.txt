@@ -1,1 +1,1 @@
-git git://github.com/marijnh/cl-tk.git
+git https://github.com/marijnh/cl-tk.git

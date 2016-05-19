@@ -1,1 +1,1 @@
-git git://github.com/kkazuo/thread.comm.rendezvous.git
+git https://github.com/kkazuo/thread.comm.rendezvous.git

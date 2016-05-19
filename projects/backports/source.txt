@@ -1,1 +1,1 @@
-git git://github.com/esessoms/backports.git
+git https://github.com/esessoms/backports.git

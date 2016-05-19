@@ -1,1 +1,1 @@
-git git://github.com/dardoria/uuid.git
+git https://github.com/dardoria/uuid.git

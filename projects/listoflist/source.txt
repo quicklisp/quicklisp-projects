@@ -1,1 +1,1 @@
-git git://github.com/blindglobe/listoflist.git
+git https://github.com/blindglobe/listoflist.git

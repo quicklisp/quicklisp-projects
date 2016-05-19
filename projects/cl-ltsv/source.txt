@@ -1,1 +1,1 @@
-git git://github.com/taksatou/cl-ltsv.git
+git https://github.com/taksatou/cl-ltsv.git

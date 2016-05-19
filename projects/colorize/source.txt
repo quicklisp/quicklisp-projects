@@ -1,1 +1,1 @@
-git git://github.com/redline6561/colorize.git
+git https://github.com/redline6561/colorize.git

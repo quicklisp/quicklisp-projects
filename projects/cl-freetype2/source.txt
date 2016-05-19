@@ -1,1 +1,1 @@
-git git://github.com/rpav/cl-freetype2.git
+git https://github.com/rpav/cl-freetype2.git

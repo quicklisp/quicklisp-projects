@@ -1,1 +1,1 @@
-git git://github.com/deterministic-arts/DartsCLHashTree.git
+git https://github.com/deterministic-arts/DartsCLHashTree.git

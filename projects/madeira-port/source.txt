@@ -1,1 +1,1 @@
-git git://github.com/nikodemus/madeira-port.git
+git https://github.com/nikodemus/madeira-port.git

@@ -1,1 +1,1 @@
-git git://github.com/kevinlynx/ext-blog.git
+git https://github.com/kevinlynx/ext-blog.git

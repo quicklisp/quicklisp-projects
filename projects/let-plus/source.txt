@@ -1,1 +1,1 @@
-git git://github.com/tpapp/let-plus.git
+git https://github.com/tpapp/let-plus.git

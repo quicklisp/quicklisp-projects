@@ -1,1 +1,1 @@
-git git://github.com/fukamachi/dexador.git
+git https://github.com/fukamachi/dexador.git

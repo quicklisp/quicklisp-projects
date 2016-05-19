@@ -1,2 +1,2 @@
-git git://github.com/ks/X.FDATATYPES.git
+git https://github.com/ks/X.FDATATYPES.git
 

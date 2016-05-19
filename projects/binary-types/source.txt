@@ -1,1 +1,1 @@
-git git://github.com/Ferada/binary-types
+git https://github.com/Ferada/binary-types

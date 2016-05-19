@@ -1,1 +1,1 @@
-git git://github.com/slyrus/time-interval.git
+git https://github.com/slyrus/time-interval.git

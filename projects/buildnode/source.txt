@@ -1,1 +1,1 @@
-git git://github.com/AccelerationNet/buildnode.git
+git https://github.com/AccelerationNet/buildnode.git

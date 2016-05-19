@@ -1,1 +1,1 @@
-git git://github.com/kaiserprogrammer/marshal.git
+git https://github.com/kaiserprogrammer/marshal.git

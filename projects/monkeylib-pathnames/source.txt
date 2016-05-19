@@ -1,1 +1,1 @@
-git git://github.com/gigamonkey/monkeylib-pathnames.git
+git https://github.com/gigamonkey/monkeylib-pathnames.git

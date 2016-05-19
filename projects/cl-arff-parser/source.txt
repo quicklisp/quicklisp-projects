@@ -1,1 +1,1 @@
-git git://github.com/pieterw/cl-arff-parser.git
+git https://github.com/pieterw/cl-arff-parser.git

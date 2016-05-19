@@ -1,1 +1,1 @@
-git git://github.com/mbrezu/cl-messagepack.git
+git https://github.com/mbrezu/cl-messagepack.git

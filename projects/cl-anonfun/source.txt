@@ -1,1 +1,1 @@
-git git://github.com/arielnetworks/cl-anonfun.git
+git https://github.com/arielnetworks/cl-anonfun.git

@@ -1,1 +1,1 @@
-git git://github.com/karvus/trivial-irc.git
+git https://github.com/karvus/trivial-irc.git

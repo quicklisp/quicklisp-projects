@@ -1,1 +1,1 @@
-git git://github.com/filonenko-mikhail/clx-xkeyboard.git
+git https://github.com/filonenko-mikhail/clx-xkeyboard.git

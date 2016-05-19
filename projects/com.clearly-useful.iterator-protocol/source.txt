@@ -1,1 +1,1 @@
-git git://github.com/jaeschliman/com.clearly-useful.iterator-protocol.git
+git https://github.com/jaeschliman/com.clearly-useful.iterator-protocol.git

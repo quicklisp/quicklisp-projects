@@ -1,1 +1,1 @@
-git git://github.com/jsmpereira/cl-scribd.git
+git https://github.com/jsmpereira/cl-scribd.git

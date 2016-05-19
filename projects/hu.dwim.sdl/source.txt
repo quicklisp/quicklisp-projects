@@ -1,1 +1,1 @@
-branched-git git://github.com/attila-lendvai/hu.dwim.sdl.git quicklisp
+branched-git https://github.com/attila-lendvai/hu.dwim.sdl.git quicklisp

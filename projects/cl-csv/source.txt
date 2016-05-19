@@ -1,2 +1,2 @@
-git git://github.com/AccelerationNet/cl-csv.git
+git https://github.com/AccelerationNet/cl-csv.git
 

@@ -1,1 +1,1 @@
-git git://github.com/keithj/deoxybyte-systems.git
+git https://github.com/keithj/deoxybyte-systems.git

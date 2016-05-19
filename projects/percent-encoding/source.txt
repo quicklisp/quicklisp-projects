@@ -1,1 +1,1 @@
-git git://github.com/llibra/percent-encoding.git
+git https://github.com/llibra/percent-encoding.git

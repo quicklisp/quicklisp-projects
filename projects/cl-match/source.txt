@@ -1,2 +1,2 @@
-git git://github.com/tonyg/cl-match.git
+git https://github.com/tonyg/cl-match.git
 
