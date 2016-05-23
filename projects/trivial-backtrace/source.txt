@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/trivial-backtrace/trivial-backtrace.git
+git https://github.com/gwkkwg/trivial-backtrace.git
