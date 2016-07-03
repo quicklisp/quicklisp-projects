@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/fiveam/files/fiveam-latest.tar.gz
+latest-github-release https://github.com/sionescu/fiveam.git
