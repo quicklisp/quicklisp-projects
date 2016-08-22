@@ -1,1 +1,1 @@
-branched-git https://github.com/BradWBeer/CLinch.git quicklisp
+git https://github.com/BradWBeer/CLinch.git
