@@ -22,3 +22,6 @@
 /Code/
 
 /Outdated Demos/
+
+# cl-sat and inline-generic-functions both have this
+asd-generator-data
