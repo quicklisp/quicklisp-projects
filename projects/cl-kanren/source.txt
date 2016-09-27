@@ -1,0 +1,1 @@
+git https://github.com/cage2/cl-kanren.git
