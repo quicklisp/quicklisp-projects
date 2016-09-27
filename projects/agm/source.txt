@@ -1,1 +1,0 @@
-git http://git.axity.net/axion/AGM.git
