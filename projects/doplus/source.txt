@@ -1,2 +1,0 @@
-mercurial https://code.google.com/p/doplus/
-

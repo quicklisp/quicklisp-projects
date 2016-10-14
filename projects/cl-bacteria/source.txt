@@ -1,1 +1,0 @@
-mercurial http://code.google.com/p/cl-bacteria

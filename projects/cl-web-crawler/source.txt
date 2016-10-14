@@ -1,1 +1,0 @@
-svn http://cl-web-crawler.googlecode.com/svn/trunk/
