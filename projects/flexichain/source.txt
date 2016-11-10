@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/flexichain/download/flexichain_latest.tgz
+https https://common-lisp.net/project/flexichain/download/flexichain_latest.tgz

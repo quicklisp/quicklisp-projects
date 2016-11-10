@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/asdf-packaging/psgraph-latest.tar.gz
+https https://common-lisp.net/project/asdf-packaging/psgraph-latest.tar.gz

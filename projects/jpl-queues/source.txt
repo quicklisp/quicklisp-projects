@@ -1,1 +1,1 @@
-http http://www.thoughtcrime.us/software/jpl-queues/jpl-queues-0.1.tar.gz
+https https://www.thoughtcrime.us/software/jpl-queues/jpl-queues-0.1.tar.gz
