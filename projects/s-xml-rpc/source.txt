@@ -1,1 +1,1 @@
-http http://common-lisp.net/project/s-xml-rpc/s-xml-rpc.tgz
+https https://common-lisp.net/project/s-xml-rpc/s-xml-rpc.tgz

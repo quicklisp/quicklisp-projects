@@ -1,1 +1,0 @@
-naked-http http://common-lisp.net/project/cl-date-calc/date-calc-0.3.tar.gz

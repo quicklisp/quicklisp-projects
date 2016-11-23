@@ -1,1 +1,1 @@
-http http://people.csail.mit.edu/devon/lisp/string-escape.tgz
+https https://people.csail.mit.edu/devon/lisp/string-escape.tgz
