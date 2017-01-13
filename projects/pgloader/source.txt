@@ -1,2 +1,3 @@
-http http://pgloader.io/pgloader-latest.tgz
+latest-github-release https://github.com/dimitri/pgloader.git
+
 
