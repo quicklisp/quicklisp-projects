@@ -1,1 +1,2 @@
+git https://github.com/sharplispers/zlib.git
 git https://gitlab.common-lisp.net/zlib/zlib.git
