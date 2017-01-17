@@ -1,1 +1,0 @@
-git https://gitlab.common-lisp.net/frideau/philip-jose.git
