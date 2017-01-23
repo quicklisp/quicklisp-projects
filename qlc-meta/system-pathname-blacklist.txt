@@ -10,7 +10,7 @@
 /external/cffi.darcs/
 /external/lift.darcs/
 
-/systems/femlisp.asd
+#/systems/femlisp.asd
 
 /sav/
 
