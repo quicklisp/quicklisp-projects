@@ -1,1 +1,2 @@
+git https://github.com/tokenrove/anaphora
 https https://common-lisp.net/project/anaphora/files/anaphora-latest.tar.gz
