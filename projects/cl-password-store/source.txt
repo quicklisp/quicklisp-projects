@@ -1,0 +1,1 @@
+git https://github.com/u-u-h/cl-password-store.git
