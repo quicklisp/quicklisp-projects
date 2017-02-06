@@ -36,6 +36,7 @@ folio fset
 folio misc-extensions
 
 gbbopen portable-threads
+gbbopen timing-tests
 
 plain-odbc alexandria-tests
 plain-odbc alexandria
