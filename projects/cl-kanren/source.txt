@@ -1,1 +1,1 @@
-git https://github.com/cage2/cl-kanren.git
+git https://notabug.org/cage/cl-kanren.git
