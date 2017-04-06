@@ -1,1 +1,1 @@
-froydware-http ironclad
+latest-github-tag https://github.com/froydnj/ironclad.git
