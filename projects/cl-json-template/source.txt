@@ -1,1 +1,0 @@
-mercurial http://matthias.benkard.de/code/cl-json-template/

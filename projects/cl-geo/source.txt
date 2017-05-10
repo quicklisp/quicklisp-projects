@@ -1,2 +1,0 @@
-http http://surejourney.com/software/cl-geo/cl-geo-0.2.tar.gz
-
