@@ -1,0 +1,1 @@
+branched-git https://github.com/cbaggers/cepl.sdl2-ttf.git release-quicklisp
