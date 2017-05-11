@@ -1,0 +1,1 @@
+git https://git.benkard.de/mulk/cl-json-template.git
