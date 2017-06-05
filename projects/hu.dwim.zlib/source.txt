@@ -1,0 +1,1 @@
+branched-git https://github.com/attila-lendvai/hu.dwim.zlib.git quicklisp
