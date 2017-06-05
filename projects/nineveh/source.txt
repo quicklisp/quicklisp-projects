@@ -1,0 +1,1 @@
+branched-git https://github.com/cbaggers/nineveh.git release-quicklisp
