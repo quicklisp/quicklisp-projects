@@ -1,1 +1,1 @@
-http http://tarballs.hexstreamsoft.com/libraries/latest/place-utils_latest.tar.gz
+https https://tarballs.hexstreamsoft.com/libraries/latest/place-utils_latest.tar.gz

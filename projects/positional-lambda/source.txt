@@ -1,1 +1,1 @@
-http http://tarballs.hexstreamsoft.com/libraries/latest/positional-lambda_latest.tar.gz
+https https://tarballs.hexstreamsoft.com/libraries/latest/positional-lambda_latest.tar.gz

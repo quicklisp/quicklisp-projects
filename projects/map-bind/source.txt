@@ -1,1 +1,1 @@
-http http://tarballs.hexstreamsoft.com/libraries/latest/map-bind_latest.tar.gz
+https https://tarballs.hexstreamsoft.com/libraries/latest/map-bind_latest.tar.gz
