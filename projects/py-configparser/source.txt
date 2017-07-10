@@ -1,1 +1,1 @@
-svn svn://common-lisp.net/project/py-configparser/svn/trunk
+svn https://svn.common-lisp.net/py-configparser/trunk

@@ -1,2 +1,2 @@
-svn svn://common-lisp.net/project/cl-monad-macros/svn/trunk
+svn https://svn.common-lisp.net/cl-monad-macros/trunk
 
