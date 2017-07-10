@@ -1,1 +1,1 @@
-http http://weitz.de/files/cl-webdav.tar.gz
+git https://github.com/edicl/cl-webdav.git
