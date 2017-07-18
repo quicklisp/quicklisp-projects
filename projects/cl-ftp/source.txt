@@ -1,1 +1,1 @@
-http http://web.kepibu.org/code/lisp/cl-ftp/cl-ftp.tar.gz
+https https://web.kepibu.org/code/lisp/cl-ftp/cl-ftp.tar.gz
