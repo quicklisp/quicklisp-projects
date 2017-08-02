@@ -1,1 +1,1 @@
-git https://github.com/rick-monster/calispel.git
+git https://github.com/hawkir/calispel.git
