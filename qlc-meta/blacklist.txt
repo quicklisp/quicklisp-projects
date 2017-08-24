@@ -82,3 +82,5 @@ cl-cffi-gtk lisp-unit
 swank-protocol swank-protocol-test
 
 linedit terminfo
+
+trivial-project TP_SYSTEM_TP
