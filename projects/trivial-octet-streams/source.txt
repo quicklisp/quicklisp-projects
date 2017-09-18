@@ -1,1 +1,1 @@
-git https://github.com/froydnj/trivial-octet-streams.git
+git https://github.com/sharplispers/trivial-octet-streams.git
