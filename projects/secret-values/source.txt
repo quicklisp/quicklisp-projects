@@ -1,1 +1,1 @@
-git https://github.com/copyleft/secret-values.git
+git https://github.com/rotatef/secret-values.git
