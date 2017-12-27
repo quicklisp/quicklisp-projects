@@ -1,1 +1,1 @@
-http http://www.xach.com/lisp/quickproject.tgz
+https https://www.xach.com/lisp/quickproject.tgz

@@ -1,1 +1,1 @@
-xach-http skippy
+https https://www.xach.com/lisp/skippy.tgz

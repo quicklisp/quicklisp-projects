@@ -1,1 +1,1 @@
-xach-http zs3
+https https://www.xach.com/lisp/zs3.tgz
