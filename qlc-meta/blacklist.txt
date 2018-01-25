@@ -84,3 +84,13 @@ swank-protocol swank-protocol-test
 linedit terminfo
 
 trivial-project TP_SYSTEM_TP
+
+# These only work with a modified aserve
+zacl zacl-tests
+zacl zacl-aserve
+
+# These don't and can't work
+weblocks weblocks-elephant
+weblocks employer-employee
+
+
