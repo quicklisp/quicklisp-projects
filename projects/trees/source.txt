@@ -1,1 +1,1 @@
-froydware-http trees
+git https://github.com/froydnj/trees.git
