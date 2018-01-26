@@ -90,7 +90,16 @@ zacl zacl-tests
 zacl zacl-aserve
 
 # These don't and can't work
-weblocks weblocks-elephant
 weblocks employer-employee
+weblocks-stores weblocks-elephant
+weblocks-examples weblocks-elephant-demo
+weblocks-examples weblocks-examples-test
+
+# Don't work due to iolib package structure change, no fix in sight
+ucw ucw.iolib
+ucw ucw.mod-lisp
+
+
+
 
 
