@@ -1,1 +1,1 @@
-http http://www.nicklevine.org/cl-log/cl-log-latest.tar.gz
+https https://www.nicklevine.org/cl-log/cl-log-latest.tar.gz
