@@ -1,1 +1,1 @@
-git git://git.code.sf.net/p/matlisp/git
+git https://github.com/matlisp/matlisp.git
