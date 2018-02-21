@@ -1,0 +1,1 @@
+branched-git https://github.com/borodust/openal-blob.git stable
