@@ -1,1 +1,1 @@
-https https://github.com/sharplispers/parse-number/archive/v1.4.tar.gz
+latest-github-release https://github.com/sharplispers/parse-number.git
