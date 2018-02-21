@@ -1,1 +1,1 @@
-https https://github.com/sharplispers/split-sequence/archive/v1.2.tar.gz
+latest-github-release https://github.com/sharplispers/split-sequence.git
