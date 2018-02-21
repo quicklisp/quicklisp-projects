@@ -1,1 +1,1 @@
-git https://bitbucket.org/tarballs_are_good/cl-permutation
+git https://github.com/tarballs-are-good/cl-permutation.git
