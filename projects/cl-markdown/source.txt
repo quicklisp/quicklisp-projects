@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/cl-markdown
+git https://gitlab.common-lisp.net/cl-markdown/cl-markdown.git
+
