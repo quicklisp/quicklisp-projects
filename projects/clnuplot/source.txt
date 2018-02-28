@@ -1,1 +1,2 @@
-darcs http://common-lisp.net/project/clnuplot
+git http://gitlab.common-lisp.net/clnuplot/clnuplot.git
+
