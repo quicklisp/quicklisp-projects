@@ -1,1 +1,2 @@
-darcs http://www.common-lisp.net/project/rfc2109/rfc2109/
+git https://gitlab.common-lisp.net/rfc2109/rfc2109.git
+

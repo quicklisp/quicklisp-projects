@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/cl-cont/darcs/cl-cont
+git https://gitlab.common-lisp.net/cl-cont/cl-cont.git

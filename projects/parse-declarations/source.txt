@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/parse-declarations/darcs/parse-declarations
+git https://gitlab.common-lisp.net/parse-declarations/parse-declarations.git

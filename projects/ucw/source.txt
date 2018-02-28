@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/ucw/repos/ucw-core/
+git https://gitlab.common-lisp.net/ucw/ucw-core.git

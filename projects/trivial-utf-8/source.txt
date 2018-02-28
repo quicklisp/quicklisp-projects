@@ -1,2 +1,1 @@
-clnet-darcs trivial-utf-8
-
+git https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8.git

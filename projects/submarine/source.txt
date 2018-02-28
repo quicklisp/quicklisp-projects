@@ -1,1 +1,1 @@
-darcs http://common-lisp.net/project/submarine/darcs/submarine/
+git https://gitlab.common-lisp.net/submarine/submarine.git

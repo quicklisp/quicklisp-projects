@@ -1,1 +1,1 @@
-darcs https://common-lisp.net/project/cl-l10n/repos/cl-l10n-cldr/
+git https://gitlab.common-lisp.net/cl-l10n/cl-l10n-cldr.git

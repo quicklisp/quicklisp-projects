@@ -1,1 +1,1 @@
-clnet-darcs plexippus-xpath
+git https://gitlab.common-lisp.net/plexippus-xpath/plexippus-xpath.git
