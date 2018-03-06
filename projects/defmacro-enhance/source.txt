@@ -1,1 +1,0 @@
-git https://github.com/mabragor/defmacro-enhance.git
