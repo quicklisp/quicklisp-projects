@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/computable-reals
+git https://github.com/tarballs-are-good/computable-reals.git
