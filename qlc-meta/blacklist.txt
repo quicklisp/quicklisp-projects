@@ -131,6 +131,8 @@ protobuf protobuf-test
 protobuf protobuf-example
 portableaserve aserve-test
 plain-odbc plain-odbc-test
+plain-odbc plain-odbc-with-libs
+codex codex-test
 physical-quantities physical-quantities-test
 parenscript-classic parenscript-classic.test
 overlord overlord-tests
