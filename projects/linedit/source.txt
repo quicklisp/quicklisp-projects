@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/linedit/linedit.git
+git https://github.com/sharplispers/linedit.git
