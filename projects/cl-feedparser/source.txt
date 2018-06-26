@@ -1,1 +1,1 @@
-git https://github.com/TBRSS/cl-feedparser.git
+git https://github.com/ruricolist/cl-feedparser.git
