@@ -1,0 +1,1 @@
+git https://github.com/zodmaner/cl-bip39.git
