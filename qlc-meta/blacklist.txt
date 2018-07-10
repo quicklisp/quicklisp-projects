@@ -307,5 +307,6 @@ asdf-linguist asdf-linguist-test
 asdf-dependency-grovel test-serial
 arnesi arnesi/test
 advanced-readtable advanced-readtable.test
-
-
+quickproject system
+cepl system
+sel sb-texinfo
