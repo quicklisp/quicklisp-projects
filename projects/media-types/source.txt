@@ -1,1 +1,1 @@
-git https://github.com/TBRSS/media-types.git
+git https://github.com/ruricolist/media-types.git
