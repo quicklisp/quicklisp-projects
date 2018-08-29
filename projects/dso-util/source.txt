@@ -1,1 +1,1 @@
-http http://download.fugue88.ws/util/dso-util-0.1.2.tar.gz
+https https://download.fugue88.ws/util/dso-util-0.1.2.tar.gz
