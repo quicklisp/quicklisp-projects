@@ -166,7 +166,6 @@ lispbuilder lispbuilder-clawk
 lispbuilder lispbuilder-cal3d
 lispbuilder lispbuilder-cal3d-examples
 lisp-magick lisp-magick
-lisp-binary lisp-binary
 laap laap-test
 jsonrpc jsonrpc/tests
 jose jose/tests
