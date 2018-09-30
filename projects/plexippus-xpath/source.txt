@@ -1,1 +1,2 @@
-git https://gitlab.common-lisp.net/plexippus-xpath/plexippus-xpath.git
+git https://github.com/sharplispers/xpath.git
+

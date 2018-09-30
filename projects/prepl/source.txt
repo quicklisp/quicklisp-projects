@@ -1,2 +1,2 @@
-git https://github.com/bluelisp/prepl.git
+git https://github.com/sharplispers/prepl.git
 

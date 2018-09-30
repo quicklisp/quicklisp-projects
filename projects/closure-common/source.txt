@@ -1,1 +1,2 @@
-git git://repo.or.cz/closure-common.git
+git https://github.com/sharplispers/closure-common.git
+

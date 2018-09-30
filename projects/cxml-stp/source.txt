@@ -1,1 +1,2 @@
-git http://www.lichteblau.com/git/cxml-stp.git
+git https://github.com/sharplispers/cxml-stp.git
+
