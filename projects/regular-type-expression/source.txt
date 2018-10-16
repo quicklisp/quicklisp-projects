@@ -1,0 +1,1 @@
+branched-git https://gitlab.lrde.epita.fr/jnewton/regular-type-expression.git export-to-quicklisp
