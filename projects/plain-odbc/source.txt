@@ -1,1 +1,0 @@
-svn https://svn.common-lisp.net/plain-odbc/plain-odbc/trunk
