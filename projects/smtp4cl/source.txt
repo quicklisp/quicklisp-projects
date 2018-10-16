@@ -1,2 +1,0 @@
-http-bz2 http://wcp.sdf-eu.org/software/smtp4cl-latest.tbz
-
