@@ -1,1 +1,1 @@
-tagged-git https://github.com/markcox80/specialization-store.git v0.0.3
+latest-github-tag https://github.com/markcox80/specialization-store.git
