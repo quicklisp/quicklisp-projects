@@ -1,1 +1,2 @@
-http http://www.peter-herth.de/ltk/ltk-0.981.tgz
+git https://github.com/herth/ltk.git
+
