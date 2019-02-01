@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/s-xml-rpc/s-xml-rpc.tgz
+git https://gitlab.com/ambrevar/s-xml-rpc.git
