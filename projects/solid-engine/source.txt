@@ -1,0 +1,1 @@
+git https://bitbucket.org/reginleif/solid-engine.git
