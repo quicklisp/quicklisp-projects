@@ -309,3 +309,4 @@ advanced-readtable advanced-readtable.test
 quickproject system
 cepl system
 sel sb-texinfo
+skeleton-creator SK-PROJECT-NAME
