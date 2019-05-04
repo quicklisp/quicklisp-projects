@@ -1,2 +1,2 @@
-http http://xn--9dbdkw.se/cl-sasl/cl-sasl_0.3.1.tar.gz
+latest-github-tag https://github.com/legoscia/cl-sasl
 
