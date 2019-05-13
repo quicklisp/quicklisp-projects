@@ -1,1 +1,1 @@
-http http://www.ljosa.com/~ljosa/software/cl-png/download/cl-png-0.6.tar.gz
+branched-git https://github.com/ljosa/cl-png.git vl-anyversion
