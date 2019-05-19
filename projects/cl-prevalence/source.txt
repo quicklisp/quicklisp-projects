@@ -1,1 +1,1 @@
-mercurial http://bitbucket.org/skypher/cl-prevalence
+git https://github.com/40ants/cl-prevalence.git
