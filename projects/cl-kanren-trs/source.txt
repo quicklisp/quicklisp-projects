@@ -1,1 +1,2 @@
-svn https://svn.common-lisp.net/cl-kanren-trs
+git https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git
+
