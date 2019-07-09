@@ -1,6 +1,8 @@
 # Entries in this file correspond to systems that are ignored by the
 # index system. For example, prefer the real UFFI to CFFI's UFFI -
 # some things just don't compile with it.
+#
+# Format is: project-name system-name
 
 cleric bert
 cffi uffi
@@ -315,3 +317,11 @@ quickproject system
 cepl system
 sel sb-texinfo
 skeleton-creator SK-PROJECT-NAME
+cl-ledger cambl
+cl-ledger cambl-test
+cl-ledger fprog
+cl-ledger periods
+cl-ledger periods-series
+bodge-nanovg bodge-glad
+bodge-nuklear bodge-glad
+
