@@ -1,0 +1,1 @@
+latest-github-tag https://github.com/sheepduke/chameleon.git
