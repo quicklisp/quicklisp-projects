@@ -1,1 +1,1 @@
-git https://github.com/kingcons/coleslaw.git
+git https://github.com/coleslaw-org/coleslaw.git
