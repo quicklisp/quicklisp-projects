@@ -148,7 +148,6 @@ mgl mgl-visuals
 mcclim mcclim-beagle
 mcclim mcclim-clx/freetype
 mcclim mcclim-fonts/clx-freetype
-clml clml.data.r-datasets
 maiden maiden-quicklisp
 maiden maiden-logger
 maiden maiden-circ
