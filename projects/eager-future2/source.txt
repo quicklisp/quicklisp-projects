@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/eager-future/release/eager-future2-0.2.tgz
+git https://gitlab.common-lisp.net/vsedach/eager-future2.git
