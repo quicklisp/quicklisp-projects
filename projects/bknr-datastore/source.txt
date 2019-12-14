@@ -1,1 +1,1 @@
-git https://github.com/hanshuebner/bknr-datastore.git
+git https://github.com/sharplispers/bknr-datastore.git
