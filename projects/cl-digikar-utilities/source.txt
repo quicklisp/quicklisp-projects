@@ -1,1 +1,0 @@
-git https://github.com/digikar99/cl-digikar-utilities.git
