@@ -1,1 +1,0 @@
-git https://github.com/ailisp/simple-gui.git

@@ -1,1 +1,0 @@
-git https://github.com/Ferada/cl-cffi-gtk.git
