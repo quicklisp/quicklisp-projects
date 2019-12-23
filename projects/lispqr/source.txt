@@ -1,0 +1,1 @@
+git https://github.com/mare5x/LispQR.git
