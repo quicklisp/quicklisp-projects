@@ -1,1 +1,1 @@
-git https://github.com/guicho271828/cl-sat.git
+git https://github.com/cl-model-languages/cl-sat.git
