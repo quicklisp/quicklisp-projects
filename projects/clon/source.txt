@@ -1,1 +1,0 @@
-git http://quotenil.com/git/clon.git

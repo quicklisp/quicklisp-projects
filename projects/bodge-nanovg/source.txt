@@ -1,1 +1,0 @@
-branched-git https://github.com/borodust/bodge-nanovg.git stable
