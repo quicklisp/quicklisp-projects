@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/flexichain/download/flexichain_latest.tgz
+git https://github.com/robert-strandh/Flexichain.git
