@@ -19,7 +19,7 @@
 # /folio2/
 
 # For fset's Code/fset.asd
-/Code/
+/Code/fset
 
 /Outdated Demos/
 
