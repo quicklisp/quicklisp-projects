@@ -25,3 +25,6 @@
 
 # cl-sat and inline-generic-functions both have this
 asd-generator-data
+
+# Grammatech bundles this
+sb-texinfo
