@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/elliottslaughter/escalator
+git https://bitbucket.org/elliottslaughter/escalator
