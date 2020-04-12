@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/fucc/files/fucc_0.2.1-alpha-20080624.tar.gz
+latest-github-release https://github.com/monoid/fucc.git
