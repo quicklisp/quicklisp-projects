@@ -151,8 +151,6 @@ mcclim mcclim-fonts/clx-freetype
 maiden maiden-quicklisp
 maiden maiden-logger
 maiden maiden-circ
-magicffi magicffi/test
-magicffi magicffi
 log5 log5-test
 local-time-duration local-time-duration-tests
 lispbuilder lispbuilder-openrm
