@@ -1,1 +1,1 @@
-latest-github-release https://github.com/sionescu/fiveam.git
+git https://github.com/lispci/fiveam.git
