@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/sjl/chancery
+mercurial https://hg.stevelosh.com/chancery

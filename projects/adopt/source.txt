@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/sjl/adopt
+mercurial https://hg.stevelosh.com/adopt

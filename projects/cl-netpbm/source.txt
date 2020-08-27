@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/sjl/cl-netpbm
+mercurial https://hg.stevelosh.com/cl-netpbm
