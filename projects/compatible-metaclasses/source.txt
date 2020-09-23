@@ -1,0 +1,1 @@
+https https://tarballs.hexstreamsoft.com/libraries/latest/compatible-metaclasses_latest.tar.gz
