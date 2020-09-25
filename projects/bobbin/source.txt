@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/sjl/bobbin
+mercurial https://hg.stevelosh.com/bobbin

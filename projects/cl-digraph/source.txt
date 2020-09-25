@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/sjl/cl-digraph/
+mercurial https://hg.stevelosh.com/cl-digraph/
