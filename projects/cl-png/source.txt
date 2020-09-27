@@ -1,1 +1,1 @@
-branched-git https://github.com/ljosa/cl-png.git vl-anyversion
+git https://github.com/ljosa/cl-png.git

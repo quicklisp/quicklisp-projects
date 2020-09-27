@@ -1,1 +1,1 @@
-git https://git.theta.eu.org/cl-piglow.git
+git https://git.theta.eu.org/eta/cl-piglow.git
