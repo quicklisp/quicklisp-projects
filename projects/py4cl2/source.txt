@@ -1,1 +1,1 @@
-git https://github.com/digikar99/py4cl2.git
+latest-github-release https://github.com/digikar99/py4cl2.git
