@@ -1,0 +1,1 @@
+tagged-git https://github.com/borodust/nuklear-renderer-blob.git stable

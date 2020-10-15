@@ -1,1 +1,1 @@
-branched-git https://github.com/borodust/sndfile-blob.git stable
+tagged-git https://github.com/borodust/sndfile-blob.git stable

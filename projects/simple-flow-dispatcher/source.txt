@@ -1,1 +1,1 @@
-branched-git https://github.com/borodust/simple-flow-dispatcher.git stable
+tagged-git https://github.com/borodust/simple-flow-dispatcher.git stable

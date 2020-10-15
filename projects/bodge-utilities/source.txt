@@ -1,0 +1,1 @@
+tagged-git https://github.com/borodust/bodge-utilities.git stable

@@ -1,1 +1,1 @@
-branched-git https://github.com/borodust/cl-flow.git stable
+tagged-git https://github.com/borodust/cl-flow.git stable

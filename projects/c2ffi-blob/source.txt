@@ -1,0 +1,1 @@
+tagged-git https://github.com/borodust/c2ffi-blob.git stable
