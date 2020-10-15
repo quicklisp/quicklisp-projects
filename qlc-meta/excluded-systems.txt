@@ -322,3 +322,6 @@ cl-ledger periods-series
 bodge-nanovg bodge-glad
 bodge-nuklear bodge-glad
 
+bdef bdef/incudine
+cl-patterns cl-patterns/alsa-midi
+cl-patterns cl-patterns/incudine
