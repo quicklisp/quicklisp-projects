@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/imago/imago.git
+git https://github.com/tokenrove/imago.git
