@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/eeeickythump/cl-tcod
+git https://github.com/podiki/cl-tcod.git
