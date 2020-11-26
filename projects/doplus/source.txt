@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/alessiostalla/doplus
+git https://github.com/alessiostalla/doplus.git
