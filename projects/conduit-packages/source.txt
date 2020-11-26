@@ -1,2 +1,1 @@
-single-file http://beta.quicklisp.org/orphans/tfeb/conduit-packages.lisp
-single-file http://tfeb.org/programs/lisp/conduit-packages.lisp
+git https://github.com/tfeb/conduit-packages.git
