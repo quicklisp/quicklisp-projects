@@ -1,1 +1,1 @@
-git https://github.com/html/weblocks-stores.git
+git https://github.com/weblocks-framework/weblocks-stores.git
