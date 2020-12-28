@@ -1,1 +1,1 @@
-git https://github.com/mfiano/algae.git
+git https://git.mfiano.net/mfiano/algae.git
