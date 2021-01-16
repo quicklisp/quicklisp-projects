@@ -1,1 +1,1 @@
-git https://github.com/bufferswap/pngload.git
+git https://git.mfiano.net/mfiano/pngload.git

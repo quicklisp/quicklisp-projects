@@ -1,1 +1,1 @@
-git https://github.com/mfiano/parsley.git
+git https://git.mfiano.net/mfiano/parsley.git
