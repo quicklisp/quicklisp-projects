@@ -1,1 +1,2 @@
-https https://www.xach.com/lisp/zpb-exif.tgz
+latest-github-release https://github.com/xach/zpb-exif.git
+
