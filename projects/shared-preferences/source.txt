@@ -1,0 +1,1 @@
+https https://tarballs.hexstreamsoft.com/libraries/latest/shared-preferences_latest.tar.gz
