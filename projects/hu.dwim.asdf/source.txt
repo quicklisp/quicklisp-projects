@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.asdf/
+tagged-git https://github.com/hu-dwim/hu.dwim.asdf.git stable

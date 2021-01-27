@@ -1,1 +1,1 @@
-branched-git https://github.com/attila-lendvai/hu.dwim.bluez.git quicklisp
+tagged-git https://github.com/hu-dwim/hu.dwim.bluez.git stable

@@ -1,1 +1,1 @@
-branched-git https://github.com/hu-dwim/hu.dwim.zlib.git quicklisp
+tagged-git https://github.com/hu-dwim/hu.dwim.zlib.git stable

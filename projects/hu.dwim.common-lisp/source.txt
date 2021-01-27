@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.common-lisp/
+tagged-git https://github.com/hu-dwim/hu.dwim.common-lisp.git stable

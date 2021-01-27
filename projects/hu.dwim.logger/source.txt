@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.logger/
+tagged-git https://github.com/hu-dwim/hu.dwim.logger.git stable

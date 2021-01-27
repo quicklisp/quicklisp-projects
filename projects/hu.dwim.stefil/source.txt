@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.stefil/
+tagged-git https://github.com/hu-dwim/hu.dwim.stefil.git stable
