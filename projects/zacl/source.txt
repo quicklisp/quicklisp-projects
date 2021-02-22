@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/zbeane/zacl.git
+git https://gitlab.common-lisp.net/dcooper/zacl.git
