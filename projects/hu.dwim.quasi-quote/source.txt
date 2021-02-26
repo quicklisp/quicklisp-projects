@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.quasi-quote/
+tagged-git https://github.com/hu-dwim/hu.dwim.quasi-quote.git stable

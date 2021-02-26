@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.partial-eval/
+tagged-git https://github.com/hu-dwim/hu.dwim.partial-eval.git stable

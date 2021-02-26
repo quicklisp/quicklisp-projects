@@ -1,1 +1,1 @@
-darcs http://dwim.hu/live/hu.dwim.def/
+tagged-git https://github.com/hu-dwim/hu.dwim.def.git stable
