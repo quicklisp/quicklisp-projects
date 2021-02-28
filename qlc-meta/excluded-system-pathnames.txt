@@ -28,3 +28,6 @@ asd-generator-data
 
 # Grammatech bundles this
 sb-texinfo
+
+# gendl patches
+quicklisp-patches

@@ -4,6 +4,10 @@
 #
 # Format is: project-name system-name
 
+qvm dqvm2
+qvm dqvm2-tests
+
+
 cleric bert
 cffi uffi
 lispbuilder trivial-garbage
@@ -258,7 +262,6 @@ cl-mongo cl-mongo-test
 cl-llvm kaleidoscope
 cl-libxml2 cl-libxslt
 cl-libxml2 cl-libxslt-test
-cl-libinput cl-libinput
 cl-libdsfmt cl-libdsfmt
 cl-irregsexp cl-irregsexp-test
 cl-irc cliki-bot
@@ -325,3 +328,7 @@ bodge-nuklear bodge-glad
 bdef bdef/incudine
 cl-patterns cl-patterns/alsa-midi
 cl-patterns cl-patterns/incudine
+
+cl-ana hdf5-cffi
+cl-ana hdf5-cffi.examples
+cl-ana hdf5-cffi.test
