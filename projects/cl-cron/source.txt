@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/mackram/cl-cron
+git https://github.com/ciel-lang/cl-cron.git
