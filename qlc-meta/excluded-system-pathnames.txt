@@ -31,3 +31,9 @@ sb-texinfo
 
 # gendl patches
 quicklisp-patches
+
+# shop3 CI junk
+jenkins/ext/
+
+# nyxt vendored stuff
+_build/
