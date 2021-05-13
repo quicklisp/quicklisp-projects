@@ -332,3 +332,5 @@ cl-patterns cl-patterns/incudine
 cl-ana hdf5-cffi
 cl-ana hdf5-cffi.examples
 cl-ana hdf5-cffi.test
+
+defmain example
