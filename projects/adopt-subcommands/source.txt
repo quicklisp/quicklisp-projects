@@ -1,0 +1,1 @@
+latest-gitlab-release https://gitlab.com/daewok/adopt-subcommands.git
