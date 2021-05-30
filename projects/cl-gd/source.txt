@@ -1,1 +1,1 @@
-ediware-http cl-gd
+git https://github.com/edicl/cl-gd.git
