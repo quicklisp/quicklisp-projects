@@ -37,3 +37,5 @@ jenkins/ext/
 
 # nyxt vendored stuff
 _build/
+
+ext/rt/
