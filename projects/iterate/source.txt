@@ -1,1 +1,2 @@
-git https://gitlab.common-lisp.net/iterate/iterate.git
+branched-git https://gitlab.common-lisp.net/iterate/iterate.git release
+
