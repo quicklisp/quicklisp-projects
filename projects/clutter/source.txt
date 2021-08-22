@@ -1,0 +1,1 @@
+latest-github-release https://github.com/alessiostalla/clutter.git
