@@ -1,0 +1,1 @@
+git https://github.com/veer66/cl-apertium-stream-parser.git
