@@ -1,0 +1,1 @@
+git https://github.com/K1D77A/stripe-against-the-modern-world.git
