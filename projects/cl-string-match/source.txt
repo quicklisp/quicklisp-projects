@@ -1,1 +1,3 @@
-mercurial https://bitbucket.org/vityok/cl-string-match
+git https://github.com/sharplispers/cl-string-match
+# Old:
+# mercurial https://bitbucket.org/vityok/cl-string-match
