@@ -1,3 +1,1 @@
-latest-github-release https://github.com/hanshuebner/yason.git
-
-
+git https://github.com/phmarek/yason.git
