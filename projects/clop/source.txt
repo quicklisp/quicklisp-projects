@@ -1,0 +1,1 @@
+LATEST-GITHUB-TAG https://github.com/sheepduke/clop.git
