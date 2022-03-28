@@ -1,1 +1,1 @@
-http http://www.foldr.org/~michaelw/projects/mw-equiv/mw-equiv.tar.gz
+git https://github.com/sharplispers/mw-equiv.git
