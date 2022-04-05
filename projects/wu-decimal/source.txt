@@ -1,1 +1,2 @@
+git https://github.com/Wukix/wu-decimal.git
 git http://wukix.com/dist/wu-decimal.git
