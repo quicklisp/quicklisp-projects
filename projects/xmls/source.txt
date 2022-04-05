@@ -1,1 +1,2 @@
+branched-git https://github.com/rpgoldman/xmls.git release
 https https://common-lisp.net/project/xmls/xmls-3.0.2.tar.gz
