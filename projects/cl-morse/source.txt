@@ -1,0 +1,1 @@
+latest-github-release https://github.com/em7/cl-morse.git
