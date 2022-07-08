@@ -336,3 +336,5 @@ cl-ana hdf5-cffi.test
 defmain example
 
 claw-olm claw-olm/wrapper
+
+stumpwm dynamic-mixins
