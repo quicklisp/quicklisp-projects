@@ -1,1 +1,1 @@
-git https://github.com/spwhitton/anaphora.git
+latest-github-tag https://github.com/spwhitton/anaphora.git
