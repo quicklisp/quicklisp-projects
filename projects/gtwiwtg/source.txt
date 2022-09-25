@@ -1,1 +1,1 @@
-git https://github.com/cbeo/gtwiwtg.git
+git https://cicadas.surf/cgit/colin/gtwiwtg.git
