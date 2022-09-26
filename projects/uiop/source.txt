@@ -1,4 +1,4 @@
-https https://common-lisp.net/project/asdf/archives/uiop.tar.gz
+https https://asdf.common-lisp.dev/archives/uiop.tar.gz
 
 
 
