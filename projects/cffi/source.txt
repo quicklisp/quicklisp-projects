@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz
+git https://github.com/cffi/cffi.git
