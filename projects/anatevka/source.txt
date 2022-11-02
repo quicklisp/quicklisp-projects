@@ -1,0 +1,1 @@
+LATEST-GITHUB-RELEASE https://github.com/dtqec/anatevka.git
