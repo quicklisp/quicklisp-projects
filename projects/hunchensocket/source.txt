@@ -1,1 +1,1 @@
-git https://github.com/capitaomorte/hunchensocket.git
+git https://github.com/joaotavora/hunchensocket.git
