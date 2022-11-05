@@ -1,1 +1,1 @@
-git https://gitlab.com/ariSun/cl-myriam.git
+git https://codeberg.org/arisunz/cl-myriam.git
