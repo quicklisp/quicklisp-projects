@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/origin.git
+git https://github.com/mfiano/origin
