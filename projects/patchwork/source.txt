@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/patchwork.git
+git https://github.com/mfiano/patchwork.git

@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/slot-map.git
+git https://github.com/mfiano/slot-map.git
