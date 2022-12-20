@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/sparse-set.git
+git https://github.com/mfiano/sparse-set.git

@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/grid-formation.git
+git https://github.com/mfiano/grid-formation.git
