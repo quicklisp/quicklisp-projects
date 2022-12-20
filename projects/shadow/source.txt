@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/shadow.git
+git https://github.com/mfiano/shadow
