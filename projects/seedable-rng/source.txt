@@ -1,1 +1,1 @@
-git https://git.mfiano.net/mfiano/seedable-rng.git
+git https://github.com/mfiano/seedable-rng.git
