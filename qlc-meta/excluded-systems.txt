@@ -338,3 +338,13 @@ defmain example
 claw-olm claw-olm/wrapper
 
 stumpwm dynamic-mixins
+
+numericals sbcl-numericals
+numericals sbcl-numericals.test
+numericals dense-numericals/benchmarks
+numericals dense-numericals/examples
+
+nfiles nasdf
+njson nasdf
+history-tree nasdf
+nclasses nasdf
