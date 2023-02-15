@@ -1,1 +1,1 @@
-git hhttps://github.com/mfiano/dynamic-array.git
+git https://github.com/mfiano/dynamic-array.git
