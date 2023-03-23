@@ -1,0 +1,1 @@
+latest-github-release https://github.com/MauDagos/cl-jschema.git
