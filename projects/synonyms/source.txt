@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/synonyms
+git https://github.com/stylewarning/synonyms.git

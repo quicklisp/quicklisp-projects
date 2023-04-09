@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/cl-string-complete
+git https://github.com/stylewarning/cl-string-complete.git

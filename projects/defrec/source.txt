@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/defrec
+git https://github.com/stylewarning/defrec.git

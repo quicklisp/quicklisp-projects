@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/letrec
+git https://github.com/stylewarning/letrec.git
