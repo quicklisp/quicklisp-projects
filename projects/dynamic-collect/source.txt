@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/dynamic-collect
+git https://github.com/stylewarning/dynamic-collect.git

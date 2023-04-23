@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/big-string
+git https://github.com/stylewarning/big-string.git
