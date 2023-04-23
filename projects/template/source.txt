@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/template
+git https://github.com/stylewarning/template.git

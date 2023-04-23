@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/recur
+git https://github.com/stylewarning/recur.git

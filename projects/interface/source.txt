@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/interface
+git https://github.com/stylewarning/interface.git

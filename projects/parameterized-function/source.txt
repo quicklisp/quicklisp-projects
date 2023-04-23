@@ -1,1 +1,1 @@
-mercurial https://bitbucket.org/tarballs_are_good/parameterized-function
+git https://github.com/stylewarning/parameterized-function.git
