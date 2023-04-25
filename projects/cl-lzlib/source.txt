@@ -1,1 +1,1 @@
-git https://github.com/glv2/cl-lzlib.git
+git https://codeberg.org/glv/cl-lzlib.git
