@@ -348,3 +348,4 @@ nfiles nasdf
 njson nasdf
 history-tree nasdf
 nclasses nasdf
+nhooks nasdf
