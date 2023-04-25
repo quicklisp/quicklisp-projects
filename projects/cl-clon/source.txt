@@ -1,1 +1,2 @@
+latest-github-tag https://github.com/didierverna/clon.git
 https https://www.lrde.epita.fr/~didier/software/lisp/clon/latest.tar.gz
