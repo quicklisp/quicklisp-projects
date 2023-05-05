@@ -344,8 +344,3 @@ numericals sbcl-numericals.test
 numericals dense-numericals/benchmarks
 numericals dense-numericals/examples
 
-nfiles nasdf
-njson nasdf
-history-tree nasdf
-nclasses nasdf
-nhooks nasdf
