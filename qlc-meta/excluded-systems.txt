@@ -344,3 +344,4 @@ numericals sbcl-numericals.test
 numericals dense-numericals/benchmarks
 numericals dense-numericals/examples
 
+gendl swank
