@@ -1,0 +1,1 @@
+git https://github.com/shinmera/type-templates.git
