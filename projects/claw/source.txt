@@ -1,1 +1,1 @@
-tagged-git https://github.com/borodust/claw.git stable
+tagged-git https://github.com/borodust/claw-legacy.git stable
