@@ -1,1 +1,1 @@
-git https://notabug.org/cage/cl-mount-info.git
+git https://codeberg.org/cage/cl-mount-info.git
