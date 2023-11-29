@@ -1,0 +1,1 @@
+git https://github.com/avodonosov/hunchentoot-stuck-connection-monitor.git
