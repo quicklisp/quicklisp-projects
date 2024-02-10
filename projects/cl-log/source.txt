@@ -1,1 +1,1 @@
-https https://www.nicklevine.org/cl-log/cl-log-latest.tar.gz
+git https://github.com/nicklevine/cl-log.git
