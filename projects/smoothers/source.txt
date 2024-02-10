@@ -1,0 +1,1 @@
+git https://github.com/Lisp-Stat/smoothers.git
