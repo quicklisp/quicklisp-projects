@@ -1,1 +1,1 @@
-git https://github.com/gwkkwg/asdf-system-connections.git
+git https://github.com/lisp-maintainers/asdf-system-connections.git
