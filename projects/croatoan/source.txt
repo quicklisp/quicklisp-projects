@@ -1,1 +1,1 @@
-git https://github.com/McParen/croatoan.git
+git https://codeberg.org/McParen/croatoan.git
