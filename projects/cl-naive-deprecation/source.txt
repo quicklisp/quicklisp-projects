@@ -1,0 +1,1 @@
+git https://gitlab.com/naive-x/cl-naive-deprecation.git
