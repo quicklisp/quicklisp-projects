@@ -345,3 +345,7 @@ numericals dense-numericals/benchmarks
 numericals dense-numericals/examples
 
 gendl swank
+
+invistra invistra-intrinsic
+incless incless-intrinsic
+inravina inravina-intrinsic
