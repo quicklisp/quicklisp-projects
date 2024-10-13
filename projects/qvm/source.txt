@@ -1,1 +1,1 @@
-latest-github-release https://github.com/rigetti/qvm.git
+git https://github.com/rigetti/qvm.git
