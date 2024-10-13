@@ -1,1 +1,0 @@
-git https://git.mfiano.net/mfiano/freebsd-ffi.git
