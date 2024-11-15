@@ -1,1 +1,1 @@
-GIT https://git.sr.ht/~fosskers/cl-transducers
+git https://github.com/fosskers/cl-transducers.git
