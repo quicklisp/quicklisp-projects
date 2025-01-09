@@ -1,1 +1,1 @@
-git https://github.com/Hectarea1996/adp-github.git
+git https://github.com/HectareaGalbis/adp-github.git
