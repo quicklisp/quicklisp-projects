@@ -1,1 +1,1 @@
-git https://github.com/antimer/lmdb.git
+git https://github.com/melisgl/lmdb.git
