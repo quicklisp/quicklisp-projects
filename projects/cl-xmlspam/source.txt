@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/cl-xmlspam/cl-xmlspam.tgz
+https https://cl-xmlspam.common-lisp.dev/cl-xmlspam.tgz

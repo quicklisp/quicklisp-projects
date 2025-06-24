@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/iterate-clsql/releases/iterate-clsql-0.2.tar.gz
+https https://iterate-clsql.common-lisp.dev/releases/iterate-clsql-0.2.tar.gz

@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/rcl/rcl.tar.gz
+https https://rcl.common-lisp.dev/rcl.tar.gz

@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/cl-heap/releases/cl-heap_latest.tar.gz
+https https://cl-heap.common-lisp.dev/releases/cl-heap_latest.tar.gz

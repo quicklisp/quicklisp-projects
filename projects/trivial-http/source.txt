@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/trivial-http/trivial-http.tar.gz
+https https://trivial-http.common-lisp.dev/trivial-http.tar.gz

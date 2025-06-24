@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/cl-migrations/cl-migrations-latest.tgz
+https https://cl-migrations.common-lisp.dev/cl-migrations-latest.tgz

@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/xcvb/cl-launch/cl-launch.tar.gz
+https https://xcvb.common-lisp.dev/cl-launch/cl-launch.tar.gz

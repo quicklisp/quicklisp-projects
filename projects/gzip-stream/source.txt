@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/gzip-stream/files/gzip-stream_latest.tgz
+https https://gzip-stream.common-lisp.dev/files/gzip-stream_latest.tgz

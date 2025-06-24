@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/ip-interfaces/releases/ip-interfaces-latest.tar.gz
+https https://ip-interfaces.common-lisp.dev/releases/ip-interfaces-latest.tar.gz

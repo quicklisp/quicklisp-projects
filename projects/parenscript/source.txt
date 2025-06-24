@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/parenscript/release/parenscript-latest.tgz
+git https://gitlab.common-lisp.net/parenscript/parenscript.git

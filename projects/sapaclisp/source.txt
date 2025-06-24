@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/sapaclisp/sapaclisp-1.0a.tgz
+https https://sapaclisp.common-lisp.dev/sapaclisp-1.0a.tgz

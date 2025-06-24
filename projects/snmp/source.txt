@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/cl-net-snmp/release/snmp_latest.tar.gz
+https https://cl-net-snmp.common-lisp.dev/release/snmp_latest.tar.gz

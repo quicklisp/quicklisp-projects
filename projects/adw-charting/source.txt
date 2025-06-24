@@ -1,1 +1,1 @@
-https https://common-lisp.net/project/adw-charting/adw-charting.tar.gz
+https https://adw-charting.common-lisp.dev/adw-charting.tar.gz
