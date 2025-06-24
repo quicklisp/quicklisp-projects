@@ -1,2 +1,2 @@
-latest-github-release https://github.com/xach/zpb-ttf.git
+git https://github.com/xach/zpb-ttf.git
 

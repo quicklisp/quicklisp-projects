@@ -1,1 +1,1 @@
-https https://www.xach.com/lisp/zs3.tgz
+latest-github-release https://github.com/xach/zs3.git
