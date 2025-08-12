@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/parachute.git
+git https://codeberg.org/shinmera/parachute.git

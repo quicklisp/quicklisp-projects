@@ -1,1 +1,1 @@
-git https://github.com/shirakumo/cl-gltf.git
+git https://codeberg.org/shirakumo/cl-gltf.git

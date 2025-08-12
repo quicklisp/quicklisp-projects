@@ -1,1 +1,1 @@
-git https://github.com/Shirakumo/cl-gamepad.git
+git https://codeberg.org/shirakumo/cl-gamepad.git

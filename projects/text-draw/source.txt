@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/text-draw.git
+git https://codeberg.org/shinmera/text-draw.git

@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/trivial-indent.git
+git https://codeberg.org/shinmera/trivial-indent.git

@@ -1,1 +1,1 @@
-git https://github.com/Shirakumo/cl-mpg123.git
+git https://codeberg.org/shirakumo/cl-mpg123.git

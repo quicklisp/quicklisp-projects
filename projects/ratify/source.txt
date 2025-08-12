@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/Ratify.git
+git https://codeberg.org/shinmera/Ratify.git

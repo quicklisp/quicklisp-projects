@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/cari3s.git
+git https://codeberg.org/shinmera/cari3s.git

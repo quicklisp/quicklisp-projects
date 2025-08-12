@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/deeds.git
+git https://codeberg.org/shinmera/deeds.git

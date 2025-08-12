@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/tooter.git
+git https://codeberg.org/shinmera/tooter.git

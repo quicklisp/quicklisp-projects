@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/com-on.git
+git https://codeberg.org/shinmera/com-on.git

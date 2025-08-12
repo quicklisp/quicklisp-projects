@@ -1,1 +1,1 @@
-git https://github.com/shinmera/memory-regions.git
+git https://codeberg.org/shinmera/memory-regions.git

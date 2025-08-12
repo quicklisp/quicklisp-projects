@@ -1,1 +1,1 @@
-git https://github.com/shinmera/binary-structures.git
+git https://codeberg.org/shinmera/binary-structures.git

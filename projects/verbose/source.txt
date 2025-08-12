@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/verbose.git
+git https://codeberg.org/shinmera/verbose.git

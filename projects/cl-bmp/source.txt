@@ -1,1 +1,1 @@
-git https://github.com/shinmera/cl-bmp.git
+git https://codeberg.org/shinmera/cl-bmp.git

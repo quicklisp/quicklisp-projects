@@ -1,1 +1,1 @@
-git https://github.com/Shirakumo/harmony.git
+git https://codeberg.org/shirakumo/harmony.git

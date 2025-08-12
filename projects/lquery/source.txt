@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/lquery.git
+git https://codeberg.org/shinmera/lquery.git

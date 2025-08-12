@@ -1,1 +1,1 @@
-git https://github.com/shinmera/random-sampling.git
+git https://codeberg.org/shinmera/random-sampling.git

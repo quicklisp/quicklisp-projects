@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/legit.git
+git https://codeberg.org/shinmera/legit.git

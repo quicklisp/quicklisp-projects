@@ -1,1 +1,1 @@
-git https://github.com/shinmera/filesystem-utils.git
+git https://codeberg.org/shinmera/filesystem-utils.git

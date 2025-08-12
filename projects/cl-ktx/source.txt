@@ -1,1 +1,1 @@
-git https://github.com/shinmera/cl-ktx.git
+git https://codeberg.org/shinmera/cl-ktx.git

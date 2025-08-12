@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/south.git
+git https://codeberg.org/shinmera/south.git

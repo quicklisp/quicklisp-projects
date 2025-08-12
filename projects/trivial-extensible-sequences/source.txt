@@ -1,1 +1,1 @@
-git https://github.com/shinmera/trivial-extensible-sequences.git
+git https://codeberg.org/shinmera/trivial-extensible-sequences.git

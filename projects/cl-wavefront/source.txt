@@ -1,1 +1,1 @@
-git https://github.com/shirakumo/cl-wavefront.git
+git https://codeberg.org/shirakumo/cl-wavefront.git

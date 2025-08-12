@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/staple.git
+git https://codeberg.org/shinmera/staple.git

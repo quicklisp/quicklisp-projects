@@ -1,1 +1,1 @@
-git https://github.com/shinmera/classowary.git
+git https://codeberg.org/shinmera/classowary.git

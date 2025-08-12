@@ -1,1 +1,1 @@
-git https://github.com/shinmera/font-discovery.git
+git https://codeberg.org/shinmera/font-discovery.git

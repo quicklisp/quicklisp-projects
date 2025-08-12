@@ -1,1 +1,1 @@
-git https://github.com/Shinmera/array-utils.git
+git https://codeberg.org/shinmera/array-utils.git

@@ -1,1 +1,1 @@
-git http://github.com/Shinmera/random-state.git
+git http://codeberg.org/shinmera/random-state.git

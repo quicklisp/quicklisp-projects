@@ -1,1 +1,1 @@
-git https://github.com/shinmera/cl-qoa.git
+git https://codeberg.org/shinmera/cl-qoa.git

@@ -1,1 +1,1 @@
-git https://github.com/Shirakumo/lichat-serverlib.git
+git https://codeberg.org/shirakumo/lichat-serverlib.git
