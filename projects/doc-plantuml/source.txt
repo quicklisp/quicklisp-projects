@@ -1,0 +1,1 @@
+git https://github.com/40ants/doc-plantuml.git
