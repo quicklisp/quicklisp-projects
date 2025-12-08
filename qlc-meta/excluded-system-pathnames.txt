@@ -48,3 +48,8 @@ incless-intrinsic
 invistra-intrinsic
 inravina-ansi
 
+# Iterate's submodules
+ext/alexandria/
+ext/asdf-flv/
+ext/fiveam/
+ext/trivial-backtrace/
