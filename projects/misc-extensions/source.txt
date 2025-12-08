@@ -1,2 +1,4 @@
+git https://github.com/slburson/misc-extensions.git
+
 git https://gitlab.common-lisp.net/misc-extensions/misc-extensions.git
 git https://gitlab.common-lisp.net/misc-extensions/devel.git
