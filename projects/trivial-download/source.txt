@@ -1,1 +1,2 @@
-git https://github.com/eudoxia0/trivial-download.git
+git https://github.com/sharplispers/trivial-download.git
+
