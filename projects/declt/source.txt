@@ -1,2 +1,3 @@
-https https://www.lrde.epita.fr/~didier/software/lisp/declt/latest.tar.gz
+git https://github.com/didierverna/declt.git
+
 
