@@ -1,1 +1,1 @@
-git https://github.com/mgi/binary-io.git
+git https://codeberg.org/mgi/binary-io.git

@@ -1,1 +1,1 @@
-git https://github.com/mgi/cl-las.git
+git https://codeberg.org/mgi/cl-las.git
