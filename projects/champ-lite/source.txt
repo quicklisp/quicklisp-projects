@@ -1,1 +1,1 @@
-git https://gitlab.common-lisp.net/sburson/champ-lite.git
+latest-github-release https://github.com/slburson/champ-lite.git
