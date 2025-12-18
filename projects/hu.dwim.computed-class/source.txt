@@ -1,0 +1,1 @@
+tagged-git https://github.com/hu-dwim/hu.dwim.computed-class.git stable
