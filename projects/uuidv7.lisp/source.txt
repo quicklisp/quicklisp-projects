@@ -1,1 +1,0 @@
-git https://github.com/pseudomata/uuidv7.lisp.git
