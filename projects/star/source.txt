@@ -1,0 +1,1 @@
+git https://tfeb.org/computer/repos/star.git
