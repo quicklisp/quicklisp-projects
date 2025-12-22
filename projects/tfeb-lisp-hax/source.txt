@@ -1,1 +1,1 @@
-git https://github.com/tfeb/tfeb-lisp-hax.git
+git https://tfeb.org/computer/repos/tfeb-lisp-hax.git

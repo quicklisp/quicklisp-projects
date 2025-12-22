@@ -1,1 +1,1 @@
-git https://github.com/tfeb/conduit-packages.git
+git https://tfeb.org/computer/repos/conduit-packages.git
