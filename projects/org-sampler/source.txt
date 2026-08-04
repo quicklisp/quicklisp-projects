@@ -1,1 +1,1 @@
-http http://nst.maraist.org/download/org-sampler-latest.tar.gz
+git https://github.com/jphmrst/cl-org-sampler.git
